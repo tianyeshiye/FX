@@ -1,0 +1,78 @@
+package ty.fx.ohlc;
+
+public class TimeDataBean {
+
+	private String timeYMDHM;
+	private String timeH;
+	private float high;
+	private float low;
+	private float open;
+	private float close;
+	private float hlValue;
+	private float ocValue;
+
+	public String getTimeYMDHM() {
+		return timeYMDHM;
+	}
+
+	public void setTimeYMDHM(String timeYMDHM) {
+		this.timeYMDHM = timeYMDHM;
+	}
+
+	public String getTimeH() {
+		return timeH;
+	}
+
+	public void setTimeH(String timeH) {
+		this.timeH = timeH;
+	}
+
+	public float getHigh() {
+		return high;
+	}
+
+	public void setHigh(float high) {
+		this.high = high;
+	}
+
+	public float getLow() {
+		return low;
+	}
+
+	public void setLow(float low) {
+		this.low = low;
+	}
+
+	public float getOpen() {
+		return open;
+	}
+
+	public void setOpen(float open) {
+		this.open = open;
+	}
+
+	public float getClose() {
+		return close;
+	}
+
+	public void setEnd(float end) {
+		this.close = end;
+	}
+
+	public float getHlValue() {
+		return hlValue;
+	}
+
+	public void setHlValue(float hlValue) {
+		this.hlValue = hlValue;
+	}
+
+	public float getSeValue() {
+		return ocValue;
+	}
+
+	public void setSeValue(float seValue) {
+		this.ocValue = seValue;
+	}
+
+}

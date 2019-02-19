@@ -1,0 +1,9 @@
+1550589799480	Delete element
+1550590527681	Rename field 'start'
+1550590536262	Rename field 'end'
+1550590595637	Rename method 'getStart'
+1550590604612	Rename method 'setStart'
+1550590619776	Rename method 'getEnd'
+1550590628003	Rename method 'setEnd'
+1550590648844	Rename method 'getSeValue'
+1550590658487	Rename method 'setSeValue'
