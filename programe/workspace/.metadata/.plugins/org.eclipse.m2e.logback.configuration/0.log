@@ -315,3 +315,311 @@
 2019-02-20 01:57:48,006 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
 2019-02-20 01:57:48,008 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-02-20 01:57:48,008 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:05:52,812 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:05:52,851 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:05:52,854 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:05:52,854 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:08:12,630 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:08:12,630 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:08:12,632 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:08:12,632 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:08:47,380 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:08:47,380 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:08:47,381 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:08:47,382 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:09:12,343 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:09:12,344 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:09:12,345 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:09:12,345 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:10:15,268 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:10:15,268 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:10:15,270 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:10:15,270 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:10:27,800 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:10:27,800 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:10:27,802 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:10:27,802 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:10:43,979 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:10:43,979 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:10:43,980 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:10:43,981 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:10:59,697 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:10:59,697 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:10:59,701 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:10:59,701 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:11:10,607 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:11:10,607 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:11:10,608 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:11:10,608 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:11:22,782 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:11:22,783 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:11:22,784 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:11:22,785 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:19:51,407 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:19:51,407 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:19:51,408 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:19:51,409 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:19:54,758 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:19:54,759 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:19:54,762 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:19:54,762 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:21:23,500 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:21:23,501 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:21:23,502 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:21:23,502 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:21:37,230 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:21:37,230 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:21:37,231 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:21:37,231 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:21:55,594 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:21:55,594 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:21:55,595 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:21:55,596 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:22:05,751 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:22:05,751 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:22:05,754 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:22:05,755 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:22:20,837 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:22:20,837 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:22:20,839 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:22:20,839 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:22:36,768 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:22:36,768 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:22:36,770 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:22:36,770 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:35:08,909 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:35:08,910 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:35:08,910 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:35:08,911 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:36:13,472 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:36:13,473 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:36:13,474 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:36:13,475 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:36:16,152 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:36:16,153 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:36:16,153 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:36:16,154 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:38:43,412 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:38:43,412 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:38:43,414 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:38:43,414 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:38:45,531 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:38:45,532 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:38:45,533 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:38:45,533 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:40:25,144 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:40:25,144 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:40:25,145 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:40:25,145 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:40:55,548 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:40:55,548 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:40:55,550 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:40:55,550 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:40:58,618 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:40:58,618 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:40:58,620 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:40:58,620 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:41:16,179 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:41:16,179 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:41:16,180 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:41:16,181 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:46:43,632 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:46:43,632 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:46:43,633 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:46:43,633 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:47:02,172 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:47:02,173 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:47:02,174 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:47:02,174 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:47:23,568 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:47:23,569 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:47:23,569 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:47:23,570 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:47:34,781 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:47:34,782 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:47:34,783 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:47:34,783 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:47:49,549 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:47:49,549 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:47:49,551 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:47:49,551 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:48:01,444 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:48:01,445 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:48:01,446 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:48:01,446 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:48:12,585 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:48:12,585 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:48:12,586 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:48:12,586 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:51:10,449 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:51:10,449 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:51:10,450 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:51:10,451 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:51:47,432 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:51:47,433 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:51:47,434 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:51:47,434 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:52:03,631 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:52:03,632 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:52:03,633 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:52:03,633 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:52:12,247 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:52:12,247 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:52:12,249 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:52:12,249 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:52:28,101 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:52:28,101 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:52:28,102 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:52:28,103 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:52:49,365 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:52:49,365 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:52:49,367 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:52:49,367 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:53:05,545 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:53:05,545 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:53:05,546 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:53:05,546 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:53:19,005 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:53:19,006 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:53:19,007 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:53:19,007 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:53:32,418 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:53:32,418 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:53:32,420 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:53:32,420 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:53:56,474 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:53:56,474 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:53:56,475 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:53:56,475 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:57:08,319 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:57:08,319 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:57:08,320 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:57:08,320 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:57:17,489 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:57:17,489 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:57:17,490 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:57:17,491 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:57:23,228 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:57:23,229 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:57:23,230 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:57:23,230 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 00:59:45,018 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:59:45,018 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 00:59:45,020 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 00:59:45,020 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:01:11,532 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:01:11,532 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:01:11,533 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:01:11,533 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:01:23,696 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:01:23,697 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:01:23,698 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:01:23,698 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:01:34,937 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:01:34,938 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:01:34,938 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:01:34,938 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:01:44,676 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:01:44,676 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:01:44,677 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:01:44,677 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:02:09,281 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:02:09,281 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:02:09,282 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:02:09,282 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:07:28,908 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:07:28,909 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:07:28,910 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:07:28,910 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:07:41,212 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:07:41,213 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:07:41,214 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:07:41,214 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:07:49,062 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:07:49,063 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:07:49,064 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:07:49,064 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:08:04,270 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:08:04,270 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:08:04,271 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:08:04,271 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:08:12,855 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:08:12,855 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:08:12,856 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:08:12,857 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:08:21,859 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:08:21,859 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:08:21,860 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:08:21,861 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:08:30,909 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:08:30,909 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:08:30,910 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:08:30,910 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:08:46,254 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:08:46,254 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:08:46,255 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:08:46,255 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:13:55,756 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:13:55,756 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:13:55,757 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:13:55,758 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:14:09,518 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:14:09,518 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:14:09,519 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:14:09,519 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:14:53,065 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:14:53,065 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:14:53,067 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:14:53,067 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:15:19,224 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:15:19,225 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:15:19,225 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:15:19,225 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:15:34,179 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:15:34,180 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:15:34,181 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:15:34,181 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:15:45,283 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:15:45,283 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:15:45,284 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:15:45,284 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:15:55,934 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:15:55,934 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:15:55,935 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:15:55,935 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:16:16,063 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:16:16,063 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:16:16,063 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:16:16,063 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:17:06,504 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:17:06,505 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:17:06,505 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:17:06,506 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:17:43,493 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:17:43,494 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:17:43,495 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:17:43,495 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:17:55,517 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:17:55,518 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:17:55,519 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:17:55,519 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:18:06,888 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:18:06,889 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:18:06,890 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:18:06,890 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:18:16,415 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:18:16,415 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:18:16,417 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:18:16,417 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:18:26,766 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:18:26,766 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:18:26,767 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:18:26,767 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:18:38,812 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:18:38,812 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:18:38,813 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:18:38,813 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-02-21 01:18:50,471 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:18:50,471 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-02-21 01:18:50,472 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-02-21 01:18:50,472 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources

@@ -8,6 +8,16 @@ public class ResultBean {
 	private int count;
 	private String persent;
 
+	private float averageV;
+
+	public float getAverageV() {
+		return averageV;
+	}
+
+	public void setAverageV(float averageV) {
+		this.averageV = averageV;
+	}
+
 	public String getTime() {
 		return time;
 	}

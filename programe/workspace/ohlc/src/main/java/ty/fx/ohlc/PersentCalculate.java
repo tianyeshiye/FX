@@ -22,15 +22,39 @@ public class PersentCalculate {
 		PersentCalculate calculate = new PersentCalculate();
 
 		float floatValue;
-		
-		
-		List<TimeDataBean> inputdataList = calculate.getInputData("data/GBPUSDH1.csv");
+
+		// List<TimeDataBean> inputdataList =
+		// calculate.getInputData("data/GBPUSDH1.csv");
+		//
+		// // GBPUSD
+		// floatValue = 0.005f;
+		// System.out.println("GBPUSD = " + floatValue);
+		// calculate.calculatePersent(inputdataList, floatValue);
+
+		// List<TimeDataBean> inputdataList =
+		// calculate.getInputData("data/GBPJPYH1.csv");
+		//
+		// // GBPUSD
+		// floatValue = 0.2f;
+		// System.out.println("GBPJPY = " + floatValue);
+		// calculate.calculatePersent(inputdataList, floatValue);
+
+		// List<TimeDataBean> inputdataList =
+		// calculate.getInputData("data/JP225H1.csv");
+		//
+		// // GBPUSD
+		// floatValue = 110f;
+		// System.out.println("JP225 = " + floatValue);
+		// calculate.calculatePersent(inputdataList, floatValue);
+
+		List<TimeDataBean> inputdataList = calculate.getInputData("data/EURUSDH1.csv");
 
 		// GBPUSD
-		floatValue = 0.0055f;
-		System.out.println("GBPUSD = " + floatValue);
+		floatValue = 0.004f;
+		System.out.println("EURUSD = " + floatValue);
 		calculate.calculatePersent(inputdataList, floatValue);
-		
+
+		calculate.average(inputdataList);
 	}
 
 	private List<TimeDataBean> getInputData(String filepath) {
@@ -84,6 +108,31 @@ public class PersentCalculate {
 		return list;
 	}
 
+	private void average(List<TimeDataBean> inputdataList) {
+
+		Map<String, List<TimeDataBean>> groupByList = inputdataList.stream()
+				.collect(Collectors.groupingBy(TimeDataBean::getTimeH));
+
+		List<ResultBean> resultBeanList = new ArrayList<ResultBean>();
+
+		groupByList.forEach((time, beanList) -> {
+
+			ResultBean resultBean = new ResultBean();
+
+			resultBean.setTime(time);
+			resultBean.setAverageV(getAverageValue(beanList));
+
+			resultBeanList.add(resultBean);
+		});
+
+		AverageComparator compareAverage = new AverageComparator();
+		Collections.sort(resultBeanList, compareAverage);
+
+		resultBeanList.forEach(resultBean -> {
+			System.out.println(resultBean.getTime() + "," + resultBean.getAverageV());
+		});
+	}
+
 	private void calculatePersent(List<TimeDataBean> inputdataList, float minFloat) {
 
 		List<TimeDataBean> filterList = new ArrayList<TimeDataBean>();
@@ -133,7 +182,7 @@ public class PersentCalculate {
 		});
 
 		System.out.println(inputdataList.size());
-		System.out.println(filterList.size());
+		System.out.println(filterList.size() + " ---  " + present(filterList.size(), inputdataList.size()));
 
 		resultBeanList.forEach(resultBean -> {
 			System.out.println(resultBean.getTime() + "," + resultBean.getPersent() + "," + resultBean.getCount() + ","
@@ -182,6 +231,20 @@ public class PersentCalculate {
 		@Override
 		public int compare(TimeDataBean bean1, TimeDataBean bean2) {
 			double diff = Math.abs(bean1.getOcValue()) - Math.abs(bean2.getOcValue());
+			if (diff > 0) {
+				return -1;
+			} else if (diff < 0) {
+				return 1;
+			}
+			return 0;
+		}
+	}
+
+	public class AverageComparator implements Comparator<ResultBean> {
+
+		@Override
+		public int compare(ResultBean bean1, ResultBean bean2) {
+			double diff = Math.abs(bean1.getAverageV()) - Math.abs(bean2.getAverageV());
 			if (diff > 0) {
 				return -1;
 			} else if (diff < 0) {
