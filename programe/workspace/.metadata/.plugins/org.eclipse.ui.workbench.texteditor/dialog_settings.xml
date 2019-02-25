@@ -2,22 +2,37 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="present" key="selection"/>
+		<item value="jinChangType" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="present"/>
+			<item value="jinChangType"/>
+			<item value="jpy"/>
+			<item value="GBPJPY"/>
+			<item value="5"/>
+			<item value="outputList"/>
+			<item value="System.out"/>
+			<item value="output.xlsx"/>
+			<item value="instance."/>
 		</list>
 		<list key="replacehistory">
+			<item value="GBPUSD"/>
+			<item value="logList"/>
+			<item value="GBPJPY.xlsx"/>
+			<item value="GBPJPYMacdStop.xlsx"/>
+			<item value="outputMacdStop.xlsx"/>
+			<item value="Macds."/>
+			<item value="Macds.printSortResult"/>
+			<item value="Macds.getInputData"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item value="356" key="DIALOG_WIDTH"/>
+		<item value="567" key="DIALOG_WIDTH"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 		<item value="454" key="DIALOG_HEIGHT"/>
-		<item value="1355" key="DIALOG_X_ORIGIN"/>
-		<item value="226" key="DIALOG_Y_ORIGIN"/>
+		<item value="1204" key="DIALOG_X_ORIGIN"/>
+		<item value="309" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>

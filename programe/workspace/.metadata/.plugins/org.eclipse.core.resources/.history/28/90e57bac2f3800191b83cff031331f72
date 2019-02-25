@@ -1,0 +1,57 @@
+package ty.fx.macd;
+
+public class MacdResultBean extends MacdDataBean{
+
+	private String inOutType;
+	
+	private String yK;
+	
+	public MacdResultBean(String type, String yk, MacdDataBean bean) {
+		this.inOutType = type;
+		this.yK = yk;
+		
+		this.timeYMDHM = bean.getTimeYMDHM();
+		this.timeH= bean.getTimeH();
+		this.high= bean.getHigh();
+		this.low= bean.getLow();
+		this.open= bean.getOpen();
+		this.close= bean.getClose();
+
+		this.slowEMA= bean.getSlowEMA();
+		this.fastEMA= bean.getFastEMA();
+
+		this.dif= bean.getDif();
+		this.dea= bean.getDea();
+	}
+	
+	public String toString() {
+		return "" + inOutType + ", " + 
+				"  " + yK + ", " + 
+				"timeYMDHM:" + timeYMDHM + ", " + 
+				"timeH:" + timeH + ", " + 
+				"high:" + high + ", " + 
+				"low:" + low + ", " + 
+				"open:" + open + ", " +
+				"close:" + close;
+	}
+	
+
+	public String getInOutType() {
+		return inOutType;
+	}
+
+	public void setInOutType(String inOutType) {
+		this.inOutType = inOutType;
+	}
+
+	public String getYK() {
+		return yK;
+	}
+
+	public void setYK(String yK) {
+		this.yK = yK;
+	}
+	
+	
+	
+}

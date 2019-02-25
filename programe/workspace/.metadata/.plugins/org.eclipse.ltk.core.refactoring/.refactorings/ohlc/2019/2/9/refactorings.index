@@ -1,0 +1,22 @@
+1551009409273	Rename field 'dataFormat'
+1551012686865	Rename type 'pointComparator'
+1551012988108	Rename local variable 'list'
+1551023163428	Rename method 'printResult'
+1551023203284	Rename local variable 'resultList'
+1551029103003	Rename type 'Test'
+1551029239293	Copy compilation unit
+1551030416463	Copy compilation unit
+1551030430018	Rename type 'Macd2'
+1551030973591	Copy compilation unit
+1551032268909	Copy compilation unit
+1551032290151	Rename type 'Macd1'
+1551105953078	Move compilation unit
+1551105959265	Move compilation unit
+1551106184013	Move compilation unit
+1551107577931	Rename enum constant 'CHU_KONG'
+1551107912667	Copy compilation unit
+1551108002901	Rename type 'MaiMaiType'
+1551108080472	Rename type 'JiaoYiType'
+1551110877671	Copy compilation unit
+1551111399835	Copy compilation unit
+1551112868135	Delete element

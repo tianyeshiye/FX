@@ -1,63 +1,17 @@
 package ty.fx.ohlc;
 
-public class TimeDataBean {
+import ty.fx.bean.TimeDataBaseBean;
 
-	private String timeYMDHM;
-	private String timeH;
-	private float high;
-	private float low;
-	private float open;
-	private float close;
-	private float hlValue;
-	private float ocValue;
+public class TimeDataBean extends TimeDataBaseBean {
 
-	public String getTimeYMDHM() {
-		return timeYMDHM;
-	}
-
-	public void setTimeYMDHM(String timeYMDHM) {
-		this.timeYMDHM = timeYMDHM;
-	}
-
-	public String getTimeH() {
-		return timeH;
-	}
-
-	public void setTimeH(String timeH) {
-		this.timeH = timeH;
-	}
-
-	public float getHigh() {
-		return high;
-	}
-
-	public void setHigh(float high) {
-		this.high = high;
-	}
-
-	public float getLow() {
-		return low;
-	}
-
-	public void setLow(float low) {
-		this.low = low;
-	}
-
-	public float getOpen() {
-		return open;
-	}
-
-	public void setOpen(float open) {
-		this.open = open;
-	}
-
-	public float getClose() {
-		return close;
-	}
-
-	public void setClose(float close) {
-		this.close = close;
-	}
+	// private String timeYMDHM;
+	// private String timeH;
+	// private float high;
+	// private float low;
+	// private float open;
+	// private float close;
+	protected float hlValue;
+	protected float ocValue;
 
 	public float getHlValue() {
 		return hlValue;

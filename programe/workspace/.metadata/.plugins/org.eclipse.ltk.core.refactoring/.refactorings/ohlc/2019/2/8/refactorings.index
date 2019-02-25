@@ -8,3 +8,12 @@
 1550590648844	Rename method 'getSeValue'
 1550590658487	Rename method 'setSeValue'
 1550679235511	Rename resource 'AUDUSDH1csv.csv'
+1550850262812	Rename field 'faseEMA'
+1550850292935	Rename method 'getFaseEMA'
+1550850300078	Rename method 'setFaseEMA'
+1550850306841	Rename local variable 'faseEMA'
+1550854963519	Rename local variable 'value'
+1550859675327	Rename resource 'AUDUSDH1csv'
+1550935517497	Copy compilation unit
+1550935532725	Rename type 'TimeDataBean'
+1550936759346	Rename local variable 'macd'

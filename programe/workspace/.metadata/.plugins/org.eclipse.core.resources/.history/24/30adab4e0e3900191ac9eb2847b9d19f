@@ -1,0 +1,30 @@
+package ty.fx.bean;
+
+public enum MaiMaiType {
+
+	DUO("1", "买"), KONG("2", "卖");
+	
+	private String value;
+    private String desc;
+
+    public String getValue() {
+        return value;
+    }
+
+    public void setValue(String value) {
+        this.value = value;
+    }
+
+    public String getDesc() {
+        return desc;
+    }
+
+    public void setDesc(String desc) {
+        this.desc = desc;
+    }
+
+    private MaiMaiType(String value, String desc) {
+        this.value = value;
+		this.desc = desc;
+	}
+}

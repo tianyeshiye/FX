@@ -1,0 +1,5 @@
+package ty.fx.bean;
+
+public enum MaiMaiType {
+
+}
