@@ -1,0 +1,11 @@
+package ty.fx.utils;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.Writer;
+import java.util.List;
+
+public class FileUtils {
+
+}

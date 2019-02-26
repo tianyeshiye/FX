@@ -3,13 +3,17 @@ package ty.fx.macd;
 import java.util.ArrayList;
 import java.util.List;
 
+import ty.fx.macd.bean.MacdDataBean;
+import ty.fx.macd.bean.MacdResultBean;
 import ty.fx.macd.ea.Macd;
+import ty.fx.macd.ea.Macds;
 import ty.fx.utils.ExcelFileUtils;
+import ty.fx.utils.InputFileUtils;
 
 public class GBPUSD {
 
 	public static void main(String[] args) throws Exception {
-		
+
 		GBPUSD GBPUSD = new GBPUSD();
 
 		GBPUSD.test();
@@ -37,16 +41,16 @@ public class GBPUSD {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = Macds.getInputData("data/GBPUSDH1.csv");
+		macdList = InputFileUtils.getInputData("data/GBPUSDH1.csv");
 		Macds.calculateMacd(macdList, 12, 26, 9);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
 		printSortList = Macds.printSortResult(resulList);
 
-		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "GBPUSDH1-12");
-		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "GBPUSDH1-sort-12");
-		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "GBPUSDH1-log-12");
+		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "H1-12");
+		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "H1-sort-12");
+		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "H1-log-12");
 
 		// **********
 		// ********** GBPUSDH4-12-h4
@@ -58,16 +62,16 @@ public class GBPUSD {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = Macds.getInputData("data/GBPUSDH4.csv");
+		macdList = InputFileUtils.getInputData("data/GBPUSDH4.csv");
 		Macds.calculateMacd(macdList, 12, 26, 9);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
 		printSortList = Macds.printSortResult(resulList);
 
-		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "GBPUSDH4-12");
-		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "GBPUSDH4-sort-12");
-		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "GBPUSDH4-log-12");
+		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "H4-12");
+		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "H4-sort-12");
+		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "H4-log-12");
 
 		// **********
 		// ********** GBPUSDH4-12-D1
@@ -79,16 +83,16 @@ public class GBPUSD {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = Macds.getInputData("data/GBPUSDD1.csv");
+		macdList = InputFileUtils.getInputData("data/GBPUSDD1.csv");
 		Macds.calculateMacd(macdList, 12, 26, 9);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
 		printSortList = Macds.printSortResult(resulList);
 
-		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "GBPUSDD1-12");
-		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "GBPUSDD1-sort-12");
-		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "GBPUSDD1-log-12");
+		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "D1-12");
+		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "D1-sort-12");
+		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "D1-log-12");
 
 		// **********
 		// ********** GBPUSDH1-30-h1
@@ -100,16 +104,16 @@ public class GBPUSD {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = Macds.getInputData("data/GBPUSDH1.csv");
+		macdList = InputFileUtils.getInputData("data/GBPUSDH1.csv");
 		Macds.calculateMacd(macdList, 30, 65, 23);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
 		printSortList = Macds.printSortResult(resulList);
 
-		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "GBPUSDH1-30");
-		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "GBPUSDH1-sort-30");
-		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "GBPUSDH1-log-30");
+		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "H1-30");
+		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "H1-sort-30");
+		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "H1-log-30");
 
 		// **********
 		// ********** GBPUSDH4-30-h4
@@ -121,16 +125,16 @@ public class GBPUSD {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = Macds.getInputData("data/GBPUSDH4.csv");
+		macdList = InputFileUtils.getInputData("data/GBPUSDH4.csv");
 		Macds.calculateMacd(macdList, 30, 65, 23);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
 		printSortList = Macds.printSortResult(resulList);
 
-		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "GBPUSDH4-30");
-		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "GBPUSDH4-sort-30");
-		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "GBPUSDH4-log-30");
+		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "H4-30");
+		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "H4-sort-30");
+		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "H4-log-30");
 
 		// **********
 		// ********** GBPUSDH4-30-D1
@@ -142,15 +146,15 @@ public class GBPUSD {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = Macds.getInputData("data/GBPUSDD1.csv");
+		macdList = InputFileUtils.getInputData("data/GBPUSDD1.csv");
 		Macds.calculateMacd(macdList, 30, 65, 23);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
 		printSortList = Macds.printSortResult(resulList);
 
-		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "GBPUSDD1-30");
-		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "GBPUSDD1-sort-30");
-		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "GBPUSDD1-log-30");
+		ExcelFileUtils.writeExcel(printList, "output/GBPUSD.xlsx", "D1-30");
+		ExcelFileUtils.writeExcel(printSortList, "output/GBPUSD.xlsx", "D1-sort-30");
+		ExcelFileUtils.writeExcel(logList, "output/GBPUSD.xlsx", "D1-log-30");
 	}
 }

@@ -5,9 +5,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import ty.fx.bean.TradeType;
-import ty.fx.macd.MacdDataBean;
-import ty.fx.macd.MacdResultBean;
-import ty.fx.macd.Macds;
+import ty.fx.macd.bean.MacdDataBean;
+import ty.fx.macd.bean.MacdResultBean;
 
 public class MacdWithStop {
 

@@ -4,7 +4,6 @@
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.math.RoundingMode"/>
 <fullyQualifiedTypeName name="java.math.MathContext"/>
-<fullyQualifiedTypeName name="ty.fx.bean.TimeDataBaseBean"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.io.Writer"/>
@@ -18,4 +17,6 @@
 <fullyQualifiedTypeName name="ty.fx.utils.ExcelFileUtils"/>
 <fullyQualifiedTypeName name="ty.fx.bean.MaiMaiType"/>
 <fullyQualifiedTypeName name="ty.fx.macd.ea.MacdWithStop"/>
+<fullyQualifiedTypeName name="ty.fx.utils.InputFileUtils"/>
+<fullyQualifiedTypeName name="ty.fx.bean.TimeDataBaseBean"/>
 </qualifiedTypeNameHistroy>

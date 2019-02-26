@@ -1,0 +1,22 @@
+package ty.fx.ohlc.ea;
+
+import java.util.List;
+
+import ty.fx.macd.bean.MacdDataBean;
+import ty.fx.macd.bean.MacdResultBean;
+
+public class AverageValue {
+
+	
+	public float ea(List<MacdDataBean> beanList) {
+		
+		double sum = 0;
+		
+		for(int i = 0; i < beanList.size(); i++) {
+			
+			
+		}
+		
+	}
+	
+}

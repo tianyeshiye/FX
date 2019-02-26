@@ -1,0 +1,39 @@
+package ty.fx.ohlc.ea;
+
+import java.math.BigDecimal;
+import java.util.List;
+
+import ty.fx.macd.bean.MacdDataBean;
+import ty.fx.macd.bean.MacdResultBean;
+
+public class AverageValue {
+
+	public AverageValue(int decimalPointPara) {
+		DECIMAL_POINT = decimalPointPara;
+	}
+
+	public static int DECIMAL_POINT = 0;
+	
+	public float ea(List<MacdDataBean> beanList) {
+		
+		BigDecimal sum = new BigDecimal(0).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);;
+		
+		for(int i = 0; i < beanList.size(); i++) {
+			
+			MacdDataBean bean = beanList.get(i);
+
+			BigDecimal high = new BigDecimal(bean.getHigh()).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
+			BigDecimal low = new BigDecimal(bean.getLow()).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
+			
+			BigDecimal differ = high.subtract(low);
+			
+			sum = sum.add(differ);
+		}
+		
+		
+		
+		
+		
+	}
+	
+}

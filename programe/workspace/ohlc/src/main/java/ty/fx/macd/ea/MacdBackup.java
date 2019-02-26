@@ -15,8 +15,8 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 
-import ty.fx.macd.MacdDataBean;
-import ty.fx.macd.MacdResultBean;
+import ty.fx.macd.bean.MacdDataBean;
+import ty.fx.macd.bean.MacdResultBean;
 import ty.fx.utils.ExcelFileUtils;
 
 public class MacdBackup {
