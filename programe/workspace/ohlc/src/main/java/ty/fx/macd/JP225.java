@@ -55,7 +55,7 @@ public class JP225 {
 		// **********
 		// ********** JP225H4-12-h4
 		System.out.println("----------------------------------------");
-		System.out.println("JP225H1-12-h4");
+		System.out.println("JP225H4-12-h4");
 		logList = new ArrayList<String>();
 		printList = new ArrayList<String>();
 		printSortList = new ArrayList<String>();
@@ -76,7 +76,7 @@ public class JP225 {
 		// **********
 		// ********** JP225H4-12-D1
 		System.out.println("----------------------------------------");
-		System.out.println("JP225H1-12-D1");
+		System.out.println("JP225D1-12-D1");
 		logList = new ArrayList<String>();
 		printList = new ArrayList<String>();
 		printSortList = new ArrayList<String>();
@@ -118,7 +118,7 @@ public class JP225 {
 		// **********
 		// ********** JP225H4-30-h4
 		System.out.println("----------------------------------------");
-		System.out.println("JP225H1-30-h4");
+		System.out.println("JP225H4-30-h4");
 		logList = new ArrayList<String>();
 		printList = new ArrayList<String>();
 		printSortList = new ArrayList<String>();
@@ -139,7 +139,7 @@ public class JP225 {
 		// **********
 		// ********** JP225H4-30-D1
 		System.out.println("----------------------------------------");
-		System.out.println("JP225H1-30-D1");
+		System.out.println("JP225D1-30-D1");
 		logList = new ArrayList<String>();
 		printList = new ArrayList<String>();
 		printSortList = new ArrayList<String>();

@@ -3,6 +3,7 @@ package ty.fx.macd.ea;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 import ty.fx.bean.TradeType;
 import ty.fx.macd.bean.MacdDataBean;
@@ -19,6 +20,13 @@ public class Macd {
 	int win = 0;
 	int lose = 0;
 	float fuKui = 0;
+	int times = 0;
+
+	List<Integer> winTimeList = new ArrayList<Integer>();
+	List<Integer> loseTimeList = new ArrayList<Integer>();
+	
+	List<Float> winPointList = new ArrayList<Float>();
+	List<Float> losePointList = new ArrayList<Float>();
 
 	private MacdDataBean jinChangBean = null;
 	private TradeType jinChangType = null; // "买， 卖"
@@ -27,6 +35,13 @@ public class Macd {
 		win = 0;
 		lose = 0;
 		fuKui = 0;
+		times = 0;
+
+		winTimeList = new ArrayList<Integer>();
+		loseTimeList = new ArrayList<Integer>();
+		
+		winPointList = new ArrayList<Float>();
+		losePointList = new ArrayList<Float>();
 
 		jinChangBean = null;
 		jinChangType = null;
@@ -39,6 +54,8 @@ public class Macd {
 		List<String> logList = new ArrayList<String>();
 
 		for (int i = 0; i < beanList.size(); i++) {
+
+			this.times++;
 
 			MacdDataBean before1Bean;
 			MacdDataBean before2Bean;
@@ -83,18 +100,35 @@ public class Macd {
 			}
 		}
 
-		logList.add("win," + win);
-		logList.add("lose," + lose);
+		int winAverage = winTimeList.stream().collect(Collectors.averagingInt(i -> i)).intValue();
+		int loseAverage = loseTimeList.stream().collect(Collectors.averagingInt(i -> i)).intValue();
+		logList.add("winAverage:," + winAverage);
+		logList.add("loseAverage:," + loseAverage);
+		
+		float winAveragePoint = winPointList.stream().collect(Collectors.averagingDouble(i -> i)).floatValue();
+		float loseAveragePoint = losePointList.stream().collect(Collectors.averagingDouble(i -> i)).floatValue();
+		logList.add("winAveragePoint:," + winAveragePoint);
+		logList.add("loseAveragePoint:," + loseAveragePoint);
+		
+		logList.add("win:," + win);
+		logList.add("lose:," + lose);
 
 		BigDecimal winR = new BigDecimal(win).setScale(0, BigDecimal.ROUND_DOWN);
 		BigDecimal totalR = new BigDecimal(win + lose).setScale(0, BigDecimal.ROUND_DOWN);
 		float rate = winR.divide(totalR, 2, BigDecimal.ROUND_DOWN).floatValue();
 
-		logList.add("rate," + rate);
-		logList.add("fuKui," + fuKui);
+		logList.add("rate:," + rate);
+		logList.add("fuKui:," + fuKui);
 
+		System.out.println("winAverage:" + winAverage);
+		System.out.println("loseAverage:" + loseAverage);
+		
+		System.out.println("winAveragePoint:" + winAveragePoint);
+		System.out.println("loseAveragePoint:" + loseAveragePoint);
+		
 		System.out.println("win:" + win);
 		System.out.println("lose:" + lose);
+		
 		System.out.println("rate:" + rate);
 		System.out.println("fuKui:" + fuKui);
 
@@ -106,6 +140,8 @@ public class Macd {
 		// 进场
 		this.jinChangBean = currentBean;
 		this.jinChangType = type;
+
+		this.times = 0;
 
 		logList.add(type.getDesc() + "," + currentBean.toString());
 	}
@@ -136,13 +172,19 @@ public class Macd {
 		if (jiesuan >= 0) {
 			// win
 			win++;
-			logList.add(type.getDesc() + "," + currentBean.toString() + ",盈" + ",1");
+			winTimeList.add(this.times);
+			winPointList.add(jiesuan);
+
+			logList.add(type.getDesc() + "," + currentBean.toString() + ",盈" + ",1" + "," + this.times);
 
 			MacdResultBean macdResultBean = new MacdResultBean(type.getDesc(), "盈", jiesuan, currentBean);
 			resulList.add(macdResultBean);
 		} else {
 			lose++;
-			logList.add(type.getDesc() + "," + currentBean.toString() + ",亏" + ",-1");
+			loseTimeList.add(this.times);
+			losePointList.add(jiesuan);
+
+			logList.add(type.getDesc() + "," + currentBean.toString() + ",亏" + ",-1" + "," + this.times);
 
 			MacdResultBean macdResultBean = new MacdResultBean(type.getDesc(), "亏", jiesuan, currentBean);
 			resulList.add(macdResultBean);

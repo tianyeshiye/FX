@@ -19,4 +19,5 @@
 <fullyQualifiedTypeName name="ty.fx.macd.ea.MacdWithStop"/>
 <fullyQualifiedTypeName name="ty.fx.utils.InputFileUtils"/>
 <fullyQualifiedTypeName name="ty.fx.bean.TimeDataBaseBean"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 </qualifiedTypeNameHistroy>
