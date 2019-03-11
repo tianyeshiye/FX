@@ -1,6 +1,0 @@
-package ty.fx.bean;
-
-public enum MaiMaiType {
-
-	DUO("1", "买"), KONG("2", "卖");
-}

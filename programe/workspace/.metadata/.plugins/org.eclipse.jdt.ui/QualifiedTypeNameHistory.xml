@@ -20,4 +20,5 @@
 <fullyQualifiedTypeName name="ty.fx.utils.InputFileUtils"/>
 <fullyQualifiedTypeName name="ty.fx.bean.TimeDataBaseBean"/>
 <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="ty.fx.bean.MacdCrossType"/>
 </qualifiedTypeNameHistroy>

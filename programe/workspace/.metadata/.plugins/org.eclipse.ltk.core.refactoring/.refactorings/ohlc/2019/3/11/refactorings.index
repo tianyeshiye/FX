@@ -1,0 +1,20 @@
+1552188511555	Copy compilation unit
+1552191417087	Rename field 'times'
+1552191443127	Rename field 'winTimeList'
+1552191450664	Rename field 'loseTimeList'
+1552191486343	Rename local variable 'winAverage'
+1552191498927	Rename local variable 'loseAverage'
+1552191895847	Rename type 'MacdZhengFuQieHuan'
+1552191909685	Rename local variable 'macdZhengFuQieHuan'
+1552192179288	Rename type 'Macd'
+1552192264195	Rename type 'MacdPostiveNegativeSwitch'
+1552208199850	Delete element
+1552208223876	Delete element
+1552208231569	Delete element
+1552208240170	Delete elements
+1552208261907	Delete elements
+1552208309954	Copy compilation unit
+1552218294612	Copy compilation unit
+1552218307283	Rename local variable 'macdPostiveNegativeSwitch'
+1552218991619	Copy compilation unit
+1552219043113	Rename type 'MacdCross'
