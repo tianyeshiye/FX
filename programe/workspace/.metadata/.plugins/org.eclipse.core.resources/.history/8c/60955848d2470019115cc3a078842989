@@ -1,0 +1,174 @@
+package ty.fx.macd.ea;
+
+import java.math.BigDecimal;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
+import ty.fx.bean.MacdCrossType;
+import ty.fx.bean.TradeType;
+import ty.fx.macd.bean.MacdDataBean;
+import ty.fx.macd.bean.MacdResultBean;
+
+public class MacdGoldDeadCrossSwitch extends MacdParaent {
+
+	public MacdGoldDeadCrossSwitch(int decimalPointPara) {
+		DECIMAL_POINT = decimalPointPara;
+	}
+
+	private MacdCrossType currentMacdCrossType = MacdCrossType.NULL;
+
+	private void initData() {
+		win = 0;
+		lose = 0;
+		fuKui = 0;
+		timesInterval = 0;
+
+		winTimeIntervalList = new ArrayList<Integer>();
+		loseTimeIntervalList = new ArrayList<Integer>();
+
+		winPointList = new ArrayList<Float>();
+		losePointList = new ArrayList<Float>();
+
+		jinChangBean = null;
+		jinChangType = null;
+	}
+
+	private boolean isGoldCross(MacdCrossType gold) {
+
+		if (gold.equals(MacdCrossType.GOLD) || gold.equals(MacdCrossType.NULL)) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	private boolean isDeadCross(MacdCrossType dead) {
+
+		if (dead.equals(MacdCrossType.DEAD) || dead.equals(MacdCrossType.NULL)) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public boolean isBull(MacdDataBean currentBean) {
+
+		if (currentBean.getDif() > currentBean.getDea() && isDeadCross(currentMacdCrossType)) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+	
+	public boolean isBear(MacdDataBean currentBean) {
+		
+		if (currentBean.getDif() < currentBean.getDea() && isGoldCross(currentMacdCrossType)) {
+			
+			currentMacdCrossType = MacdCrossType.GOLD;
+			return true;
+		} else {
+			return false;
+		}
+	}
+	
+	public List<String> ea(List<MacdDataBean> beanList, List<MacdResultBean> resulList) {
+
+		initData();
+
+		List<String> logList = new ArrayList<String>();
+
+		for (int i = 0; i < beanList.size(); i++) {
+
+			this.timesInterval++;
+
+			MacdDataBean before1Bean;
+			MacdDataBean before2Bean;
+
+			if (i == 0) {
+				before1Bean = Macds.getNullBean();
+				before2Bean = Macds.getNullBean();
+			} else if (i == 1) {
+
+				before1Bean = beanList.get(0);
+				before2Bean = Macds.getNullBean();
+			} else {
+				before1Bean = beanList.get(i - 1);
+				before2Bean = beanList.get(i - 2);
+			}
+
+			MacdDataBean currentBean = beanList.get(i);
+
+			// 金叉
+			if (currentBean.getDif() > currentBean.getDea() && isDeadCross(currentMacdCrossType)) {
+
+				currentMacdCrossType = MacdCrossType.GOLD;
+				// // 由 负 -> 正
+				// if ((currentBean.getDif() > 0 && before1Bean.getDif() == 0 &&
+				// before2Bean.getDif() < 0)
+				// || (currentBean.getDif() > 0 && before1Bean.getDif() < 0)) {
+
+				if (jinChangBean != null) {
+					// 已持有
+					// 出场 - 买
+					chuChang(currentBean, TradeType.CHU_Duo, logList, resulList);
+				}
+				// 进场 - 买
+				jinChang(currentBean, TradeType.JIN_Duo, logList);
+			}
+
+			// 死叉
+			if (currentBean.getDif() < currentBean.getDea() && isGoldCross(currentMacdCrossType)) {
+				currentMacdCrossType = MacdCrossType.DEAD;
+
+				// 由 正 -> 负
+				// if ((currentBean.getDif() < 0 && before1Bean.getDif() == 0 &&
+				// before2Bean.getDif() > 0)
+				// || (currentBean.getDif() < 0 && before1Bean.getDif() > 0)) {
+
+				if (jinChangBean != null) {
+					// 已持有
+					// 出场 - 卖
+					chuChang(currentBean, TradeType.CHU_Kong, logList, resulList);
+				}
+				// 进场 - 卖
+				jinChang(currentBean, TradeType.JIN_Kong, logList);
+			}
+		}
+
+		int winIntervalAverage = winTimeIntervalList.stream().collect(Collectors.averagingInt(i -> i)).intValue();
+		int loseIntervalAverage = loseTimeIntervalList.stream().collect(Collectors.averagingInt(i -> i)).intValue();
+		logList.add("winAverageInterval:," + winIntervalAverage);
+		logList.add("lostAverageInterval:," + loseIntervalAverage);
+
+		float winAveragePoint = winPointList.stream().collect(Collectors.averagingDouble(i -> i)).floatValue();
+		float loseAveragePoint = losePointList.stream().collect(Collectors.averagingDouble(i -> i)).floatValue();
+		logList.add("winAveragePoint:," + winAveragePoint);
+		logList.add("loseAveragePoint:," + loseAveragePoint);
+
+		logList.add("win:," + win);
+		logList.add("lose:," + lose);
+
+		BigDecimal winR = new BigDecimal(win).setScale(0, BigDecimal.ROUND_DOWN);
+		BigDecimal totalR = new BigDecimal(win + lose).setScale(0, BigDecimal.ROUND_DOWN);
+		float rate = winR.divide(totalR, 2, BigDecimal.ROUND_DOWN).floatValue();
+
+		logList.add("rate:," + rate);
+		logList.add("fuKui:," + fuKui);
+
+		System.out.println("winAverageInterval:" + winIntervalAverage);
+		System.out.println("lostAverageInterval:" + loseIntervalAverage);
+
+		System.out.println("winAveragePoint:" + winAveragePoint);
+		System.out.println("loseAveragePoint:" + loseAveragePoint);
+
+		System.out.println("win:" + win);
+		System.out.println("lose:" + lose);
+
+		System.out.println("rate:" + rate);
+		System.out.println("fuKui:" + fuKui);
+
+		return logList;
+	}
+
+}

@@ -25,45 +25,45 @@ public class MacdGoldDeadCrossSwitchDriver {
 		macdGoldDeadCrossSwitchDriver.execute("USDJPY", "H4", 3, 30, 65, 23);
 		macdGoldDeadCrossSwitchDriver.execute("USDJPY", "D1", 3, 30, 65, 23);
 
-		// EURJPY
-		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "H1", 3, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "H4", 3, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "D1", 3, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "H1", 3, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "H4", 3, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "D1", 3, 30, 65, 23);
-
-		// EURUSD
-		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "H1", 5, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "H4", 5, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "D1", 5, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "H1", 5, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "H4", 5, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "D1", 5, 30, 65, 23);
-
-		// GBPJPY
-		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "H1", 3, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "H4", 3, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "D1", 3, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "H1", 3, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "H4", 3, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "D1", 3, 30, 65, 23);
-
-		// GBPUSD
-		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "H1", 5, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "H4", 5, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "D1", 5, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "H1", 5, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "H4", 5, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "D1", 5, 30, 65, 23);
-
-		// JP225
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "H1", 2, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "H4", 2, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "D1", 2, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "H1", 2, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "H4", 2, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "D1", 2, 30, 65, 23);
+//		// EURJPY
+//		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "H1", 3, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "H4", 3, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "D1", 3, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "H1", 3, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "H4", 3, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("EURJPY", "D1", 3, 30, 65, 23);
+//
+//		// EURUSD
+//		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "H1", 5, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "H4", 5, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "D1", 5, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "H1", 5, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "H4", 5, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("EURUSD", "D1", 5, 30, 65, 23);
+//
+//		// GBPJPY
+//		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "H1", 3, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "H4", 3, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "D1", 3, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "H1", 3, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "H4", 3, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("GBPJPY", "D1", 3, 30, 65, 23);
+//
+//		// GBPUSD
+//		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "H1", 5, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "H4", 5, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "D1", 5, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "H1", 5, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "H4", 5, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "D1", 5, 30, 65, 23);
+//
+//		// JP225
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "H1", 2, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "H4", 2, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "D1", 2, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "H1", 2, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "H4", 2, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "D1", 2, 30, 65, 23);
 	}
 
 	private void execute(String currencyPair, String interval, int decimalPointPara, int macdFast, int macdSlow,

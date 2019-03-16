@@ -18,3 +18,5 @@
 1552218307283	Rename local variable 'macdPostiveNegativeSwitch'
 1552218991619	Copy compilation unit
 1552219043113	Rename type 'MacdCross'
+1552732581099	Rename method 'isGoldCross'
+1552732588682	Rename method 'isDeadCross'
