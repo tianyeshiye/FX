@@ -20,3 +20,5 @@
 1552219043113	Rename type 'MacdCross'
 1552732581099	Rename method 'isGoldCross'
 1552732588682	Rename method 'isDeadCross'
+1552750453566	Rename local variable 'maxIntervalVal'
+1552753652704	Rename local variable 'rate'

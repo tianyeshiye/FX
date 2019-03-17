@@ -8,12 +8,21 @@ public class MacdResultBean extends MacdDataBean {
 	
 	private float point;
 	
-	public float getPoint() {
-		return point;
-	}
+	private float maxPoint;
+	
+	public MacdResultBean(MacdDataBean bean) {
+		this.timeYMDHM = bean.getTimeYMDHM();
+		this.timeH= bean.getTimeH();
+		this.high= bean.getHigh();
+		this.low= bean.getLow();
+		this.open= bean.getOpen();
+		this.close= bean.getClose();
 
-	public void setPoint(float point) {
-		this.point = point;
+		this.slowEMA= bean.getSlowEMA();
+		this.fastEMA= bean.getFastEMA();
+
+		this.dif= bean.getDif();
+		this.dea= bean.getDea();
 	}
 
 	public MacdResultBean(String type, String yk, float point, MacdDataBean bean) {
@@ -58,6 +67,13 @@ public class MacdResultBean extends MacdDataBean {
 				"dea:" + dea;
 	}
 	
+	public float getPoint() {
+		return point;
+	}
+
+	public void setPoint(float point) {
+		this.point = point;
+	}
 
 	public String getInOutType() {
 		return inOutType;
@@ -75,6 +91,12 @@ public class MacdResultBean extends MacdDataBean {
 		this.yK = yK;
 	}
 	
-	
+	public float getMaxPoint() {
+		return maxPoint;
+	}
+
+	public void setMaxPoint(float maxPoint) {
+		this.maxPoint = maxPoint;
+	}
 	
 }

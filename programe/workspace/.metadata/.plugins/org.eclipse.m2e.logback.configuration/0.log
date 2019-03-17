@@ -3350,3 +3350,778 @@
 2019-03-10 22:04:31,978 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
 2019-03-10 22:04:31,979 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-03-10 22:04:31,979 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:37:22,380 [Worker-22] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:37:22,753 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:37:22,754 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:37:22,756 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:37:22,756 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:38:23,859 [Worker-13] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:38:23,864 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:38:23,865 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:38:23,866 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:38:23,866 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:38:24,925 [Worker-22] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:38:24,929 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:38:24,929 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:38:24,930 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:38:24,930 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:38:29,481 [Worker-27] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:38:29,485 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:38:29,485 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:38:29,486 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:38:29,486 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:38:39,802 [Worker-6] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:38:39,804 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:38:39,804 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:38:39,805 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:38:39,805 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:38:42,190 [Worker-22] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:38:42,193 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:38:42,194 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:38:42,194 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:38:42,195 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:39:28,653 [Worker-21] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:39:28,655 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:39:28,655 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:39:28,657 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:39:28,657 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:39:43,232 [Worker-24] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:39:43,234 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:39:43,235 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:39:43,237 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:39:43,237 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:41:09,898 [Worker-22] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:41:09,900 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:41:09,901 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:41:09,902 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:41:09,902 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:41:24,222 [Worker-6] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:41:24,225 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:41:24,226 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:41:24,226 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:41:24,227 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:41:35,863 [Worker-26] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:41:35,866 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:41:35,866 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:41:35,867 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:41:35,868 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:43:25,692 [Worker-28] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:43:25,695 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:43:25,696 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:43:25,696 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:43:25,697 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:45:30,016 [Worker-13] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:45:30,019 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:45:30,019 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:45:30,021 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:45:30,021 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:45:52,667 [Worker-28] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:45:52,671 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:45:52,672 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:45:52,673 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:45:52,673 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 18:59:39,283 [Worker-35] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 18:59:39,287 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:59:39,287 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 18:59:39,289 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 18:59:39,289 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:00:09,541 [Worker-35] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:00:09,544 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:00:09,544 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:00:09,546 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:00:09,546 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:00:19,629 [Worker-37] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:00:19,634 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:00:19,634 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:00:19,636 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:00:19,636 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:09:21,001 [Worker-35] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:09:21,003 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:09:21,004 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:09:21,005 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:09:21,006 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:13:10,130 [Worker-45] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:13:10,132 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:13:10,133 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:13:10,135 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:13:10,135 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:18:03,535 [Worker-47] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:18:03,539 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:18:03,539 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:18:03,540 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:18:03,540 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:19:25,115 [Worker-48] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:19:25,118 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:19:25,118 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:19:25,119 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:19:25,119 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:19:27,362 [Worker-47] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:19:27,366 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:19:27,366 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:19:27,367 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:19:27,368 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:20:35,995 [Worker-47] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:20:35,997 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:20:35,997 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:20:35,998 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:20:35,998 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:20:45,887 [Worker-43] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:20:45,890 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:20:45,890 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:20:45,891 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:20:45,891 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:21:02,045 [Worker-44] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:21:02,048 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:21:02,048 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:21:02,048 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:21:02,048 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:21:20,555 [Worker-48] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:21:20,559 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:21:20,559 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:21:20,560 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:21:20,560 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:21:57,519 [Worker-49] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:21:57,524 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:21:57,524 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:21:57,525 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:21:57,526 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:21:58,558 [Worker-43] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:21:58,560 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:21:58,561 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:21:58,562 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:21:58,562 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:29:08,746 [Worker-48] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:29:08,751 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:29:08,752 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:29:08,753 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:29:08,754 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:31:08,553 [Worker-50] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:31:08,556 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:31:08,557 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:31:08,558 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:31:08,558 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:32:22,077 [Worker-46] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:32:22,079 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:32:22,079 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:32:22,080 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:32:22,081 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:32:33,090 [Worker-54] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:32:33,093 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:32:33,093 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:32:33,094 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:32:33,094 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:32:51,462 [Worker-51] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:32:51,466 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:32:51,467 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:32:51,468 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:32:51,468 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:33:51,815 [Worker-51] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:33:51,818 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:33:51,818 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:33:51,819 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:33:51,819 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:36:21,251 [Worker-53] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:36:21,254 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:36:21,254 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:36:21,255 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:36:21,255 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:36:28,809 [Worker-46] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:36:28,812 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:36:28,812 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:36:28,813 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:36:28,813 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:38:33,061 [Worker-56] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:38:33,063 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:38:33,064 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:38:33,065 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:38:33,065 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:38:36,857 [Worker-59] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:38:36,859 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:38:36,859 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:38:36,860 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:38:36,860 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:53:02,951 [Worker-69] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:53:02,954 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:53:02,954 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:53:02,955 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:53:02,956 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:53:41,298 [Worker-66] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:53:41,300 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:53:41,300 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:53:41,302 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:53:41,302 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:55:14,633 [Worker-71] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:55:14,635 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:55:14,635 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:55:14,636 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:55:14,636 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:56:12,380 [Worker-69] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:56:12,383 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:56:12,384 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:56:12,385 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:56:12,385 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:56:27,825 [Worker-70] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:56:27,829 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:56:27,829 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:56:27,830 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:56:27,831 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:56:34,188 [Worker-71] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:56:34,191 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:56:34,192 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:56:34,192 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:56:34,193 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:58:00,455 [Worker-69] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:58:00,457 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:58:00,457 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:58:00,458 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:58:00,458 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:58:09,222 [Worker-69] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:58:09,224 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:58:09,224 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:58:09,225 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:58:09,225 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:58:39,409 [Worker-66] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:58:39,413 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:58:39,413 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:58:39,414 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:58:39,415 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:58:55,016 [Worker-68] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:58:55,022 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:58:55,022 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:58:55,024 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:58:55,024 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:59:04,079 [Worker-69] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:59:04,082 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:59:04,083 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:59:04,084 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:59:04,084 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:59:11,005 [Worker-72] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:59:11,009 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:59:11,009 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:59:11,010 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:59:11,010 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 19:59:20,277 [Worker-66] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 19:59:20,279 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:59:20,279 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 19:59:20,280 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 19:59:20,280 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 20:00:33,645 [Worker-61] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 20:00:33,648 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 20:00:33,648 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 20:00:33,649 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 20:00:33,649 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 20:02:48,762 [Worker-74] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 20:02:48,765 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 20:02:48,766 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 20:02:48,767 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 20:02:48,768 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 20:05:00,757 [Worker-79] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 20:05:00,759 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 20:05:00,760 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 20:05:00,761 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 20:05:00,761 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:00:47,534 [Worker-88] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:00:47,539 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:00:47,539 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:00:47,540 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:00:47,540 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:01:56,957 [Worker-92] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:01:56,959 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:01:56,959 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:01:56,960 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:01:56,960 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:02:51,889 [Worker-94] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:02:51,890 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:02:51,890 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:02:51,891 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:02:51,891 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:20:30,082 [Worker-102] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:20:30,085 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:20:30,085 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:20:30,086 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:20:30,086 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:46:48,860 [Worker-116] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:46:48,862 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:46:48,864 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:46:48,864 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:46:48,865 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:48:31,280 [Worker-118] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:48:31,282 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:48:31,282 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:48:31,283 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:48:31,283 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:48:44,502 [Worker-90] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:48:44,504 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:48:44,504 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:48:44,505 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:48:44,505 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:50:46,004 [Worker-90] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:50:46,006 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:50:46,006 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:50:46,007 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:50:46,007 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:50:48,063 [Worker-115] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:50:48,066 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:50:48,067 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:50:48,068 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:50:48,068 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:53:57,325 [Worker-116] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:53:57,326 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:53:57,327 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:53:57,328 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:53:57,328 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:55:48,562 [Worker-117] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:55:48,564 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:55:48,564 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:55:48,565 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:55:48,565 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:58:22,546 [Worker-116] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:58:22,548 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:58:22,548 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:58:22,550 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:58:22,550 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:58:34,904 [Worker-120] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:58:34,906 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:58:34,907 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:58:34,907 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:58:34,908 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:58:43,222 [Worker-121] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:58:43,224 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:58:43,224 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:58:43,225 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:58:43,226 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-16 23:59:01,845 [Worker-114] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-16 23:59:01,847 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:59:01,848 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-16 23:59:01,849 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 23:59:01,849 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:00:41,221 [Worker-115] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:00:41,223 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:00:41,223 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:00:41,224 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:00:41,224 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:09:23,601 [Worker-127] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:09:23,603 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:09:23,604 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:09:23,605 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:09:23,606 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:10:03,011 [Worker-123] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:10:03,012 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:10:03,013 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:10:03,013 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:10:03,014 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:11:19,759 [Worker-117] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:11:19,761 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:11:19,761 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:11:19,763 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:11:19,763 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:17:15,029 [Worker-134] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:17:15,033 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:17:15,033 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:17:15,034 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:17:15,035 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:20:16,405 [Worker-135] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:20:16,406 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:20:16,407 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:20:16,407 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:20:16,408 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:20:45,410 [Worker-138] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:20:45,412 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:20:45,412 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:20:45,413 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:20:45,413 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:20:48,887 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:20:48,889 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:20:48,889 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:20:48,890 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:20:48,890 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:21:12,453 [Worker-135] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:21:12,456 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:21:12,456 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:21:12,457 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:21:12,457 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:22:07,572 [Worker-137] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:22:07,574 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:22:07,574 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:22:07,575 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:22:07,575 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:22:34,927 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:22:34,929 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:22:34,930 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:22:34,931 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:22:34,931 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:23:15,688 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:23:15,690 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:23:15,691 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:23:15,691 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:23:15,691 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:23:37,482 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:23:37,483 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:23:37,483 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:23:37,484 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:23:37,484 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:24:03,784 [Worker-138] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:24:03,786 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:24:03,786 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:24:03,786 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:24:03,787 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:32:45,357 [Worker-136] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:32:45,360 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:32:45,361 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:32:45,362 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:32:45,362 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:33:47,008 [Worker-136] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:33:47,010 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:33:47,010 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:33:47,011 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:33:47,011 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:35:26,942 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:35:26,943 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:35:26,944 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:35:26,945 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:35:26,945 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:36:34,186 [Worker-138] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:36:34,188 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:36:34,188 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:36:34,189 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:36:34,189 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:37:02,263 [Worker-135] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:37:02,265 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:37:02,265 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:37:02,266 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:37:02,266 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:37:15,360 [Worker-138] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:37:15,362 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:37:15,362 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:37:15,362 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:37:15,362 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:38:46,314 [Worker-138] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:38:46,317 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:38:46,317 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:38:46,318 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:38:46,318 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:39:18,137 [Worker-138] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:39:18,139 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:39:18,139 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:39:18,140 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:39:18,140 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:42:13,126 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:42:13,127 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:42:13,127 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:42:13,128 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:42:13,128 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:42:31,390 [Worker-139] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:42:31,393 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:42:31,393 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:42:31,394 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:42:31,394 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:43:32,719 [Worker-139] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:43:32,722 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:43:32,722 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:43:32,723 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:43:32,723 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:43:56,643 [Worker-138] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:43:56,644 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:43:56,644 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:43:56,645 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:43:56,645 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:44:33,405 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:44:33,407 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:44:33,408 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:44:33,408 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:44:33,409 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:45:39,291 [Worker-145] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:45:39,292 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:45:39,292 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:45:39,293 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:45:39,293 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:49:39,660 [Worker-138] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:49:39,662 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:49:39,662 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:49:39,662 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:49:39,663 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:49:41,870 [Worker-139] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:49:41,874 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:49:41,874 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:49:41,875 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:49:41,875 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:50:23,483 [Worker-148] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:50:23,485 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:50:23,485 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:50:23,486 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:50:23,487 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:53:25,643 [Worker-151] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:53:25,644 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:53:25,645 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:53:25,645 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:53:25,645 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:54:31,716 [Worker-151] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:54:31,718 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:54:31,718 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:54:31,719 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:54:31,719 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:54:37,331 [Worker-150] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:54:37,333 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:54:37,334 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:54:37,335 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:54:37,335 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:54:48,710 [Worker-145] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:54:48,712 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:54:48,712 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:54:48,713 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:54:48,714 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 00:57:10,125 [Worker-154] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 00:57:10,127 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:57:10,127 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 00:57:10,127 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 00:57:10,127 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:01:35,705 [Worker-154] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:01:35,706 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:01:35,706 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:01:35,707 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:01:35,708 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:02:53,199 [Worker-152] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:02:53,202 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:02:53,202 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:02:53,203 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:02:53,204 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:03:39,969 [Worker-154] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:03:39,970 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:03:39,970 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:03:39,971 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:03:39,971 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:11:24,393 [Worker-145] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:11:24,395 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:11:24,395 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:11:24,396 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:11:24,396 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:13:14,481 [Worker-145] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:13:14,483 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:13:14,483 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:13:14,484 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:13:14,484 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:13:45,874 [Worker-162] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:13:45,877 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:13:45,877 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:13:45,878 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:13:45,878 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:16:02,652 [Worker-162] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:16:02,654 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:16:02,654 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:16:02,655 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:16:02,655 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:18:18,787 [Worker-164] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:18:18,791 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:18:18,791 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:18:18,792 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:18:18,792 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:20:39,950 [Worker-165] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:20:39,952 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:20:39,952 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:20:39,953 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:20:39,953 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:22:48,276 [Worker-159] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:22:48,278 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:22:48,278 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:22:48,279 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:22:48,279 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:25:32,726 [Worker-166] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:25:32,729 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:25:32,729 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:25:32,730 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:25:32,730 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:29:14,126 [Worker-159] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:29:14,129 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:29:14,129 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:29:14,130 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:29:14,130 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:29:32,690 [Worker-155] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:29:32,693 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:29:32,694 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:29:32,695 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:29:32,695 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:30:00,762 [Worker-163] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:30:00,764 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:30:00,764 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:30:00,765 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:30:00,765 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:30:19,109 [Worker-167] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:30:19,111 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:30:19,111 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:30:19,111 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:30:19,112 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:30:34,705 [Worker-159] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:30:34,707 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:30:34,707 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:30:34,707 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:30:34,707 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:33:23,579 [Worker-155] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:33:23,581 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:33:23,581 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:33:23,582 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:33:23,582 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:33:45,953 [Worker-163] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:33:45,955 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:33:45,955 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:33:45,956 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:33:45,956 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:35:13,318 [Worker-164] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:35:13,320 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:35:13,320 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:35:13,321 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:35:13,321 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:36:16,637 [Worker-165] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:36:16,639 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:36:16,639 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:36:16,640 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:36:16,640 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:36:51,043 [Worker-165] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:36:51,045 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:36:51,045 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:36:51,046 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:36:51,046 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:42:03,262 [Worker-174] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:42:03,264 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:42:03,264 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:42:03,265 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:42:03,265 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:43:05,397 [Worker-174] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:43:05,400 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:43:05,400 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:43:05,401 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:43:05,402 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:44:05,803 [Worker-172] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:44:05,805 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:44:05,805 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:44:05,806 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:44:05,806 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:47:54,281 [Worker-171] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:47:54,283 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:47:54,283 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:47:54,283 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:47:54,284 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:48:11,821 [Worker-171] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:48:11,823 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:48:11,823 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:48:11,823 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:48:11,824 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:48:27,055 [Worker-176] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:48:27,057 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:48:27,057 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:48:27,058 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:48:27,058 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:48:48,042 [Worker-177] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:48:48,043 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:48:48,044 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:48:48,044 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:48:48,044 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:49:04,027 [Worker-172] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:49:04,030 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:49:04,030 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:49:04,030 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:49:04,030 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:49:12,776 [Worker-179] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:49:12,777 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:49:12,777 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:49:12,778 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:49:12,778 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:49:22,602 [Worker-172] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:49:22,605 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:49:22,606 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:49:22,607 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:49:22,607 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:50:15,940 [Worker-173] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:50:15,941 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:50:15,942 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:50:15,942 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:50:15,942 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:51:19,383 [Worker-165] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:51:19,385 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:51:19,385 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:51:19,386 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:51:19,386 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:51:21,984 [Worker-172] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:51:21,987 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:51:21,988 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:51:21,988 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:51:21,989 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:51:31,492 [Worker-170] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:51:31,495 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:51:31,496 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:51:31,497 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:51:31,497 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:52:29,234 [Worker-165] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:52:29,237 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:52:29,237 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:52:29,237 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:52:29,238 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:52:47,832 [Worker-178] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:52:47,834 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:52:47,834 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:52:47,835 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:52:47,835 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:53:43,883 [Worker-170] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:53:43,885 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:53:43,885 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:53:43,886 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:53:43,886 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:54:51,033 [Worker-177] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:54:51,035 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:54:51,035 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:54:51,035 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:54:51,036 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:57:07,663 [Worker-174] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:57:07,665 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:57:07,665 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:57:07,666 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:57:07,666 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:57:18,358 [Worker-174] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:57:18,359 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:57:18,360 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:57:18,360 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:57:18,360 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 01:57:50,731 [Worker-173] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 01:57:50,733 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:57:50,734 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 01:57:50,735 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 01:57:50,735 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 02:00:35,346 [Worker-175] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 02:00:35,348 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:00:35,348 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 02:00:35,349 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:00:35,349 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 02:02:15,341 [Worker-171] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 02:02:15,344 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:02:15,344 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 02:02:15,345 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:02:15,345 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 02:03:00,032 [Worker-174] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 02:03:00,034 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:03:00,034 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 02:03:00,034 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:03:00,035 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 02:03:09,596 [Worker-174] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 02:03:09,597 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:03:09,598 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 02:03:09,598 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:03:09,598 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 02:03:19,989 [Worker-181] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 02:03:19,991 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:03:19,991 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 02:03:19,992 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:03:19,992 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 02:04:52,728 [Worker-181] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 02:04:52,732 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:04:52,732 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 02:04:52,733 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:04:52,733 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 02:05:02,078 [Worker-180] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 02:05:02,080 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:05:02,080 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 02:05:02,080 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:05:02,080 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources
+2019-03-17 02:06:56,602 [Worker-174] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2019-03-17 02:06:56,604 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:06:56,604 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\main\resources
+2019-03-17 02:06:56,605 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 02:06:56,605 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory H:\GtihubRepository\FX\programe\workspace\ohlc\src\test\resources

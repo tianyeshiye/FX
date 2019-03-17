@@ -2,30 +2,30 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="PostiveNegative" key="selection"/>
+		<item value="maxIntervalStopValue" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="PostiveNegative"/>
-			<item value="GBPUSD"/>
-			<item value="USDJPY"/>
+			<item value="maxIntervalStopValue"/>
+			<item value="BigDecimal"/>
+			<item value="zhiYing"/>
+			<item value="execute(&quot;USDJPY&quot;, &quot;H1&quot;, 3,"/>
 			<item value="jinChangType"/>
-			<item value="Postive"/>
-			<item value="GBPJPY"/>
-			<item value="US30"/>
-			<item value="JP225"/>
+			<item value="computeMaxIntervalBean"/>
+			<item value="resulList"/>
+			<item value="beanList"/>
 		</list>
 		<list key="replacehistory">
+			<item value="zhiyingPoint"/>
+			<item value="execute(&quot;USDJPY&quot;, &quot;H1&quot;, 3, zhiYing,"/>
 			<item value="EURUSD"/>
 			<item value="EURJPY"/>
 			<item value="GoldDeadCross"/>
 			<item value="GBPUSD"/>
 			<item value="US500"/>
 			<item value="US30"/>
-			<item value="JP225"/>
-			<item value="InputFileUtils.getInputData"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
