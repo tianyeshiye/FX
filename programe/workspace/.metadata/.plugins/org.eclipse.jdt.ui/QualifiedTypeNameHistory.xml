@@ -21,4 +21,7 @@
 <fullyQualifiedTypeName name="ty.fx.bean.TimeDataBaseBean"/>
 <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
 <fullyQualifiedTypeName name="ty.fx.bean.MacdCrossType"/>
+<fullyQualifiedTypeName name="ty.fx.macd.ea.Macds"/>
+<fullyQualifiedTypeName name="org.apache.commons.codec.binary.StringUtils"/>
+<fullyQualifiedTypeName name="com.google.common.base.Joiner"/>
 </qualifiedTypeNameHistroy>

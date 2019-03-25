@@ -95,6 +95,67 @@ public class ExcelFileUtils {
 		}
 		// System.out.println("数据导出成功");
 	}
+	
+	
+	public static void writeExcelNoDelete(List<String> dataList, String finalXlsxPath, String sheetName) {
+		OutputStream out = null;
+		try {
+			// 读取Excel文档
+			File finalXlsxFile = new File(finalXlsxPath);
+			Workbook workBook = getWorkbok(finalXlsxFile);
+
+			int sheetIndex = workBook.getSheetIndex(sheetName);
+
+			if (sheetIndex >= 0) {
+				workBook.removeSheetAt(sheetIndex);
+			}
+
+			Sheet sheet = workBook.createSheet(sheetName);
+			/**
+			 * 删除原有数据，除了属性列
+			 */
+			int rowNumber = sheet.getLastRowNum(); // 第一行从0开始算
+			// System.out.println("原始数据总行数，除属性列：" + rowNumber);
+
+			// 创建文件输出流，输出电子表格：这个必须有，否则你在sheet上做的任何操作都不会有效
+			out = new FileOutputStream(finalXlsxPath);
+			workBook.write(out);
+			/**
+			 * 往Excel中写新数据
+			 */
+			for (int j = 0; j < dataList.size(); j++) {
+
+				String dataString = dataList.get(j);
+
+				// 得到要插入的每一条记录
+				String[] dataArray = dataString.split(",");
+
+				// 创建一行：从第二行开始，跳过属性列
+				Row row = sheet.createRow(rowNumber + j);
+
+				for (int k = 0; k < dataArray.length; k++) {
+					// 在一行内循环
+					Cell first = row.createCell(k);
+					first.setCellValue(dataArray[k]);
+				}
+			}
+			// 创建文件输出流，准备输出电子表格：这个必须有，否则你在sheet上做的任何操作都不会有效
+			out = new FileOutputStream(finalXlsxPath);
+			workBook.write(out);
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				if (out != null) {
+					out.flush();
+					out.close();
+				}
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+		// System.out.println("数据导出成功");
+	}
 
 	private static final String EXCEL_XLS = "xls";
 	private static final String EXCEL_XLSX = "xlsx";
