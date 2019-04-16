@@ -6,6 +6,8 @@ public enum TradeType {
 	JIN_Kong("2", "进 - 卖"), 
 	CHU_Duo("3", "出 - 买"), 
 	CHU_Kong("4", "出 - 卖"),
+	CHU_ZhiYing("5", "出 - 止盈"),
+	CHU_ZhiSun("6", "出 - 止损"),
 	HOLD_NULL("9", "空仓");
 
 	private String value;

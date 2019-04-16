@@ -12,7 +12,7 @@ import ty.fx.macd.bean.MacdResultBean;
 public abstract class MacdParent {
 
 	public void initConstructor(int decimalPointPara, int zhiyingPoint) {
-		
+
 		DECIMAL_POINT = decimalPointPara;
 
 		String decima = "1";
@@ -26,8 +26,7 @@ public abstract class MacdParent {
 
 		maxIntervalStopValue = a.divide(b).floatValue();
 	}
-	
-	
+
 	public static int DECIMAL_POINT = 0;
 
 	int win = 0;
@@ -69,14 +68,17 @@ public abstract class MacdParent {
 
 		float jiesuan = 0;
 
-		switch (type) {
-		case CHU_Duo:
-			// 出 - 买
-			jiesuan = jiesuanStart.subtract(jiesuanEnd).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN).floatValue();
-			break;
-		case CHU_Kong:
+		switch (this.jinChangType) {
+
+		case JIN_Duo:
+			// 进 - 买
 			// 出 - 卖
 			jiesuan = jiesuanEnd.subtract(jiesuanStart).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN).floatValue();
+			break;
+		case JIN_Kong:
+			// 进 - 卖
+			// 出 - 买
+			jiesuan = jiesuanStart.subtract(jiesuanEnd).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN).floatValue();
 			break;
 		}
 
@@ -233,6 +235,8 @@ public abstract class MacdParent {
 
 			this.timesInterval++;
 
+			boolean gangJinChang = false;
+			
 			// 由 负 -> 正
 			if (isBull(currentBean, before1Bean, before2Bean)) {
 
@@ -243,6 +247,8 @@ public abstract class MacdParent {
 				}
 				// 进场 - 买
 				jinChang(currentBean, TradeType.JIN_Duo, logList);
+				
+				gangJinChang = true;
 			}
 			// 由 正 -> 负
 			if (isBear(currentBean, before1Bean, before2Bean)) {
@@ -254,15 +260,24 @@ public abstract class MacdParent {
 				}
 				// 进场 - 卖
 				jinChang(currentBean, TradeType.JIN_Kong, logList);
+				
+				gangJinChang = true;
 			}
 
-			// 止损
-			if (isStopLoss()) {
+			// 已持有 判断止盈止损
+			if (!gangJinChang && jinChangBean != null) {
 
-			}
-			// 止盈
-			if (isTargetProfit()) {
+				// 止损
+				if (isStopLoss(currentBean, before1Bean, before2Bean)) {
 
+				}
+
+				// 止盈
+				if (isTargetProfit(currentBean, before1Bean, before2Bean)) {
+
+					// 出场 - 止盈
+					chuChang(currentBean, TradeType.CHU_ZhiYing, logList, resulList);
+				}
 			}
 		}
 
@@ -355,13 +370,10 @@ public abstract class MacdParent {
 		clearCurrentStatus();
 	}
 
-	protected boolean isStopLoss() {
-		return false;
-	}
+	protected abstract boolean isStopLoss(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean);
 
-	protected boolean isTargetProfit() {
-		return false;
-	}
+	protected abstract boolean isTargetProfit(MacdDataBean currentBean, MacdDataBean before1Bean,
+			MacdDataBean before2Bean);
 
 	protected abstract boolean isBull(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean);
 

@@ -39,6 +39,18 @@ public class MacdPostiveNegativeSwitch extends MacdParent {
 		}
 	}
 
+	@Override
+	protected boolean isStopLoss(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	protected boolean isTargetProfit(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 	// public List<String> ea(List<MacdDataBean> beanList, List<MacdResultBean>
 	// resulList) {
 	//
