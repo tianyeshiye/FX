@@ -22,12 +22,12 @@ public class MovingAverDriver {
 		// XAUUSD 6位
 		zhiyingPoint = 500;
 
-//		movingAverDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 15, 50);
+		movingAverDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 15, 50);
 		movingAverDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 15, 50);
-//		movingAverDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 15, 50);
-//		movingAverDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 21, 75);
-//		movingAverDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 21, 75);
-//		movingAverDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 21, 75);
+		movingAverDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 15, 50);
+		movingAverDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 21, 75);
+		movingAverDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 21, 75);
+		movingAverDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 21, 75);
 	}
 
 	private void execute(String currencyPair, String interval, int decimalPointPara, int zhiyingPoint, int fast,
