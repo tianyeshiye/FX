@@ -3,6 +3,7 @@ package ty.fx.macd;
 import java.util.ArrayList;
 import java.util.List;
 
+import ty.fx.bean.TimeDataBaseBean;
 import ty.fx.macd.bean.MacdDataBean;
 import ty.fx.macd.bean.MacdResultBean;
 import ty.fx.macd.ea.MacdPostiveNegativeSwitchAndGoldDeadStop;
@@ -89,8 +90,8 @@ public class MacdPostiveNegativeSwitchAndGoldDeadStopDriver {
 		System.out.println(currencyPair + interval + "-" + macdFast + "-" + interval);
 
 		// macdList = InputFileUtils.getInputData("data/USDJPYH1.csv");
-		macdList = InputFileUtils.getInputData("data/" + currencyPair + interval + ".csv");
-		Macds.calculateMacd(macdList, macdFast, macdSlow, macdColumn);
+		List<TimeDataBaseBean> timeDataBaseBeanList = InputFileUtils.getInputData("data/" + currencyPair + interval + ".csv");
+		macdList = Macds.calculateMacd(timeDataBaseBeanList, macdFast, macdSlow, macdColumn);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);

@@ -3,6 +3,7 @@ package ty.fx.macd;
 import java.util.ArrayList;
 import java.util.List;
 
+import ty.fx.bean.TimeDataBaseBean;
 import ty.fx.macd.bean.MacdDataBean;
 import ty.fx.macd.bean.MacdResultBean;
 import ty.fx.macd.ea.MacdGoldDeadCrossSwitch;
@@ -60,15 +61,26 @@ public class MacdGoldDeadCrossSwitchDriver {
 //		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "H4", 5, zhiyingPoint, 30, 65, 23);
 //		macdGoldDeadCrossSwitchDriver.execute("GBPUSD", "D1", 5, zhiyingPoint, 30, 65, 23);
 //
+//		zhiyingPoint = 500;
+//		
+//		// JP225
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "H1", 2, zhiyingPoint, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "H4", 2, zhiyingPoint, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "D1", 2, zhiyingPoint, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "H1", 2, zhiyingPoint, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "H4", 2, zhiyingPoint, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("JP225", "D1", 2, zhiyingPoint, 30, 65, 23);
+		
+		
 		zhiyingPoint = 500;
 		
-		// JP225
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "H1", 2, zhiyingPoint, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "H4", 2, zhiyingPoint, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "D1", 2, zhiyingPoint, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "H1", 2, zhiyingPoint, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "H4", 2, zhiyingPoint, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("JP225", "D1", 2, zhiyingPoint, 30, 65, 23);
+		// XAUUSD   6位
+		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 12, 26, 9);
+		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 12, 26, 9);
+		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 12, 26, 9);
+		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 30, 65, 23);
+		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 30, 65, 23);
+		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 30, 65, 23);
 	}
 
 	private void execute(String currencyPair, String interval, int decimalPointPara, int  zhiyingPoint, int macdFast, int macdSlow,
@@ -89,8 +101,8 @@ public class MacdGoldDeadCrossSwitchDriver {
 		System.out.println(currencyPair + interval + "-" + macdFast + "-" + interval);
 
 		// macdList = InputFileUtils.getInputData("data/USDJPYH1.csv");
-		macdList = InputFileUtils.getInputData("data/" + currencyPair + interval + ".csv");
-		Macds.calculateMacd(macdList, macdFast, macdSlow, macdColumn);
+		List<TimeDataBaseBean> timeDataBaseBeanList = InputFileUtils.getInputData("data/" + currencyPair + interval + ".csv");
+		macdList = Macds.calculateMacd(timeDataBaseBeanList, macdFast, macdSlow, macdColumn);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);

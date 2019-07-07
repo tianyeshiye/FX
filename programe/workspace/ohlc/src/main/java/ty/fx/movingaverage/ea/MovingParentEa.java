@@ -1,4 +1,4 @@
-package ty.fx.macd.ea;
+package ty.fx.movingaverage.ea;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
@@ -6,10 +6,10 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 import ty.fx.bean.TradeType;
-import ty.fx.macd.bean.MacdDataBean;
-import ty.fx.macd.bean.MacdResultBean;
+import ty.fx.movingaverage.bean.MovingAverBean;
+import ty.fx.movingaverage.bean.MovingResultBean;
 
-public abstract class MacdParent {
+public abstract class MovingParentEa {
 
 	public void initConstructor(int decimalPointPara, int zhiyingPoint) {
 
@@ -41,12 +41,12 @@ public abstract class MacdParent {
 	List<Float> winPointList = new ArrayList<Float>();
 	List<Float> losePointList = new ArrayList<Float>();
 
-	MacdDataBean jinChangBean = null;
+	MovingAverBean jinChangBean = null;
 	TradeType jinChangType = TradeType.HOLD_NULL; // "买， 卖"
-	MacdDataBean maxIntervalBean = null; // 最大间隔 判断进场后是否能盈利的概率
+	MovingAverBean maxIntervalBean = null; // 最大间隔 判断进场后是否能盈利的概率
 	float maxIntervalStopValue = 0L; // 最大间隔 判断进场后是否能盈利的概率
 
-	public void jinChang(MacdDataBean currentBean, TradeType type, List<String> logList) {
+	public void jinChang(MovingAverBean currentBean, TradeType type, List<String> logList) {
 
 		// 进场
 		this.jinChangBean = currentBean;
@@ -57,8 +57,8 @@ public abstract class MacdParent {
 		logList.add(type.getDesc() + "," + currentBean.toString());
 	}
 
-	public void chuChang(MacdDataBean currentBean, TradeType type, List<String> logList,
-			List<MacdResultBean> resulList) {
+	public void chuChang(MovingAverBean currentBean, TradeType type, List<String> logList,
+			List<MovingResultBean> resulList) {
 
 		// 已持有 出场
 		float start = jinChangBean.getClose();
@@ -83,19 +83,19 @@ public abstract class MacdParent {
 			break;
 		}
 
-		MacdResultBean macdResultBean = new MacdResultBean(currentBean);
+		MovingResultBean movingResultBean = new MovingResultBean(currentBean);
 
 		// 出场类型
-		macdResultBean.setInOutType(type.getDesc());
+		movingResultBean.setInOutType(type.getDesc());
 		// 盈亏点数
-		macdResultBean.setPoint(jiesuan);
+		movingResultBean.setPoint(jiesuan);
 
 		// setMaxPoint 设置进场后，最大间隔 判断进场后是否能盈利的概率
 		float maxIntervalValue = computeMaxIntervalValue();
-		macdResultBean.setMaxPoint(maxIntervalValue);
+		movingResultBean.setMaxPoint(maxIntervalValue);
 
 		if (jiesuan >= 0) {
-			macdResultBean.setYK("盈");
+			movingResultBean.setYK("盈");
 
 			// win
 			win++;
@@ -112,7 +112,7 @@ public abstract class MacdParent {
 			}
 
 		} else {
-			macdResultBean.setYK("亏");
+			movingResultBean.setYK("亏");
 
 			lose++;
 			loseTimeIntervalList.add(this.timesInterval);
@@ -128,7 +128,7 @@ public abstract class MacdParent {
 		}
 
 		// 结果list 增加
-		resulList.add(macdResultBean);
+		resulList.add(movingResultBean);
 
 		BigDecimal fuKuiB = new BigDecimal(fuKui).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
 		BigDecimal jiesuanB = new BigDecimal(jiesuan).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
@@ -171,7 +171,7 @@ public abstract class MacdParent {
 		return returnMaxIntervalVal;
 	}
 
-	private void computeMaxIntervalBean(MacdDataBean currentBean) {
+	private void computeMaxIntervalBean(MovingAverBean currentBean) {
 
 		// 进场后的第二根K线为开始
 		if (this.maxIntervalBean == null) {
@@ -206,7 +206,7 @@ public abstract class MacdParent {
 		}
 	}
 
-	public List<String> ea(List<MacdDataBean> beanList, List<MacdResultBean> resulList) {
+	public List<String> ea(List<MovingAverBean> beanList, List<MovingResultBean> resulList) {
 
 		initData();
 
@@ -214,22 +214,22 @@ public abstract class MacdParent {
 
 		for (int i = 0; i < beanList.size(); i++) {
 
-			MacdDataBean before1Bean;
-			MacdDataBean before2Bean;
+			MovingAverBean before1Bean;
+			MovingAverBean before2Bean;
 
 			if (i == 0) {
-				before1Bean = Macds.getNullBean();
-				before2Bean = Macds.getNullBean();
+				before1Bean = MovingAvers.getNullBean();
+				before2Bean = MovingAvers.getNullBean();
 			} else if (i == 1) {
 
 				before1Bean = beanList.get(0);
-				before2Bean = Macds.getNullBean();
+				before2Bean = MovingAvers.getNullBean();
 			} else {
 				before1Bean = beanList.get(i - 1);
 				before2Bean = beanList.get(i - 2);
 			}
 
-			MacdDataBean currentBean = beanList.get(i);
+			MovingAverBean currentBean = beanList.get(i);
 
 			// 计算 最大间隔 判断进场后是否能盈利的概率
 			computeMaxIntervalBean(currentBean);
@@ -287,7 +287,7 @@ public abstract class MacdParent {
 		return logList;
 	}
 
-	private List<String> print(List<MacdDataBean> beanList, List<MacdResultBean> resulList, List<String> logList) {
+	private List<String> print(List<MovingAverBean> beanList, List<MovingResultBean> resulList, List<String> logList) {
 		int winIntervalAverage = winTimeIntervalList.stream().collect(Collectors.averagingInt(i -> i)).intValue();
 		int loseIntervalAverage = loseTimeIntervalList.stream().collect(Collectors.averagingInt(i -> i)).intValue();
 
@@ -317,8 +317,8 @@ public abstract class MacdParent {
 		System.out.println("真实盈亏比:" + winLoseRate);
 
 		// 最大间隔 判断进场后是否能盈利的概率
-		long winChangesSum = resulList.stream().filter(macdResultBean -> {
-			if (Float.compare(macdResultBean.getMaxPoint(), maxIntervalStopValue) > 0) {
+		long winChangesSum = resulList.stream().filter(movingResultBean -> {
+			if (Float.compare(movingResultBean.getMaxPoint(), maxIntervalStopValue) > 0) {
 				return true;
 			} else {
 				return false;
@@ -371,12 +371,12 @@ public abstract class MacdParent {
 		clearCurrentStatus();
 	}
 
-	protected abstract boolean isStopLoss(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean);
+	protected abstract boolean isStopLoss(MovingAverBean currentBean, MovingAverBean before1Bean, MovingAverBean before2Bean);
 
-	protected abstract boolean isTargetProfit(MacdDataBean currentBean, MacdDataBean before1Bean,
-			MacdDataBean before2Bean);
+	protected abstract boolean isTargetProfit(MovingAverBean currentBean, MovingAverBean before1Bean,
+			MovingAverBean before2Bean);
 
-	protected abstract boolean isBull(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean);
+	protected abstract boolean isBull(MovingAverBean currentBean, MovingAverBean before1Bean, MovingAverBean before2Bean);
 
-	protected abstract boolean isBear(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean);
+	protected abstract boolean isBear(MovingAverBean currentBean, MovingAverBean before1Bean, MovingAverBean before2Bean);
 }

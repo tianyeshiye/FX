@@ -3,6 +3,7 @@ package ty.fx.macd;
 import java.util.ArrayList;
 import java.util.List;
 
+import ty.fx.bean.TimeDataBaseBean;
 import ty.fx.macd.bean.MacdDataBean;
 import ty.fx.macd.bean.MacdResultBean;
 import ty.fx.macd.ea.MacdWithStop;
@@ -22,7 +23,7 @@ public class GBPJPYMacdStop {
 	public void test() {
 
 		// DECIMAL_POINT = 3
-		// stop point = 
+		// stop point =
 		MacdWithStop instance = new MacdWithStop(3, 4f);
 
 		List<String> logList;
@@ -42,8 +43,8 @@ public class GBPJPYMacdStop {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = InputFileUtils.getInputData("data/GBPJPYH1.csv");
-		Macds.calculateMacd(macdList, 12, 26, 9);
+		List<TimeDataBaseBean> timeDataBaseBeanList = InputFileUtils.getInputData("data/GBPJPYH1.csv");
+		macdList = Macds.calculateMacd(timeDataBaseBeanList, 12, 26, 9);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
@@ -63,8 +64,8 @@ public class GBPJPYMacdStop {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = InputFileUtils.getInputData("data/GBPJPYH4.csv");
-		Macds.calculateMacd(macdList, 12, 26, 9);
+		timeDataBaseBeanList = InputFileUtils.getInputData("data/GBPJPYH4.csv");
+		macdList = Macds.calculateMacd(timeDataBaseBeanList, 12, 26, 9);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
@@ -84,8 +85,8 @@ public class GBPJPYMacdStop {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = InputFileUtils.getInputData("data/GBPJPYD1.csv");
-		Macds.calculateMacd(macdList, 12, 26, 9);
+		timeDataBaseBeanList = InputFileUtils.getInputData("data/GBPJPYD1.csv");
+		macdList = Macds.calculateMacd(timeDataBaseBeanList, 12, 26, 9);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
@@ -105,8 +106,8 @@ public class GBPJPYMacdStop {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = InputFileUtils.getInputData("data/GBPJPYH1.csv");
-		Macds.calculateMacd(macdList, 30, 65, 23);
+		timeDataBaseBeanList = InputFileUtils.getInputData("data/GBPJPYH1.csv");
+		macdList = Macds.calculateMacd(timeDataBaseBeanList, 30, 65, 23);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
@@ -126,8 +127,8 @@ public class GBPJPYMacdStop {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = InputFileUtils.getInputData("data/GBPJPYH4.csv");
-		Macds.calculateMacd(macdList, 30, 65, 23);
+		timeDataBaseBeanList = InputFileUtils.getInputData("data/GBPJPYH4.csv");
+		macdList = Macds.calculateMacd(timeDataBaseBeanList, 30, 65, 23);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);
@@ -147,8 +148,8 @@ public class GBPJPYMacdStop {
 		macdList = new ArrayList<MacdDataBean>();
 		resulList = new ArrayList<MacdResultBean>();
 
-		macdList = InputFileUtils.getInputData("data/GBPJPYD1.csv");
-		Macds.calculateMacd(macdList, 30, 65, 23);
+		timeDataBaseBeanList = InputFileUtils.getInputData("data/GBPJPYD1.csv");
+		macdList = Macds.calculateMacd(timeDataBaseBeanList, 30, 65, 23);
 
 		logList = instance.ea(macdList, resulList);
 		printList = Macds.printResult(resulList);

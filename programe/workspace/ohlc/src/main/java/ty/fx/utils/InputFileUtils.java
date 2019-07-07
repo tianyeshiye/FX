@@ -9,11 +9,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 import ty.fx.bean.TimeDataBaseBean;
-import ty.fx.macd.bean.MacdDataBean;
 
 public class InputFileUtils {
 
-	public static List<MacdDataBean> getInputData(String filepath) {
+	public static List<TimeDataBaseBean> getInputData(String filepath) {
 
 		File csv = new File(filepath); // CSV文件路径
 		csv.setReadable(true);// 设置可读
@@ -26,7 +25,7 @@ public class InputFileUtils {
 		}
 
 		String line = "";
-		List<MacdDataBean> list = new ArrayList<MacdDataBean>();
+		List<TimeDataBaseBean> list = new ArrayList<TimeDataBaseBean>();
 
 		try {
 			while ((line = br.readLine()) != null) // 读取到的内容给line变量
@@ -34,7 +33,7 @@ public class InputFileUtils {
 
 				String[] arrayData = line.split(",");
 
-				MacdDataBean bean = new MacdDataBean();
+				TimeDataBaseBean bean = new TimeDataBaseBean();
 				bean.setTimeYMDHM(arrayData[0].replace(".", ""));
 				bean.setTimeH(arrayData[1].substring(0, 2));
 				bean.setOpen(Float.valueOf(arrayData[2]));

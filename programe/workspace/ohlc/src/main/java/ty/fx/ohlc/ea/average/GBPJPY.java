@@ -2,7 +2,7 @@ package ty.fx.ohlc.ea.average;
 
 import java.util.List;
 
-import ty.fx.macd.bean.MacdDataBean;
+import ty.fx.bean.TimeDataBaseBean;
 import ty.fx.utils.InputFileUtils;
 
 public class GBPJPY {
@@ -18,7 +18,7 @@ public class GBPJPY {
 
 		// DECIMAL_POINT = 3
 		AverageValue instance = new AverageValue(3);
-		List<MacdDataBean> beanList;
+		List<TimeDataBaseBean> beanList;
 		float averageValue;
 
 		// **********

@@ -1,6 +1,6 @@
 package ty.fx.macd.ea;
 
-import ty.fx.bean.MacdCrossType;
+import ty.fx.bean.CrossType;
 import ty.fx.macd.bean.MacdDataBean;
 
 public class MacdGoldDeadCrossSwitch extends MacdParent {
@@ -14,33 +14,33 @@ public class MacdGoldDeadCrossSwitch extends MacdParent {
 		super.initData();
 	}
 
-	private boolean isGoldCrossOfCurrent(MacdCrossType gold) {
+	private boolean isGoldCrossOfCurrentStatus(CrossType gold) {
 
-		if (gold.equals(MacdCrossType.GOLD) || gold.equals(MacdCrossType.NULL)) {
+		if (gold.equals(CrossType.GOLD) || gold.equals(CrossType.NULL)) {
 			return true;
 		} else {
 			return false;
 		}
 	}
 
-	private boolean isDeadCrossOfCurrent(MacdCrossType dead) {
+	private boolean isDeadCrossOfCurrentStatus(CrossType dead) {
 
-		if (dead.equals(MacdCrossType.DEAD) || dead.equals(MacdCrossType.NULL)) {
+		if (dead.equals(CrossType.DEAD) || dead.equals(CrossType.NULL)) {
 			return true;
 		} else {
 			return false;
 		}
 	}
 
-	private MacdCrossType currentMacdCrossType = MacdCrossType.NULL;
+	private CrossType currentMacdCrossType = CrossType.NULL;
 
 	// 金叉 牛
 	@Override
 	public boolean isBull(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean) {
 
-		if (currentBean.getDif() > currentBean.getDea() && isDeadCrossOfCurrent(currentMacdCrossType)) {
+		if (currentBean.getDif() > currentBean.getDea() && isDeadCrossOfCurrentStatus(currentMacdCrossType)) {
 
-			currentMacdCrossType = MacdCrossType.GOLD;
+			currentMacdCrossType = CrossType.GOLD;
 			return true;
 		} else {
 			return false;
@@ -51,9 +51,9 @@ public class MacdGoldDeadCrossSwitch extends MacdParent {
 	@Override
 	public boolean isBear(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean) {
 
-		if (currentBean.getDif() < currentBean.getDea() && isGoldCrossOfCurrent(currentMacdCrossType)) {
+		if (currentBean.getDif() < currentBean.getDea() && isGoldCrossOfCurrentStatus(currentMacdCrossType)) {
 
-			currentMacdCrossType = MacdCrossType.DEAD;
+			currentMacdCrossType = CrossType.DEAD;
 			return true;
 		} else {
 			return false;

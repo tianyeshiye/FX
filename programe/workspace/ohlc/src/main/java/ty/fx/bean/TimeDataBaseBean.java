@@ -9,6 +9,15 @@ public class TimeDataBaseBean {
 	protected float open;
 	protected float close;
 
+	public String toString() {
+		return "timeYMDHM:" + timeYMDHM + ", " + 
+				"timeH:" + timeH + ", " + 
+				"open:" + open + ", " +
+				"high:" + high + ", " + 
+				"low:" + low + ", " + 
+				"close:" + close;
+	}
+	
 	public String getTimeYMDHM() {
 		return timeYMDHM;
 	}

@@ -8,6 +8,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+import ty.fx.bean.TimeDataBaseBean;
 import ty.fx.macd.bean.MacdDataBean;
 import ty.fx.macd.bean.MacdResultBean;
 
@@ -15,8 +16,6 @@ public class Macds {
 
 	public static void calculateMacd(MacdDataBean beforeBean, MacdDataBean currentBean, final int fast, final int slow,
 			final int bar) {
-
-		MathContext mc = new MathContext(5, RoundingMode.HALF_DOWN);
 
 		// EMA（12）=55.01+(53.7-55.01)×2/13=54.8085
 		// EMA（26）=55.01+(53.7-55.01)×2/27=54.913
@@ -33,9 +32,9 @@ public class Macds {
 		BigDecimal int13 = new BigDecimal(fast + 1).setScale(0, BigDecimal.ROUND_DOWN);
 		BigDecimal int27 = new BigDecimal(slow + 1).setScale(0, BigDecimal.ROUND_DOWN);
 
-		float fastEma = beforeFastEma.add(close.subtract(beforeFastEma).multiply(int2).divide(int13, mc)).floatValue();
+		float fastEma = beforeFastEma.add(close.subtract(beforeFastEma).multiply(int2).divide(int13, RoundingMode.HALF_DOWN)).floatValue();
 
-		float slowEma = beforeSlowEma.add(close.subtract(beforeSlowEma).multiply(int2).divide(int27, mc)).floatValue();
+		float slowEma = beforeSlowEma.add(close.subtract(beforeSlowEma).multiply(int2).divide(int27, RoundingMode.HALF_DOWN)).floatValue();
 
 		currentBean.setFastEMA(fastEma);
 		currentBean.setSlowEMA(slowEma);
@@ -47,12 +46,14 @@ public class Macds {
 		BigDecimal beforeDEA = new BigDecimal(beforeBean.getDea()).setScale(5, BigDecimal.ROUND_DOWN);
 		BigDecimal currentDif = new BigDecimal(currentBean.getDif()).setScale(5, BigDecimal.ROUND_DOWN);
 		// DEA（MACD）= 前一日DEA×8/10＋今日DIF×2/10
-		float dea = beforeDEA.add(currentDif.subtract(beforeDEA).multiply(int2).divide(int10, mc)).floatValue();
+		float dea = beforeDEA.add(currentDif.subtract(beforeDEA).multiply(int2).divide(int10, RoundingMode.HALF_DOWN)).floatValue();
 
 		currentBean.setDea(dea);
 	}
 
-	public static void calculateMacd(List<MacdDataBean> beanList, int fast, int slow, int signal) {
+	public static List<MacdDataBean> calculateMacd(List<TimeDataBaseBean> beanList, int fast, int slow, int signal) {
+
+		List<MacdDataBean> macdDataBeanList = new ArrayList<MacdDataBean>();
 
 		for (int i = 0; i < beanList.size(); i++) {
 
@@ -60,17 +61,19 @@ public class Macds {
 			if (i == 0) {
 				beforeBean = Macds.getNullBean();
 			} else {
-				beforeBean = beanList.get(i - 1);
+				beforeBean = new MacdDataBean(beanList.get(i - 1));
 			}
 
-			MacdDataBean currentBean = beanList.get(i);
+			MacdDataBean currentBean = new MacdDataBean(beanList.get(i));
 
 			Macds.calculateMacd(beforeBean, currentBean, fast, slow, signal);
+
+			macdDataBeanList.add(currentBean);
 		}
 
-	}
+		return macdDataBeanList;
 
-	
+	}
 
 	public static MacdDataBean getNullBean() {
 

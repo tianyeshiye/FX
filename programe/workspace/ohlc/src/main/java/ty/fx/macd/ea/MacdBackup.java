@@ -267,8 +267,6 @@ public class MacdBackup {
 	private void calculateMacd(MacdDataBean beforeBean, MacdDataBean currentBean, final int fast, final int slow,
 			final int bar) {
 
-		MathContext mc = new MathContext(5, RoundingMode.HALF_DOWN);
-
 		// EMA（12）=55.01+(53.7-55.01)×2/13=54.8085
 		// EMA（26）=55.01+(53.7-55.01)×2/27=54.913
 		// EMA（12）= 前一日EMA（12）×11/13＋今日收盘价×2/13
@@ -284,9 +282,9 @@ public class MacdBackup {
 		BigDecimal int13 = new BigDecimal(fast + 1).setScale(0, BigDecimal.ROUND_DOWN);
 		BigDecimal int27 = new BigDecimal(slow + 1).setScale(0, BigDecimal.ROUND_DOWN);
 
-		float fastEma = beforeFastEma.add(close.subtract(beforeFastEma).multiply(int2).divide(int13, mc)).floatValue();
+		float fastEma = beforeFastEma.add(close.subtract(beforeFastEma).multiply(int2).divide(int13, RoundingMode.HALF_DOWN)).floatValue();
 
-		float slowEma = beforeSlowEma.add(close.subtract(beforeSlowEma).multiply(int2).divide(int27, mc)).floatValue();
+		float slowEma = beforeSlowEma.add(close.subtract(beforeSlowEma).multiply(int2).divide(int27, RoundingMode.HALF_DOWN)).floatValue();
 
 		currentBean.setFastEMA(fastEma);
 		currentBean.setSlowEMA(slowEma);
@@ -298,7 +296,7 @@ public class MacdBackup {
 		BigDecimal beforeDEA = new BigDecimal(beforeBean.getDea()).setScale(5, BigDecimal.ROUND_DOWN);
 		BigDecimal currentDif = new BigDecimal(currentBean.getDif()).setScale(5, BigDecimal.ROUND_DOWN);
 		// DEA（MACD）= 前一日DEA×8/10＋今日DIF×2/10
-		float dea = beforeDEA.add(currentDif.subtract(beforeDEA).multiply(int2).divide(int10, mc)).floatValue();
+		float dea = beforeDEA.add(currentDif.subtract(beforeDEA).multiply(int2).divide(int10, RoundingMode.HALF_DOWN)).floatValue();
 
 		currentBean.setDea(dea);
 	}

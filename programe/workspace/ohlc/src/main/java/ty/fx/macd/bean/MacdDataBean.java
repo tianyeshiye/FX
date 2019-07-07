@@ -11,20 +11,25 @@ public class MacdDataBean extends TimeDataBaseBean {
 	// private float open;
 	// private float close;
 
+	public MacdDataBean() {
+
+	}
+
+	public MacdDataBean(TimeDataBaseBean currentTimeDataBaseBean) {
+
+		this.timeYMDHM = currentTimeDataBaseBean.getTimeYMDHM();
+		this.timeH = currentTimeDataBaseBean.getTimeH();
+		this.high = currentTimeDataBaseBean.getHigh();
+		this.low = currentTimeDataBaseBean.getLow();
+		this.open = currentTimeDataBaseBean.getOpen();
+		this.close = currentTimeDataBaseBean.getClose();
+	}
+
 	protected float slowEMA;
 	protected float fastEMA;
 
 	protected float dif;
 	protected float dea;
-
-	public String toString() {
-		return "timeYMDHM:" + timeYMDHM + ", " + 
-				"timeH:" + timeH + ", " + 
-				"open:" + open + ", " +
-				"high:" + high + ", " + 
-				"low:" + low + ", " + 
-				"close:" + close;
-	}
 
 	public float getDif() {
 		return dif;
