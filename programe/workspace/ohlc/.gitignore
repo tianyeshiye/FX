@@ -1,1 +1,22 @@
-/target/
+# Maven
+target/
+release.properties
+RemoteSystemsTempFiles
+
+# Eclipse
+.classpath
+.project
+.externalToolBuilders/
+.metadata
+.recommenders
+.settings
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# Mac
+.DS_Store
