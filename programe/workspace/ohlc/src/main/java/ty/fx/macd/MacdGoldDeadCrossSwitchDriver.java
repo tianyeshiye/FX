@@ -75,16 +75,18 @@ public class MacdGoldDeadCrossSwitchDriver {
 		zhiyingPoint = 500;
 		
 		// XAUUSD   6位
-		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 12, 26, 9);
 		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 12, 26, 9);
-		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 30, 65, 23);
-		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 12, 26, 9);
+//		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 30, 65, 23);
+//		macdGoldDeadCrossSwitchDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 30, 65, 23);
 	}
 
 	private void execute(String currencyPair, String interval, int decimalPointPara, int  zhiyingPoint, int macdFast, int macdSlow,
 			int macdColumn) {
+		
+		String zhiBiaoName = macdFast + "_" + macdSlow + "_" + macdColumn;
 
 		// DECIMAL_POINT = 3
 		MacdGoldDeadCrossSwitch instance = new MacdGoldDeadCrossSwitch(decimalPointPara, zhiyingPoint);
@@ -98,7 +100,7 @@ public class MacdGoldDeadCrossSwitchDriver {
 		// ********** USDJPYH1-12-interval
 		System.out.println("----------------------------------------");
 		// System.out.println("USDJPYH1-12-h1");
-		System.out.println(currencyPair + interval + "-" + macdFast + "-" + interval);
+		System.out.println(currencyPair + interval + "-" + zhiBiaoName + "-" + interval);
 
 		// macdList = InputFileUtils.getInputData("data/USDJPYH1.csv");
 		List<TimeDataBaseBean> timeDataBaseBeanList = InputFileUtils.getInputData("data/" + currencyPair + interval + ".csv");
@@ -110,14 +112,14 @@ public class MacdGoldDeadCrossSwitchDriver {
 
 		// ExcelFileUtils.writeExcel(printList, "output/USDJPY.xlsx", "H1-12");
 		ExcelFileUtils.writeExcel(printList, "output/GoldDeadCross/" + currencyPair + ".xlsx",
-				interval + "-" + macdFast);
+				interval + "-" + zhiBiaoName);
 		// ExcelFileUtils.writeExcel(printSortList, "output/USDJPY.xlsx",
 		// "H1-sort-12");
 		ExcelFileUtils.writeExcel(printSortList, "output/GoldDeadCross/" + currencyPair + ".xlsx",
-				interval + "-sort-" + macdFast);
+				interval + "-sort-" + zhiBiaoName);
 		// ExcelFileUtils.writeExcel(logList, "output/USDJPY.xlsx",
 		// "H1-log-12");
 		ExcelFileUtils.writeExcel(logList, "output/GoldDeadCross/" + currencyPair + ".xlsx",
-				interval + "-log-" + macdFast);
+				interval + "-log-" + zhiBiaoName);
 	}
 }
