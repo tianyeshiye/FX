@@ -2,22 +2,23 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="computeMaxIntervalValue" key="selection"/>
+		<item value="getRate" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="true" key="wholeword"/>
 		<list key="findhistory">
+			<item value="getRate"/>
+			<item value="macdFast"/>
 			<item value="computeMaxIntervalValue"/>
 			<item value="computeMaxIntervalBean"/>
 			<item value="maxIntervalBean"/>
 			<item value="clearCurrentStatus"/>
 			<item value="macdPostiveNegativeSwitch"/>
 			<item value="MacdPostiveNegativeSwitch"/>
-			<item value="MacdPostiveNegativeSwitchAndGoldDeadStop"/>
-			<item value="jinChangType"/>
 		</list>
 		<list key="replacehistory">
+			<item value="zhiBiaoName"/>
 			<item value="driver"/>
 			<item value="MacdPostiveNegativeSwitchAndGoldDeadStop"/>
 			<item value="JP225"/>
@@ -25,14 +26,13 @@
 			<item value="EURJPY"/>
 			<item value="USDJPY"/>
 			<item value="zhiyingPoint"/>
-			<item value="execute(&quot;USDJPY&quot;, &quot;H1&quot;, 3, zhiYing,"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
 		<item value="567" key="DIALOG_WIDTH"/>
 		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
 		<item value="454" key="DIALOG_HEIGHT"/>
-		<item value="1285" key="DIALOG_X_ORIGIN"/>
-		<item value="151" key="DIALOG_Y_ORIGIN"/>
+		<item value="189" key="DIALOG_X_ORIGIN"/>
+		<item value="110" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>
