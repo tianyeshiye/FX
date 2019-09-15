@@ -1,0 +1,64 @@
+1	00:13:58.909	'120010550': ping failed
+0	00:14:04.058	'120010550': login on PRC-Live through Server 3 (ping: 60.19 ms)
+0	00:14:12.473	'120010550': login datacenter on PRC-Live through Server 3 (ping: 60.19 ms)
+0	00:14:12.766	'120010550': previous successful authorization performed from 106.181.128.140
+0	00:14:29.347	'120010550': ping to current access point Server 3 is 45.21 ms
+0	02:24:14.277	'120010550': order sell market 0.01 XAUUSD. sl: 0.00 tp: 0.00
+0	02:24:14.779	'120010550': order was opened : #10894901 sell 0.01 XAUUSD. at 1286.34 sl: 0.00 tp: 0.00
+2	02:37:12.855	Custom indicator span_model EURAUD.,H1: removed
+2	02:37:12.857	Custom indicator MACD-2x EURAUD.,H1: removed
+2	02:37:12.859	Custom indicator MACD-2x EURAUD.,H1: removed
+2	02:37:12.859	Custom indicator Laguerre-ACS1 EURAUD.,H1: removed
+2	02:37:12.893	Custom indicator span_model XAUUSD.,H4: removed
+2	02:37:12.895	Custom indicator MACD-2x XAUUSD.,H4: removed
+2	02:37:12.897	Custom indicator MACD-2x XAUUSD.,H4: removed
+2	02:37:12.897	Custom indicator Laguerre-ACS1 XAUUSD.,H4: removed
+2	02:37:12.904	Custom indicator span_model JP225,H4: removed
+2	02:37:12.906	Custom indicator MACD-2x JP225,H4: removed
+2	02:37:12.907	Custom indicator MACD-2x JP225,H4: removed
+2	02:37:12.908	Custom indicator Laguerre-ACS1 JP225,H4: removed
+2	02:37:12.911	Custom indicator span_model SPX500,H4: removed
+2	02:37:12.914	Custom indicator MACD-2x SPX500,H4: removed
+2	02:37:12.915	Custom indicator MACD-2x SPX500,H4: removed
+2	02:37:12.915	Custom indicator Laguerre-ACS1 SPX500,H4: removed
+2	02:37:12.920	Custom indicator span_model US_OIL,Daily: removed
+2	02:37:12.923	Custom indicator MACD-2x US_OIL,Daily: removed
+2	02:37:12.925	Custom indicator MACD-2x US_OIL,Daily: removed
+2	02:37:12.925	Custom indicator Laguerre-ACS1 US_OIL,Daily: removed
+2	02:37:12.935	Custom indicator span_model NDX100,H4: removed
+2	02:37:12.937	Custom indicator MACD-2x NDX100,H4: removed
+2	02:37:12.938	Custom indicator MACD-2x NDX100,H4: removed
+2	02:37:12.938	Custom indicator Laguerre-ACS1 NDX100,H4: removed
+2	02:37:12.943	Custom indicator span_model USDJPY.,H1: removed
+2	02:37:12.945	Custom indicator MACD-2x USDJPY.,H1: removed
+2	02:37:12.946	Custom indicator MACD-2x USDJPY.,H1: removed
+2	02:37:12.946	Custom indicator Laguerre-ACS1 USDJPY.,H1: removed
+2	02:37:12.952	Custom indicator span_model EURJPY.,H4: removed
+2	02:37:12.954	Custom indicator MACD-2x EURJPY.,H4: removed
+2	02:37:12.956	Custom indicator MACD-2x EURJPY.,H4: removed
+2	02:37:12.956	Custom indicator Laguerre-ACS1 EURJPY.,H4: removed
+2	02:37:12.960	Custom indicator span_model EURUSD.,H4: removed
+2	02:37:12.962	Custom indicator MACD-2x EURUSD.,H4: removed
+2	02:37:12.964	Custom indicator MACD-2x EURUSD.,H4: removed
+2	02:37:12.964	Custom indicator Laguerre-ACS1 EURUSD.,H4: removed
+2	02:37:12.970	Custom indicator span_model GBPUSD.,Daily: removed
+2	02:37:12.971	Custom indicator MACD-2x GBPUSD.,Daily: removed
+2	02:37:12.973	Custom indicator MACD-2x GBPUSD.,Daily: removed
+2	02:37:12.974	Custom indicator Laguerre-ACS1 GBPUSD.,Daily: removed
+2	02:37:12.977	Custom indicator span_model GBPJPY.,Daily: removed
+2	02:37:12.979	Custom indicator MACD-2x GBPJPY.,Daily: removed
+2	02:37:12.981	Custom indicator MACD-2x GBPJPY.,Daily: removed
+2	02:37:12.981	Custom indicator Laguerre-ACS1 GBPJPY.,Daily: removed
+2	02:37:12.986	Custom indicator span_model USDCHF.,Daily: removed
+2	02:37:12.988	Custom indicator MACD-2x USDCHF.,Daily: removed
+2	02:37:12.991	Custom indicator MACD-2x USDCHF.,Daily: removed
+2	02:37:12.991	Custom indicator Laguerre-ACS1 USDCHF.,Daily: removed
+2	02:37:12.994	Custom indicator span_model USDCAD.,Daily: removed
+2	02:37:12.996	Custom indicator MACD-2x USDCAD.,Daily: removed
+2	02:37:12.998	Custom indicator MACD-2x USDCAD.,Daily: removed
+2	02:37:12.998	Custom indicator Laguerre-ACS1 USDCAD.,Daily: removed
+2	02:37:13.011	Custom indicator span_model AUDUSD.,Daily: removed
+2	02:37:13.012	Custom indicator MACD-2x AUDUSD.,Daily: removed
+2	02:37:13.014	Custom indicator MACD-2x AUDUSD.,Daily: removed
+2	02:37:13.014	Custom indicator Laguerre-ACS1 AUDUSD.,Daily: removed
+0	02:37:13.417	FX Trader build 1170 stopped

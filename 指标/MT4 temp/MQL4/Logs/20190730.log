@@ -1,0 +1,1910 @@
+0	06:02:56.806	SupResZone_MTF EURAUD.,H4: uninit reason 3
+0	06:02:56.810	SupResZone_MTF EURAUD.,H4: uninit reason 3
+0	06:02:56.810	SupResZone_MTF EURAUD.,H4: uninit reason 3
+0	06:02:56.810	SupResZone_MTF EURAUD.,H4: uninit reason 3
+0	06:02:56.813	MACD-2x EURAUD.,H4: uninit reason 3
+0	06:02:56.813	Laguerre-ACS1 EURAUD.,H4: deinitialized
+0	06:02:56.813	Laguerre-ACS1 EURAUD.,H4: uninit reason 3
+0	06:02:56.813	SupResZone_MTF EURAUD.,Daily: initialized
+0	06:02:56.813	SupResZone_MTF EURAUD.,Daily: Alert: Smaller TimeFrame selected!
+0	06:02:56.813	SupResZone_MTF EURAUD.,Daily: initialized
+0	06:02:56.813	SupResZone_MTF EURAUD.,Daily: Alert: Smaller TimeFrame selected!
+0	06:02:56.813	SupResZone_MTF EURAUD.,Daily: initialized
+0	06:02:56.813	SupResZone_MTF EURAUD.,Daily: Alert: Smaller TimeFrame selected!
+0	06:02:56.813	SupResZone_MTF EURAUD.,Daily: initialized
+0	06:02:56.813	MACD-2x EURAUD.,Daily: initialized
+0	06:02:56.813	Laguerre-ACS1 EURAUD.,Daily: initialized
+0	06:03:01.514	SupResZone_MTF EURAUD.,Daily: uninit reason 3
+0	06:03:01.517	SupResZone_MTF EURAUD.,Daily: uninit reason 3
+0	06:03:01.517	SupResZone_MTF EURAUD.,Daily: uninit reason 3
+0	06:03:01.517	SupResZone_MTF EURAUD.,Daily: uninit reason 3
+0	06:03:01.517	MACD-2x EURAUD.,Daily: uninit reason 3
+0	06:03:01.517	Laguerre-ACS1 EURAUD.,Daily: deinitialized
+0	06:03:01.517	Laguerre-ACS1 EURAUD.,Daily: uninit reason 3
+0	06:03:01.517	SupResZone_MTF EURAUD.,H4: initialized
+0	06:03:01.517	SupResZone_MTF EURAUD.,H4: Alert: Smaller TimeFrame selected!
+0	06:03:01.517	SupResZone_MTF EURAUD.,H4: initialized
+0	06:03:01.517	SupResZone_MTF EURAUD.,H4: Alert: Smaller TimeFrame selected!
+0	06:03:01.517	SupResZone_MTF EURAUD.,H4: initialized
+0	06:03:01.517	SupResZone_MTF EURAUD.,H4: initialized
+0	06:03:01.517	MACD-2x EURAUD.,H4: initialized
+0	06:03:01.518	Laguerre-ACS1 EURAUD.,H4: initialized
+0	06:03:55.935	SupResZone_MTF USDXXX,Daily: uninit reason 9
+0	06:03:55.949	SupResZone_MTF USDXXX,Daily: uninit reason 9
+0	06:03:55.949	SupResZone_MTF USDXXX,Daily: uninit reason 9
+0	06:03:55.949	SupResZone_MTF USDXXX,Daily: uninit reason 9
+0	06:03:55.949	MACD-2x USDXXX,Daily: uninit reason 9
+0	06:03:55.949	Laguerre-ACS1 USDXXX,Daily: deinitialized
+0	06:03:55.949	Laguerre-ACS1 USDXXX,Daily: uninit reason 9
+0	06:03:55.949	SupResZone_MTF XAUUSD.,H4: uninit reason 9
+0	06:03:55.956	SupResZone_MTF XAUUSD.,H4: uninit reason 9
+0	06:03:55.956	SupResZone_MTF XAUUSD.,H4: uninit reason 9
+0	06:03:55.956	SupResZone_MTF XAUUSD.,H4: uninit reason 9
+0	06:03:55.963	MACD-2x XAUUSD.,H4: uninit reason 9
+0	06:03:55.963	Laguerre-ACS1 XAUUSD.,H4: deinitialized
+0	06:03:55.963	Laguerre-ACS1 XAUUSD.,H4: uninit reason 9
+0	06:03:55.963	SupResZone_MTF XAGUSD.,H1: uninit reason 9
+0	06:03:55.969	SupResZone_MTF XAGUSD.,H1: uninit reason 9
+0	06:03:55.976	SupResZone_MTF XAGUSD.,H1: uninit reason 9
+0	06:03:55.976	SupResZone_MTF XAGUSD.,H1: uninit reason 9
+0	06:03:55.976	MACD-2x XAGUSD.,H1: uninit reason 9
+0	06:03:55.976	Laguerre-ACS1 XAGUSD.,H1: deinitialized
+0	06:03:55.976	Laguerre-ACS1 XAGUSD.,H1: uninit reason 9
+0	06:03:55.976	SupResZone_MTF US_OIL,H4: uninit reason 9
+0	06:03:55.981	SupResZone_MTF US_OIL,H4: uninit reason 9
+0	06:03:55.981	SupResZone_MTF US_OIL,H4: uninit reason 9
+0	06:03:55.981	SupResZone_MTF US_OIL,H4: uninit reason 9
+0	06:03:55.985	MACD-2x US_OIL,H4: uninit reason 9
+0	06:03:55.987	Laguerre-ACS1 US_OIL,H4: deinitialized
+0	06:03:55.987	Laguerre-ACS1 US_OIL,H4: uninit reason 9
+0	06:03:55.987	SupResZone_MTF JP225,H4: uninit reason 9
+0	06:03:55.992	SupResZone_MTF JP225,H4: uninit reason 9
+0	06:03:55.992	SupResZone_MTF JP225,H4: uninit reason 9
+0	06:03:55.992	SupResZone_MTF JP225,H4: uninit reason 9
+0	06:03:55.995	MACD-2x JP225,H4: uninit reason 9
+0	06:03:55.995	Laguerre-ACS1 JP225,H4: deinitialized
+0	06:03:55.995	Laguerre-ACS1 JP225,H4: uninit reason 9
+0	06:03:55.995	SupResZone_MTF SPX500,H4: uninit reason 9
+0	06:03:55.998	SupResZone_MTF SPX500,H4: uninit reason 9
+0	06:03:55.998	SupResZone_MTF SPX500,H4: uninit reason 9
+0	06:03:55.998	SupResZone_MTF SPX500,H4: uninit reason 9
+0	06:03:56.001	MACD-2x SPX500,H4: uninit reason 9
+0	06:03:56.001	Laguerre-ACS1 SPX500,H4: deinitialized
+0	06:03:56.001	Laguerre-ACS1 SPX500,H4: uninit reason 9
+0	06:03:56.001	SupResZone_MTF EURAUD.,H4: uninit reason 9
+0	06:03:56.005	SupResZone_MTF EURAUD.,H4: uninit reason 9
+0	06:03:56.005	SupResZone_MTF EURAUD.,H4: uninit reason 9
+0	06:03:56.005	SupResZone_MTF EURAUD.,H4: uninit reason 9
+0	06:03:56.009	MACD-2x EURAUD.,H4: uninit reason 9
+0	06:03:56.010	Laguerre-ACS1 EURAUD.,H4: deinitialized
+0	06:03:56.010	Laguerre-ACS1 EURAUD.,H4: uninit reason 9
+0	06:03:56.010	SupResZone_MTF AUDJPY.,H4: uninit reason 9
+0	06:03:56.014	SupResZone_MTF AUDJPY.,H4: uninit reason 9
+0	06:03:56.014	SupResZone_MTF AUDJPY.,H4: uninit reason 9
+0	06:03:56.014	SupResZone_MTF AUDJPY.,H4: uninit reason 9
+0	06:03:56.017	MACD-2x AUDJPY.,H4: uninit reason 9
+0	06:03:56.017	Laguerre-ACS1 AUDJPY.,H4: deinitialized
+0	06:03:56.017	Laguerre-ACS1 AUDJPY.,H4: uninit reason 9
+0	06:03:56.017	SupResZone_MTF AUDUSD.,H4: uninit reason 9
+0	06:03:56.020	SupResZone_MTF AUDUSD.,H4: uninit reason 9
+0	06:03:56.020	SupResZone_MTF AUDUSD.,H4: uninit reason 9
+0	06:03:56.020	SupResZone_MTF AUDUSD.,H4: uninit reason 9
+0	06:03:56.024	MACD-2x AUDUSD.,H4: uninit reason 9
+0	06:03:56.024	Laguerre-ACS1 AUDUSD.,H4: deinitialized
+0	06:03:56.024	Laguerre-ACS1 AUDUSD.,H4: uninit reason 9
+0	06:03:56.024	SupResZone_MTF USDJPY.,H4: uninit reason 9
+0	06:03:56.027	SupResZone_MTF USDJPY.,H4: uninit reason 9
+0	06:03:56.027	SupResZone_MTF USDJPY.,H4: uninit reason 9
+0	06:03:56.027	SupResZone_MTF USDJPY.,H4: uninit reason 9
+0	06:03:56.030	MACD-2x USDJPY.,H4: uninit reason 9
+0	06:03:56.030	Laguerre-ACS1 USDJPY.,H4: deinitialized
+0	06:03:56.030	Laguerre-ACS1 USDJPY.,H4: uninit reason 9
+0	06:03:56.030	SupResZone_MTF EURJPY.,H4: uninit reason 9
+0	06:03:56.035	SupResZone_MTF EURJPY.,H4: uninit reason 9
+0	06:03:56.035	SupResZone_MTF EURJPY.,H4: uninit reason 9
+0	06:03:56.035	SupResZone_MTF EURJPY.,H4: uninit reason 9
+0	06:03:56.038	MACD-2x EURJPY.,H4: uninit reason 9
+0	06:03:56.038	Laguerre-ACS1 EURJPY.,H4: deinitialized
+0	06:03:56.038	Laguerre-ACS1 EURJPY.,H4: uninit reason 9
+0	06:03:56.038	SupResZone_MTF EURUSD.,H4: uninit reason 9
+0	06:03:56.042	SupResZone_MTF EURUSD.,H4: uninit reason 9
+0	06:03:56.042	SupResZone_MTF EURUSD.,H4: uninit reason 9
+0	06:03:56.042	SupResZone_MTF EURUSD.,H4: uninit reason 9
+0	06:03:56.045	MACD-2x EURUSD.,H4: uninit reason 9
+0	06:03:56.045	Laguerre-ACS1 EURUSD.,H4: deinitialized
+0	06:03:56.045	Laguerre-ACS1 EURUSD.,H4: uninit reason 9
+0	06:03:56.045	SupResZone_MTF GBPJPY.,H4: uninit reason 9
+0	06:03:56.049	SupResZone_MTF GBPJPY.,H4: uninit reason 9
+0	06:03:56.049	SupResZone_MTF GBPJPY.,H4: uninit reason 9
+0	06:03:56.049	SupResZone_MTF GBPJPY.,H4: uninit reason 9
+0	06:03:56.051	MACD-2x GBPJPY.,H4: uninit reason 9
+0	06:03:56.051	Laguerre-ACS1 GBPJPY.,H4: deinitialized
+0	06:03:56.051	Laguerre-ACS1 GBPJPY.,H4: uninit reason 9
+0	06:03:56.051	SupResZone_MTF GBPUSD.,H4: uninit reason 9
+0	06:03:56.056	SupResZone_MTF GBPUSD.,H4: uninit reason 9
+0	06:03:56.056	SupResZone_MTF GBPUSD.,H4: uninit reason 9
+0	06:03:56.056	SupResZone_MTF GBPUSD.,H4: uninit reason 9
+0	06:03:56.059	MACD-2x GBPUSD.,H4: uninit reason 9
+0	06:03:56.059	Laguerre-ACS1 GBPUSD.,H4: deinitialized
+0	06:03:56.059	Laguerre-ACS1 GBPUSD.,H4: uninit reason 9
+0	06:03:56.059	SupResZone_MTF USDCAD.,H4: uninit reason 9
+0	06:03:56.062	SupResZone_MTF USDCAD.,H4: uninit reason 9
+0	06:03:56.062	SupResZone_MTF USDCAD.,H4: uninit reason 9
+0	06:03:56.062	SupResZone_MTF USDCAD.,H4: uninit reason 9
+0	06:03:56.065	MACD-2x USDCAD.,H4: uninit reason 9
+0	06:03:56.065	Laguerre-ACS1 USDCAD.,H4: deinitialized
+0	06:03:56.065	Laguerre-ACS1 USDCAD.,H4: uninit reason 9
+0	06:03:56.065	SupResZone_MTF USDCHF.,H4: uninit reason 9
+0	06:03:56.068	SupResZone_MTF USDCHF.,H4: uninit reason 9
+0	06:03:56.068	SupResZone_MTF USDCHF.,H4: uninit reason 9
+0	06:03:56.068	SupResZone_MTF USDCHF.,H4: uninit reason 9
+0	06:03:56.071	MACD-2x USDCHF.,H4: uninit reason 9
+0	06:03:56.071	Laguerre-ACS1 USDCHF.,H4: deinitialized
+0	06:03:56.071	Laguerre-ACS1 USDCHF.,H4: uninit reason 9
+0	06:03:56.071	SupResZone_MTF USDCNH,Daily: uninit reason 9
+0	06:03:56.075	SupResZone_MTF USDCNH,Daily: uninit reason 9
+0	06:03:56.075	SupResZone_MTF USDCNH,Daily: uninit reason 9
+0	06:03:56.075	SupResZone_MTF USDCNH,Daily: uninit reason 9
+0	06:03:56.075	MACD-2x USDCNH,Daily: uninit reason 9
+0	06:03:56.075	Laguerre-ACS1 USDCNH,Daily: deinitialized
+0	06:03:56.075	Laguerre-ACS1 USDCNH,Daily: uninit reason 9
+0	06:03:56.075	GMMA Long USDJPY.,H4: uninit reason 9
+0	06:03:56.075	GMMA Short USDJPY.,H4: uninit reason 9
+0	06:03:56.075	23MTF_MovingAverageIGOR USDJPY.,H4: uninit reason 9
+0	06:03:56.075	23MTF_MovingAverageIGOR USDJPY.,H4: uninit reason 9
+0	06:03:56.075	SupResZone_MTF USDJPY.,H4: uninit reason 9
+0	06:03:56.075	SupResZone_MTF USDJPY.,H4: uninit reason 9
+0	06:03:56.078	MACD-2x USDJPY.,H4: uninit reason 9
+0	06:03:56.078	SupResZone_MTF CHINA300,Daily: uninit reason 9
+0	06:03:56.081	SupResZone_MTF CHINA300,Daily: uninit reason 9
+0	06:03:56.081	SupResZone_MTF CHINA300,Daily: uninit reason 9
+0	06:03:56.082	SupResZone_MTF CHINA300,Daily: uninit reason 9
+0	06:03:56.082	MACD-2x CHINA300,Daily: uninit reason 9
+0	06:03:56.082	Laguerre-ACS1 CHINA300,Daily: deinitialized
+0	06:03:56.082	Laguerre-ACS1 CHINA300,Daily: uninit reason 9
+0	06:03:56.082	23MTF_MovingAverageIGOR CADJPY.,H1: uninit reason 9
+0	06:03:56.082	ADR CADJPY.,H1: uninit reason 9
+0	06:03:56.082	SupResZone_MTF CADJPY.,H1: uninit reason 9
+0	06:03:56.086	Laguerre-ACS1 CADJPY.,H1: deinitialized
+0	06:03:56.086	Laguerre-ACS1 CADJPY.,H1: uninit reason 9
+0	06:03:56.086	MACD-2x CADJPY.,H1: uninit reason 9
+0	06:03:56.257	Custom indicator SupResZone_MTF USDXXX,Daily: removed
+0	06:03:56.259	Custom indicator SupResZone_MTF USDXXX,Daily: removed
+0	06:03:56.261	Custom indicator SupResZone_MTF USDXXX,Daily: removed
+0	06:03:56.263	Custom indicator SupResZone_MTF USDXXX,Daily: removed
+0	06:03:56.265	Custom indicator MACD-2x USDXXX,Daily: removed
+0	06:03:56.265	Custom indicator Laguerre-ACS1 USDXXX,Daily: removed
+0	06:03:56.270	Custom indicator SupResZone_MTF XAUUSD.,H4: removed
+0	06:03:56.272	Custom indicator SupResZone_MTF XAUUSD.,H4: removed
+0	06:03:56.274	Custom indicator SupResZone_MTF XAUUSD.,H4: removed
+0	06:03:56.276	Custom indicator SupResZone_MTF XAUUSD.,H4: removed
+0	06:03:56.277	Custom indicator MACD-2x XAUUSD.,H4: removed
+0	06:03:56.277	Custom indicator Laguerre-ACS1 XAUUSD.,H4: removed
+0	06:03:56.283	Custom indicator SupResZone_MTF XAGUSD.,H1: removed
+0	06:03:56.286	Custom indicator SupResZone_MTF XAGUSD.,H1: removed
+0	06:03:56.287	Custom indicator SupResZone_MTF XAGUSD.,H1: removed
+0	06:03:56.290	Custom indicator SupResZone_MTF XAGUSD.,H1: removed
+0	06:03:56.292	Custom indicator MACD-2x XAGUSD.,H1: removed
+0	06:03:56.292	Custom indicator Laguerre-ACS1 XAGUSD.,H1: removed
+0	06:03:56.299	Custom indicator SupResZone_MTF US_OIL,H4: removed
+0	06:03:56.300	Custom indicator SupResZone_MTF US_OIL,H4: removed
+0	06:03:56.302	Custom indicator SupResZone_MTF US_OIL,H4: removed
+0	06:03:56.303	Custom indicator SupResZone_MTF US_OIL,H4: removed
+0	06:03:56.306	Custom indicator MACD-2x US_OIL,H4: removed
+0	06:03:56.306	Custom indicator Laguerre-ACS1 US_OIL,H4: removed
+0	06:03:56.314	Custom indicator SupResZone_MTF JP225,H4: removed
+0	06:03:56.316	Custom indicator SupResZone_MTF JP225,H4: removed
+0	06:03:56.318	Custom indicator SupResZone_MTF JP225,H4: removed
+0	06:03:56.320	Custom indicator SupResZone_MTF JP225,H4: removed
+0	06:03:56.322	Custom indicator MACD-2x JP225,H4: removed
+0	06:03:56.323	Custom indicator Laguerre-ACS1 JP225,H4: removed
+0	06:03:56.339	Custom indicator SupResZone_MTF SPX500,H4: removed
+0	06:03:56.342	Custom indicator SupResZone_MTF SPX500,H4: removed
+0	06:03:56.344	Custom indicator SupResZone_MTF SPX500,H4: removed
+0	06:03:56.346	Custom indicator SupResZone_MTF SPX500,H4: removed
+0	06:03:56.348	Custom indicator MACD-2x SPX500,H4: removed
+0	06:03:56.349	Custom indicator Laguerre-ACS1 SPX500,H4: removed
+0	06:03:56.359	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+0	06:03:56.362	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+0	06:03:56.364	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+0	06:03:56.366	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+0	06:03:56.368	Custom indicator MACD-2x EURAUD.,H4: removed
+0	06:03:56.369	Custom indicator Laguerre-ACS1 EURAUD.,H4: removed
+0	06:03:56.377	Custom indicator SupResZone_MTF AUDJPY.,H4: removed
+0	06:03:56.379	Custom indicator SupResZone_MTF AUDJPY.,H4: removed
+0	06:03:56.380	Custom indicator SupResZone_MTF AUDJPY.,H4: removed
+0	06:03:56.382	Custom indicator SupResZone_MTF AUDJPY.,H4: removed
+0	06:03:56.383	Custom indicator MACD-2x AUDJPY.,H4: removed
+0	06:03:56.383	Custom indicator Laguerre-ACS1 AUDJPY.,H4: removed
+0	06:03:56.392	Custom indicator SupResZone_MTF AUDUSD.,H4: removed
+0	06:03:56.394	Custom indicator SupResZone_MTF AUDUSD.,H4: removed
+0	06:03:56.396	Custom indicator SupResZone_MTF AUDUSD.,H4: removed
+0	06:03:56.398	Custom indicator SupResZone_MTF AUDUSD.,H4: removed
+0	06:03:56.400	Custom indicator MACD-2x AUDUSD.,H4: removed
+0	06:03:56.400	Custom indicator Laguerre-ACS1 AUDUSD.,H4: removed
+0	06:03:56.409	Custom indicator SupResZone_MTF USDJPY.,H4: removed
+0	06:03:56.412	Custom indicator SupResZone_MTF USDJPY.,H4: removed
+0	06:03:56.413	Custom indicator SupResZone_MTF USDJPY.,H4: removed
+0	06:03:56.416	Custom indicator SupResZone_MTF USDJPY.,H4: removed
+0	06:03:56.418	Custom indicator MACD-2x USDJPY.,H4: removed
+0	06:03:56.418	Custom indicator Laguerre-ACS1 USDJPY.,H4: removed
+0	06:03:56.426	Custom indicator SupResZone_MTF EURJPY.,H4: removed
+0	06:03:56.427	Custom indicator SupResZone_MTF EURJPY.,H4: removed
+0	06:03:56.429	Custom indicator SupResZone_MTF EURJPY.,H4: removed
+0	06:03:56.431	Custom indicator SupResZone_MTF EURJPY.,H4: removed
+0	06:03:56.433	Custom indicator MACD-2x EURJPY.,H4: removed
+0	06:03:56.433	Custom indicator Laguerre-ACS1 EURJPY.,H4: removed
+0	06:03:56.439	Custom indicator SupResZone_MTF EURUSD.,H4: removed
+0	06:03:56.441	Custom indicator SupResZone_MTF EURUSD.,H4: removed
+0	06:03:56.443	Custom indicator SupResZone_MTF EURUSD.,H4: removed
+0	06:03:56.445	Custom indicator SupResZone_MTF EURUSD.,H4: removed
+0	06:03:56.447	Custom indicator MACD-2x EURUSD.,H4: removed
+0	06:03:56.447	Custom indicator Laguerre-ACS1 EURUSD.,H4: removed
+0	06:03:56.454	Custom indicator SupResZone_MTF GBPJPY.,H4: removed
+0	06:03:56.456	Custom indicator SupResZone_MTF GBPJPY.,H4: removed
+0	06:03:56.459	Custom indicator SupResZone_MTF GBPJPY.,H4: removed
+0	06:03:56.460	Custom indicator SupResZone_MTF GBPJPY.,H4: removed
+0	06:03:56.462	Custom indicator MACD-2x GBPJPY.,H4: removed
+0	06:03:56.462	Custom indicator Laguerre-ACS1 GBPJPY.,H4: removed
+0	06:03:56.471	Custom indicator SupResZone_MTF GBPUSD.,H4: removed
+0	06:03:56.473	Custom indicator SupResZone_MTF GBPUSD.,H4: removed
+0	06:03:56.474	Custom indicator SupResZone_MTF GBPUSD.,H4: removed
+0	06:03:56.476	Custom indicator SupResZone_MTF GBPUSD.,H4: removed
+0	06:03:56.477	Custom indicator MACD-2x GBPUSD.,H4: removed
+0	06:03:56.478	Custom indicator Laguerre-ACS1 GBPUSD.,H4: removed
+0	06:03:56.484	Custom indicator SupResZone_MTF USDCAD.,H4: removed
+0	06:03:56.486	Custom indicator SupResZone_MTF USDCAD.,H4: removed
+0	06:03:56.488	Custom indicator SupResZone_MTF USDCAD.,H4: removed
+0	06:03:56.489	Custom indicator SupResZone_MTF USDCAD.,H4: removed
+0	06:03:56.491	Custom indicator MACD-2x USDCAD.,H4: removed
+0	06:03:56.491	Custom indicator Laguerre-ACS1 USDCAD.,H4: removed
+0	06:03:56.516	Custom indicator SupResZone_MTF USDCHF.,H4: removed
+0	06:03:56.517	Custom indicator SupResZone_MTF USDCHF.,H4: removed
+0	06:03:56.519	Custom indicator SupResZone_MTF USDCHF.,H4: removed
+0	06:03:56.521	Custom indicator SupResZone_MTF USDCHF.,H4: removed
+0	06:03:56.523	Custom indicator MACD-2x USDCHF.,H4: removed
+0	06:03:56.523	Custom indicator Laguerre-ACS1 USDCHF.,H4: removed
+0	06:03:56.531	Custom indicator SupResZone_MTF USDCNH,Daily: removed
+0	06:03:56.533	Custom indicator SupResZone_MTF USDCNH,Daily: removed
+0	06:03:56.536	Custom indicator SupResZone_MTF USDCNH,Daily: removed
+0	06:03:56.538	Custom indicator SupResZone_MTF USDCNH,Daily: removed
+0	06:03:56.542	Custom indicator MACD-2x USDCNH,Daily: removed
+0	06:03:56.542	Custom indicator Laguerre-ACS1 USDCNH,Daily: removed
+0	06:03:56.562	Custom indicator GMMA Long USDJPY.,H4: removed
+0	06:03:56.564	Custom indicator GMMA Short USDJPY.,H4: removed
+0	06:03:56.566	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H4: removed
+0	06:03:56.568	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H4: removed
+0	06:03:56.569	Custom indicator SupResZone_MTF USDJPY.,H4: removed
+0	06:03:56.571	Custom indicator SupResZone_MTF USDJPY.,H4: removed
+0	06:03:56.573	Custom indicator MACD-2x USDJPY.,H4: removed
+0	06:03:56.579	Custom indicator SupResZone_MTF CHINA300,Daily: removed
+0	06:03:56.581	Custom indicator SupResZone_MTF CHINA300,Daily: removed
+0	06:03:56.583	Custom indicator SupResZone_MTF CHINA300,Daily: removed
+0	06:03:56.585	Custom indicator SupResZone_MTF CHINA300,Daily: removed
+0	06:03:56.587	Custom indicator MACD-2x CHINA300,Daily: removed
+0	06:03:56.587	Custom indicator Laguerre-ACS1 CHINA300,Daily: removed
+0	06:03:56.598	Custom indicator 23MTF_MovingAverageIGOR CADJPY.,H1: removed
+0	06:03:56.600	Custom indicator ADR CADJPY.,H1: removed
+0	06:03:56.602	Custom indicator SupResZone_MTF CADJPY.,H1: removed
+0	06:03:56.603	Custom indicator Laguerre-ACS1 CADJPY.,H1: removed
+0	06:03:56.605	Custom indicator MACD-2x CADJPY.,H1: removed
+0	18:27:52.201	Custom indicator SupResZone_MTF USDXXX,Daily: loaded successfully
+0	18:27:52.211	Custom indicator SupResZone_MTF USDXXX,Daily: loaded successfully
+0	18:27:52.222	Custom indicator SupResZone_MTF USDXXX,Daily: loaded successfully
+0	18:27:52.232	Custom indicator SupResZone_MTF USDXXX,Daily: loaded successfully
+0	18:27:52.241	Custom indicator MACD-2x USDXXX,Daily: loaded successfully
+0	18:27:52.320	Custom indicator Laguerre-ACS1 USDXXX,Daily: loaded successfully
+0	18:27:52.361	SupResZone_MTF USDXXX,Daily: initialized
+0	18:27:52.374	SupResZone_MTF USDXXX,Daily: Alert: Smaller TimeFrame selected!
+0	18:27:52.374	SupResZone_MTF USDXXX,Daily: initialized
+0	18:27:52.386	SupResZone_MTF USDXXX,Daily: Alert: Smaller TimeFrame selected!
+0	18:27:52.386	SupResZone_MTF USDXXX,Daily: initialized
+0	18:27:52.399	SupResZone_MTF USDXXX,Daily: Alert: Smaller TimeFrame selected!
+0	18:27:52.399	SupResZone_MTF USDXXX,Daily: initialized
+0	18:27:52.411	MACD-2x USDXXX,Daily: initialized
+0	18:27:52.411	Laguerre-ACS1 USDXXX,Daily: initialized
+0	18:27:52.536	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+0	18:27:52.556	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+0	18:27:52.566	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+0	18:27:52.578	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+0	18:27:52.588	Custom indicator MACD-2x XAUUSD.,H4: loaded successfully
+0	18:27:52.660	Custom indicator Laguerre-ACS1 XAUUSD.,H4: loaded successfully
+0	18:27:52.675	SupResZone_MTF XAUUSD.,H4: initialized
+0	18:27:52.689	SupResZone_MTF XAUUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:52.689	SupResZone_MTF XAUUSD.,H4: initialized
+0	18:27:52.701	SupResZone_MTF XAUUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:52.701	SupResZone_MTF XAUUSD.,H4: initialized
+0	18:27:52.713	SupResZone_MTF XAUUSD.,H4: initialized
+0	18:27:52.725	MACD-2x XAUUSD.,H4: initialized
+0	18:27:52.725	Laguerre-ACS1 XAUUSD.,H4: initialized
+0	18:27:52.859	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+0	18:27:52.869	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+0	18:27:52.880	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+0	18:27:52.892	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+0	18:27:52.903	Custom indicator MACD-2x XAGUSD.,H1: loaded successfully
+0	18:27:52.977	Custom indicator Laguerre-ACS1 XAGUSD.,H1: loaded successfully
+0	18:27:53.027	SupResZone_MTF XAGUSD.,H1: initialized
+0	18:27:53.041	SupResZone_MTF XAGUSD.,H1: initialized
+0	18:27:53.053	SupResZone_MTF XAGUSD.,H1: Alert: Smaller TimeFrame selected!
+0	18:27:53.053	SupResZone_MTF XAGUSD.,H1: initialized
+0	18:27:53.065	SupResZone_MTF XAGUSD.,H1: initialized
+0	18:27:53.078	MACD-2x XAGUSD.,H1: initialized
+0	18:27:53.078	Laguerre-ACS1 XAGUSD.,H1: initialized
+0	18:27:53.206	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+0	18:27:53.217	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+0	18:27:53.228	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+0	18:27:53.237	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+0	18:27:53.248	Custom indicator MACD-2x US_OIL,H4: loaded successfully
+0	18:27:53.322	Custom indicator Laguerre-ACS1 US_OIL,H4: loaded successfully
+0	18:27:53.361	SupResZone_MTF US_OIL,H4: initialized
+0	18:27:53.372	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	18:27:53.372	SupResZone_MTF US_OIL,H4: initialized
+0	18:27:53.386	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	18:27:53.386	SupResZone_MTF US_OIL,H4: initialized
+0	18:27:53.397	SupResZone_MTF US_OIL,H4: initialized
+0	18:27:53.409	MACD-2x US_OIL,H4: initialized
+0	18:27:53.409	Laguerre-ACS1 US_OIL,H4: initialized
+0	18:27:53.544	Custom indicator SupResZone_MTF JP225,H4: loaded successfully
+0	18:27:53.557	Custom indicator SupResZone_MTF JP225,H4: loaded successfully
+0	18:27:53.576	Custom indicator SupResZone_MTF JP225,H4: loaded successfully
+0	18:27:53.586	Custom indicator SupResZone_MTF JP225,H4: loaded successfully
+0	18:27:53.596	Custom indicator MACD-2x JP225,H4: loaded successfully
+0	18:27:53.681	Custom indicator Laguerre-ACS1 JP225,H4: loaded successfully
+0	18:27:53.736	SupResZone_MTF JP225,H4: initialized
+0	18:27:53.757	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	18:27:53.757	SupResZone_MTF JP225,H4: initialized
+0	18:27:53.770	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	18:27:53.770	SupResZone_MTF JP225,H4: initialized
+0	18:27:53.782	SupResZone_MTF JP225,H4: initialized
+0	18:27:53.795	MACD-2x JP225,H4: initialized
+0	18:27:53.795	Laguerre-ACS1 JP225,H4: initialized
+0	18:27:53.971	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+0	18:27:53.992	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+0	18:27:54.003	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+0	18:27:54.014	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+0	18:27:54.024	Custom indicator MACD-2x SPX500,H4: loaded successfully
+0	18:27:54.099	Custom indicator Laguerre-ACS1 SPX500,H4: loaded successfully
+0	18:27:54.139	SupResZone_MTF SPX500,H4: initialized
+0	18:27:54.173	SupResZone_MTF SPX500,H4: Alert: Smaller TimeFrame selected!
+0	18:27:54.173	SupResZone_MTF SPX500,H4: initialized
+0	18:27:54.188	SupResZone_MTF SPX500,H4: Alert: Smaller TimeFrame selected!
+0	18:27:54.188	SupResZone_MTF SPX500,H4: initialized
+0	18:27:54.202	SupResZone_MTF SPX500,H4: initialized
+0	18:27:54.215	MACD-2x SPX500,H4: initialized
+0	18:27:54.215	Laguerre-ACS1 SPX500,H4: initialized
+0	18:27:54.398	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+0	18:27:54.409	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+0	18:27:54.420	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+0	18:27:54.430	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+0	18:27:54.441	Custom indicator MACD-2x EURAUD.,H4: loaded successfully
+0	18:27:54.514	Custom indicator Laguerre-ACS1 EURAUD.,H4: loaded successfully
+0	18:27:54.563	SupResZone_MTF EURAUD.,H4: initialized
+0	18:27:54.575	SupResZone_MTF EURAUD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:54.575	SupResZone_MTF EURAUD.,H4: initialized
+0	18:27:54.587	SupResZone_MTF EURAUD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:54.587	SupResZone_MTF EURAUD.,H4: initialized
+0	18:27:54.599	SupResZone_MTF EURAUD.,H4: initialized
+0	18:27:54.611	MACD-2x EURAUD.,H4: initialized
+0	18:27:54.611	Laguerre-ACS1 EURAUD.,H4: initialized
+0	18:27:54.732	Custom indicator SupResZone_MTF AUDJPY.,H4: loaded successfully
+0	18:27:54.745	Custom indicator SupResZone_MTF AUDJPY.,H4: loaded successfully
+0	18:27:54.756	Custom indicator SupResZone_MTF AUDJPY.,H4: loaded successfully
+0	18:27:54.767	Custom indicator SupResZone_MTF AUDJPY.,H4: loaded successfully
+0	18:27:54.777	Custom indicator MACD-2x AUDJPY.,H4: loaded successfully
+0	18:27:54.848	Custom indicator Laguerre-ACS1 AUDJPY.,H4: loaded successfully
+0	18:27:54.889	SupResZone_MTF AUDJPY.,H4: initialized
+0	18:27:54.902	SupResZone_MTF AUDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:54.902	SupResZone_MTF AUDJPY.,H4: initialized
+0	18:27:54.916	SupResZone_MTF AUDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:54.916	SupResZone_MTF AUDJPY.,H4: initialized
+0	18:27:54.929	SupResZone_MTF AUDJPY.,H4: initialized
+0	18:27:54.941	MACD-2x AUDJPY.,H4: initialized
+0	18:27:54.941	Laguerre-ACS1 AUDJPY.,H4: initialized
+0	18:27:55.075	Custom indicator SupResZone_MTF AUDUSD.,H4: loaded successfully
+0	18:27:55.086	Custom indicator SupResZone_MTF AUDUSD.,H4: loaded successfully
+0	18:27:55.096	Custom indicator SupResZone_MTF AUDUSD.,H4: loaded successfully
+0	18:27:55.106	Custom indicator SupResZone_MTF AUDUSD.,H4: loaded successfully
+0	18:27:55.117	Custom indicator MACD-2x AUDUSD.,H4: loaded successfully
+0	18:27:55.189	Custom indicator Laguerre-ACS1 AUDUSD.,H4: loaded successfully
+0	18:27:55.232	SupResZone_MTF AUDUSD.,H4: initialized
+0	18:27:55.256	SupResZone_MTF AUDUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:55.256	SupResZone_MTF AUDUSD.,H4: initialized
+0	18:27:55.267	SupResZone_MTF AUDUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:55.267	SupResZone_MTF AUDUSD.,H4: initialized
+0	18:27:55.282	SupResZone_MTF AUDUSD.,H4: initialized
+0	18:27:55.295	MACD-2x AUDUSD.,H4: initialized
+0	18:27:55.295	Laguerre-ACS1 AUDUSD.,H4: initialized
+0	18:27:55.421	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+0	18:27:55.432	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+0	18:27:55.442	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+0	18:27:55.453	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+0	18:27:55.464	Custom indicator MACD-2x USDJPY.,H4: loaded successfully
+0	18:27:55.537	Custom indicator Laguerre-ACS1 USDJPY.,H4: loaded successfully
+0	18:27:55.576	SupResZone_MTF USDJPY.,H4: initialized
+0	18:27:55.588	SupResZone_MTF USDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:55.588	SupResZone_MTF USDJPY.,H4: initialized
+0	18:27:55.600	SupResZone_MTF USDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:55.600	SupResZone_MTF USDJPY.,H4: initialized
+0	18:27:55.612	SupResZone_MTF USDJPY.,H4: initialized
+0	18:27:55.624	MACD-2x USDJPY.,H4: initialized
+0	18:27:55.624	Laguerre-ACS1 USDJPY.,H4: initialized
+0	18:27:55.776	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+0	18:27:55.787	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+0	18:27:55.807	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+0	18:27:55.825	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+0	18:27:55.835	Custom indicator MACD-2x EURJPY.,H4: loaded successfully
+0	18:27:55.911	Custom indicator Laguerre-ACS1 EURJPY.,H4: loaded successfully
+0	18:27:55.967	SupResZone_MTF EURJPY.,H4: initialized
+0	18:27:55.982	SupResZone_MTF EURJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:55.982	SupResZone_MTF EURJPY.,H4: initialized
+0	18:27:55.995	SupResZone_MTF EURJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:55.995	SupResZone_MTF EURJPY.,H4: initialized
+0	18:27:56.007	SupResZone_MTF EURJPY.,H4: initialized
+0	18:27:56.019	MACD-2x EURJPY.,H4: initialized
+0	18:27:56.019	Laguerre-ACS1 EURJPY.,H4: initialized
+0	18:27:56.192	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+0	18:27:56.215	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+0	18:27:56.238	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+0	18:27:56.250	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+0	18:27:56.262	Custom indicator MACD-2x EURUSD.,H4: loaded successfully
+0	18:27:56.349	Custom indicator Laguerre-ACS1 EURUSD.,H4: loaded successfully
+0	18:27:56.420	SupResZone_MTF EURUSD.,H4: initialized
+0	18:27:56.440	SupResZone_MTF EURUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:56.440	SupResZone_MTF EURUSD.,H4: initialized
+0	18:27:56.457	SupResZone_MTF EURUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:56.457	SupResZone_MTF EURUSD.,H4: initialized
+0	18:27:56.469	SupResZone_MTF EURUSD.,H4: initialized
+0	18:27:56.481	MACD-2x EURUSD.,H4: initialized
+0	18:27:56.482	Laguerre-ACS1 EURUSD.,H4: initialized
+0	18:27:56.695	Custom indicator SupResZone_MTF GBPJPY.,H4: loaded successfully
+0	18:27:56.716	Custom indicator SupResZone_MTF GBPJPY.,H4: loaded successfully
+0	18:27:56.730	Custom indicator SupResZone_MTF GBPJPY.,H4: loaded successfully
+0	18:27:56.743	Custom indicator SupResZone_MTF GBPJPY.,H4: loaded successfully
+0	18:27:56.755	Custom indicator MACD-2x GBPJPY.,H4: loaded successfully
+0	18:27:56.826	Custom indicator Laguerre-ACS1 GBPJPY.,H4: loaded successfully
+0	18:27:56.863	SupResZone_MTF GBPJPY.,H4: initialized
+0	18:27:56.876	SupResZone_MTF GBPJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:56.876	SupResZone_MTF GBPJPY.,H4: initialized
+0	18:27:56.888	SupResZone_MTF GBPJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:56.888	SupResZone_MTF GBPJPY.,H4: initialized
+0	18:27:56.900	SupResZone_MTF GBPJPY.,H4: initialized
+0	18:27:56.914	MACD-2x GBPJPY.,H4: initialized
+0	18:27:56.914	Laguerre-ACS1 GBPJPY.,H4: initialized
+0	18:27:57.039	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+0	18:27:57.049	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+0	18:27:57.061	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+0	18:27:57.072	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+0	18:27:57.084	Custom indicator MACD-2x GBPUSD.,H4: loaded successfully
+0	18:27:57.160	Custom indicator Laguerre-ACS1 GBPUSD.,H4: loaded successfully
+0	18:27:57.200	SupResZone_MTF GBPUSD.,H4: initialized
+0	18:27:57.231	SupResZone_MTF GBPUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:57.231	SupResZone_MTF GBPUSD.,H4: initialized
+0	18:27:57.242	SupResZone_MTF GBPUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:57.242	SupResZone_MTF GBPUSD.,H4: initialized
+0	18:27:57.255	SupResZone_MTF GBPUSD.,H4: initialized
+0	18:27:57.267	MACD-2x GBPUSD.,H4: initialized
+0	18:27:57.267	Laguerre-ACS1 GBPUSD.,H4: initialized
+0	18:27:57.449	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+0	18:27:57.459	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+0	18:27:57.470	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+0	18:27:57.480	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+0	18:27:57.491	Custom indicator MACD-2x USDCAD.,H4: loaded successfully
+0	18:27:57.563	Custom indicator Laguerre-ACS1 USDCAD.,H4: loaded successfully
+0	18:27:57.616	SupResZone_MTF USDCAD.,H4: initialized
+0	18:27:57.631	SupResZone_MTF USDCAD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:57.631	SupResZone_MTF USDCAD.,H4: initialized
+0	18:27:57.643	SupResZone_MTF USDCAD.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:57.643	SupResZone_MTF USDCAD.,H4: initialized
+0	18:27:57.655	SupResZone_MTF USDCAD.,H4: initialized
+0	18:27:57.668	MACD-2x USDCAD.,H4: initialized
+0	18:27:57.668	Laguerre-ACS1 USDCAD.,H4: initialized
+0	18:27:57.787	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+0	18:27:57.798	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+0	18:27:57.809	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+0	18:27:57.822	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+0	18:27:57.834	Custom indicator MACD-2x USDCHF.,H4: loaded successfully
+0	18:27:57.906	Custom indicator Laguerre-ACS1 USDCHF.,H4: loaded successfully
+0	18:27:57.957	SupResZone_MTF USDCHF.,H4: initialized
+0	18:27:57.974	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:57.974	SupResZone_MTF USDCHF.,H4: initialized
+0	18:27:57.988	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:57.988	SupResZone_MTF USDCHF.,H4: initialized
+0	18:27:58.000	SupResZone_MTF USDCHF.,H4: initialized
+0	18:27:58.013	MACD-2x USDCHF.,H4: initialized
+0	18:27:58.013	Laguerre-ACS1 USDCHF.,H4: initialized
+0	18:27:58.143	Custom indicator SupResZone_MTF USDCNH,Daily: loaded successfully
+0	18:27:58.155	Custom indicator SupResZone_MTF USDCNH,Daily: loaded successfully
+0	18:27:58.166	Custom indicator SupResZone_MTF USDCNH,Daily: loaded successfully
+0	18:27:58.176	Custom indicator SupResZone_MTF USDCNH,Daily: loaded successfully
+0	18:27:58.186	Custom indicator MACD-2x USDCNH,Daily: loaded successfully
+0	18:27:58.258	Custom indicator Laguerre-ACS1 USDCNH,Daily: loaded successfully
+0	18:27:58.273	SupResZone_MTF USDCNH,Daily: initialized
+0	18:27:58.287	SupResZone_MTF USDCNH,Daily: Alert: Smaller TimeFrame selected!
+0	18:27:58.287	SupResZone_MTF USDCNH,Daily: initialized
+0	18:27:58.300	SupResZone_MTF USDCNH,Daily: Alert: Smaller TimeFrame selected!
+0	18:27:58.300	SupResZone_MTF USDCNH,Daily: initialized
+0	18:27:58.312	SupResZone_MTF USDCNH,Daily: Alert: Smaller TimeFrame selected!
+0	18:27:58.312	SupResZone_MTF USDCNH,Daily: initialized
+0	18:27:58.324	MACD-2x USDCNH,Daily: initialized
+0	18:27:58.324	Laguerre-ACS1 USDCNH,Daily: initialized
+0	18:27:58.417	Custom indicator GMMA Long USDJPY.,H4: loaded successfully
+0	18:27:58.426	Custom indicator GMMA Short USDJPY.,H4: loaded successfully
+0	18:27:58.435	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H4: loaded successfully
+0	18:27:58.443	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H4: loaded successfully
+0	18:27:58.455	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+0	18:27:58.466	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+0	18:27:58.477	Custom indicator MACD-2x USDJPY.,H4: loaded successfully
+0	18:27:58.489	GMMA Long USDJPY.,H4: initialized
+0	18:27:58.502	GMMA Short USDJPY.,H4: initialized
+0	18:27:58.511	23MTF_MovingAverageIGOR USDJPY.,H4: initialized
+0	18:27:58.520	23MTF_MovingAverageIGOR USDJPY.,H4: initialized
+0	18:27:58.531	SupResZone_MTF USDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:27:58.531	SupResZone_MTF USDJPY.,H4: initialized
+0	18:27:58.543	SupResZone_MTF USDJPY.,H4: initialized
+0	18:27:58.556	MACD-2x USDJPY.,H4: initialized
+0	18:27:58.742	Custom indicator SupResZone_MTF CHINA300,Daily: loaded successfully
+0	18:27:58.762	Custom indicator SupResZone_MTF CHINA300,Daily: loaded successfully
+0	18:27:58.772	Custom indicator SupResZone_MTF CHINA300,Daily: loaded successfully
+0	18:27:58.783	Custom indicator SupResZone_MTF CHINA300,Daily: loaded successfully
+0	18:27:58.792	Custom indicator MACD-2x CHINA300,Daily: loaded successfully
+0	18:27:58.866	Custom indicator Laguerre-ACS1 CHINA300,Daily: loaded successfully
+0	18:27:58.903	SupResZone_MTF CHINA300,Daily: initialized
+0	18:27:58.916	SupResZone_MTF CHINA300,Daily: Alert: Smaller TimeFrame selected!
+0	18:27:58.916	SupResZone_MTF CHINA300,Daily: initialized
+0	18:27:58.927	SupResZone_MTF CHINA300,Daily: Alert: Smaller TimeFrame selected!
+0	18:27:58.927	SupResZone_MTF CHINA300,Daily: initialized
+0	18:27:58.939	SupResZone_MTF CHINA300,Daily: Alert: Smaller TimeFrame selected!
+0	18:27:58.939	SupResZone_MTF CHINA300,Daily: initialized
+0	18:27:58.952	MACD-2x CHINA300,Daily: initialized
+0	18:27:58.952	Laguerre-ACS1 CHINA300,Daily: initialized
+0	18:27:59.062	Custom indicator 23MTF_MovingAverageIGOR CADJPY.,H1: loaded successfully
+0	18:27:59.086	Custom indicator ADR CADJPY.,H1: loaded successfully
+0	18:27:59.098	Custom indicator SupResZone_MTF CADJPY.,H1: loaded successfully
+0	18:27:59.171	Custom indicator Laguerre-ACS1 CADJPY.,H1: loaded successfully
+0	18:27:59.182	Custom indicator MACD-2x CADJPY.,H1: loaded successfully
+0	18:27:59.223	23MTF_MovingAverageIGOR CADJPY.,H1: initialized
+0	18:27:59.272	ADR CADJPY.,H1: initialized
+0	18:27:59.287	SupResZone_MTF CADJPY.,H1: initialized
+0	18:27:59.287	Laguerre-ACS1 CADJPY.,H1: initialized
+0	18:27:59.299	MACD-2x CADJPY.,H1: initialized
+0	18:30:37.741	SupResZone_MTF USDJPY.,H4: uninit reason 3
+0	18:30:37.744	SupResZone_MTF USDJPY.,H4: uninit reason 3
+0	18:30:37.744	SupResZone_MTF USDJPY.,H4: uninit reason 3
+0	18:30:37.744	SupResZone_MTF USDJPY.,H4: uninit reason 3
+0	18:30:37.747	MACD-2x USDJPY.,H4: uninit reason 3
+0	18:30:37.747	Laguerre-ACS1 USDJPY.,H4: deinitialized
+0	18:30:37.747	Laguerre-ACS1 USDJPY.,H4: uninit reason 3
+0	18:30:37.748	SupResZone_MTF USDJPY.,H1: initialized
+0	18:30:37.748	SupResZone_MTF USDJPY.,H1: initialized
+0	18:30:37.748	SupResZone_MTF USDJPY.,H1: Alert: Smaller TimeFrame selected!
+0	18:30:37.748	SupResZone_MTF USDJPY.,H1: initialized
+0	18:30:37.748	SupResZone_MTF USDJPY.,H1: initialized
+0	18:30:37.748	MACD-2x USDJPY.,H1: initialized
+0	18:30:37.748	Laguerre-ACS1 USDJPY.,H1: initialized
+0	18:31:18.010	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	18:31:18.013	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	18:31:18.013	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	18:31:18.013	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	18:31:18.016	MACD-2x AUDJPY.,H4: uninit reason 3
+0	18:31:18.016	Laguerre-ACS1 AUDJPY.,H4: deinitialized
+0	18:31:18.016	Laguerre-ACS1 AUDJPY.,H4: uninit reason 3
+0	18:31:18.017	SupResZone_MTF AUDJPY.,Daily: initialized
+0	18:31:18.017	SupResZone_MTF AUDJPY.,Daily: Alert: Smaller TimeFrame selected!
+0	18:31:18.017	SupResZone_MTF AUDJPY.,Daily: initialized
+0	18:31:18.017	SupResZone_MTF AUDJPY.,Daily: Alert: Smaller TimeFrame selected!
+0	18:31:18.017	SupResZone_MTF AUDJPY.,Daily: initialized
+0	18:31:18.017	SupResZone_MTF AUDJPY.,Daily: Alert: Smaller TimeFrame selected!
+0	18:31:18.017	SupResZone_MTF AUDJPY.,Daily: initialized
+0	18:31:18.017	MACD-2x AUDJPY.,Daily: initialized
+0	18:31:18.017	Laguerre-ACS1 AUDJPY.,Daily: initialized
+0	18:31:23.319	SupResZone_MTF AUDJPY.,Daily: uninit reason 3
+0	18:31:23.322	SupResZone_MTF AUDJPY.,Daily: uninit reason 3
+0	18:31:23.322	SupResZone_MTF AUDJPY.,Daily: uninit reason 3
+0	18:31:23.322	SupResZone_MTF AUDJPY.,Daily: uninit reason 3
+0	18:31:23.322	MACD-2x AUDJPY.,Daily: uninit reason 3
+0	18:31:23.322	Laguerre-ACS1 AUDJPY.,Daily: deinitialized
+0	18:31:23.322	Laguerre-ACS1 AUDJPY.,Daily: uninit reason 3
+0	18:31:23.322	SupResZone_MTF AUDJPY.,H4: initialized
+0	18:31:23.322	SupResZone_MTF AUDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:31:23.322	SupResZone_MTF AUDJPY.,H4: initialized
+0	18:31:23.322	SupResZone_MTF AUDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	18:31:23.322	SupResZone_MTF AUDJPY.,H4: initialized
+0	18:31:23.322	SupResZone_MTF AUDJPY.,H4: initialized
+0	18:31:23.322	MACD-2x AUDJPY.,H4: initialized
+0	18:31:23.322	Laguerre-ACS1 AUDJPY.,H4: initialized
+0	18:35:55.702	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	18:35:55.706	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	18:35:55.706	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	18:35:55.706	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	18:35:55.709	MACD-2x US_OIL,H4: uninit reason 3
+0	18:35:55.709	Laguerre-ACS1 US_OIL,H4: deinitialized
+0	18:35:55.709	Laguerre-ACS1 US_OIL,H4: uninit reason 3
+0	18:35:55.735	SupResZone_MTF US_OIL,H1: initialized
+0	18:35:55.735	SupResZone_MTF US_OIL,H1: initialized
+0	18:35:55.735	SupResZone_MTF US_OIL,H1: Alert: Smaller TimeFrame selected!
+0	18:35:55.735	SupResZone_MTF US_OIL,H1: initialized
+0	18:35:55.735	SupResZone_MTF US_OIL,H1: initialized
+0	18:35:55.735	MACD-2x US_OIL,H1: initialized
+0	18:35:55.735	Laguerre-ACS1 US_OIL,H1: initialized
+0	18:39:03.920	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	18:39:03.924	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	18:39:03.928	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	18:39:03.928	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	18:39:03.928	MACD-2x US_OIL,H1: uninit reason 3
+0	18:39:03.928	Laguerre-ACS1 US_OIL,H1: deinitialized
+0	18:39:03.928	Laguerre-ACS1 US_OIL,H1: uninit reason 3
+0	18:39:03.928	SupResZone_MTF US_OIL,Daily: initialized
+0	18:39:03.928	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	18:39:03.928	SupResZone_MTF US_OIL,Daily: initialized
+0	18:39:03.928	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	18:39:03.928	SupResZone_MTF US_OIL,Daily: initialized
+0	18:39:03.928	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	18:39:03.928	SupResZone_MTF US_OIL,Daily: initialized
+0	18:39:03.928	MACD-2x US_OIL,Daily: initialized
+0	18:39:03.928	Laguerre-ACS1 US_OIL,Daily: initialized
+0	18:39:14.223	SupResZone_MTF XAGUSD.,H1: uninit reason 3
+0	18:39:14.226	SupResZone_MTF XAGUSD.,H1: uninit reason 3
+0	18:39:14.229	SupResZone_MTF XAGUSD.,H1: uninit reason 3
+0	18:39:14.229	SupResZone_MTF XAGUSD.,H1: uninit reason 3
+0	18:39:14.229	MACD-2x XAGUSD.,H1: uninit reason 3
+0	18:39:14.229	Laguerre-ACS1 XAGUSD.,H1: deinitialized
+0	18:39:14.229	Laguerre-ACS1 XAGUSD.,H1: uninit reason 3
+0	18:39:14.231	SupResZone_MTF XAGUSD.,H4: initialized
+0	18:39:14.231	SupResZone_MTF XAGUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:39:14.231	SupResZone_MTF XAGUSD.,H4: initialized
+0	18:39:14.231	SupResZone_MTF XAGUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:39:14.231	SupResZone_MTF XAGUSD.,H4: initialized
+0	18:39:14.231	SupResZone_MTF XAGUSD.,H4: initialized
+0	18:39:14.231	MACD-2x XAGUSD.,H4: initialized
+0	18:39:14.231	Laguerre-ACS1 XAGUSD.,H4: initialized
+0	18:39:21.164	SupResZone_MTF XAGUSD.,H4: uninit reason 3
+0	18:39:21.168	SupResZone_MTF XAGUSD.,H4: uninit reason 3
+0	18:39:21.168	SupResZone_MTF XAGUSD.,H4: uninit reason 3
+0	18:39:21.168	SupResZone_MTF XAGUSD.,H4: uninit reason 3
+0	18:39:21.172	MACD-2x XAGUSD.,H4: uninit reason 3
+0	18:39:21.172	Laguerre-ACS1 XAGUSD.,H4: deinitialized
+0	18:39:21.172	Laguerre-ACS1 XAGUSD.,H4: uninit reason 3
+0	18:39:21.172	SupResZone_MTF XAGUSD.,H1: initialized
+0	18:39:21.172	SupResZone_MTF XAGUSD.,H1: initialized
+0	18:39:21.172	SupResZone_MTF XAGUSD.,H1: Alert: Smaller TimeFrame selected!
+0	18:39:21.172	SupResZone_MTF XAGUSD.,H1: initialized
+0	18:39:21.172	SupResZone_MTF XAGUSD.,H1: initialized
+0	18:39:21.172	MACD-2x XAGUSD.,H1: initialized
+0	18:39:21.172	Laguerre-ACS1 XAGUSD.,H1: initialized
+0	18:40:05.986	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	18:40:05.989	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	18:40:05.989	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	18:40:05.989	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	18:40:05.989	MACD-2x US_OIL,Daily: uninit reason 3
+0	18:40:05.989	Laguerre-ACS1 US_OIL,Daily: deinitialized
+0	18:40:05.989	Laguerre-ACS1 US_OIL,Daily: uninit reason 3
+0	18:40:05.990	SupResZone_MTF US_OIL,H4: initialized
+0	18:40:05.990	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	18:40:05.990	SupResZone_MTF US_OIL,H4: initialized
+0	18:40:05.990	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	18:40:05.990	SupResZone_MTF US_OIL,H4: initialized
+0	18:40:05.990	SupResZone_MTF US_OIL,H4: initialized
+0	18:40:05.990	MACD-2x US_OIL,H4: initialized
+0	18:40:05.990	Laguerre-ACS1 US_OIL,H4: initialized
+0	18:40:07.366	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	18:40:07.369	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	18:40:07.369	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	18:40:07.369	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	18:40:07.372	MACD-2x US_OIL,H4: uninit reason 3
+0	18:40:07.372	Laguerre-ACS1 US_OIL,H4: deinitialized
+0	18:40:07.372	Laguerre-ACS1 US_OIL,H4: uninit reason 3
+0	18:40:07.372	SupResZone_MTF US_OIL,H1: initialized
+0	18:40:07.372	SupResZone_MTF US_OIL,H1: initialized
+0	18:40:07.372	SupResZone_MTF US_OIL,H1: Alert: Smaller TimeFrame selected!
+0	18:40:07.372	SupResZone_MTF US_OIL,H1: initialized
+0	18:40:07.372	SupResZone_MTF US_OIL,H1: initialized
+0	18:40:07.372	MACD-2x US_OIL,H1: initialized
+0	18:40:07.373	Laguerre-ACS1 US_OIL,H1: initialized
+0	18:40:08.762	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	18:40:08.766	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	18:40:08.769	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	18:40:08.769	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	18:40:08.769	MACD-2x US_OIL,H1: uninit reason 3
+0	18:40:08.769	Laguerre-ACS1 US_OIL,H1: deinitialized
+0	18:40:08.769	Laguerre-ACS1 US_OIL,H1: uninit reason 3
+0	18:40:08.769	SupResZone_MTF US_OIL,H4: initialized
+0	18:40:08.769	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	18:40:08.769	SupResZone_MTF US_OIL,H4: initialized
+0	18:40:08.770	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	18:40:08.770	SupResZone_MTF US_OIL,H4: initialized
+0	18:40:08.770	SupResZone_MTF US_OIL,H4: initialized
+0	18:40:08.770	MACD-2x US_OIL,H4: initialized
+0	18:40:08.770	Laguerre-ACS1 US_OIL,H4: initialized
+0	18:40:38.231	SupResZone_MTF EURAUD.,H4: uninit reason 7
+0	18:40:38.234	SupResZone_MTF EURAUD.,H4: uninit reason 7
+0	18:40:38.234	SupResZone_MTF EURAUD.,H4: uninit reason 7
+0	18:40:38.234	SupResZone_MTF EURAUD.,H4: uninit reason 7
+0	18:40:38.237	MACD-2x EURAUD.,H4: uninit reason 7
+0	18:40:38.237	Laguerre-ACS1 EURAUD.,H4: deinitialized
+0	18:40:38.237	Laguerre-ACS1 EURAUD.,H4: uninit reason 7
+0	18:40:38.239	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+0	18:40:38.241	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+0	18:40:38.243	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+0	18:40:38.246	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+0	18:40:38.248	Custom indicator MACD-2x EURAUD.,H4: removed
+0	18:40:38.248	Custom indicator Laguerre-ACS1 EURAUD.,H4: removed
+0	18:40:38.284	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+0	18:40:38.294	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+0	18:40:38.305	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+0	18:40:38.325	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+0	18:40:38.338	Custom indicator MACD-2x EURAUD.,H4: loaded successfully
+0	18:40:38.412	Custom indicator Laguerre-ACS1 EURAUD.,H4: loaded successfully
+0	18:40:38.425	SupResZone_MTF EURAUD.,H4: initialized
+0	18:40:38.438	SupResZone_MTF EURAUD.,H4: Alert: Smaller TimeFrame selected!
+0	18:40:38.438	SupResZone_MTF EURAUD.,H4: initialized
+0	18:40:38.450	SupResZone_MTF EURAUD.,H4: Alert: Smaller TimeFrame selected!
+0	18:40:38.450	SupResZone_MTF EURAUD.,H4: initialized
+0	18:40:38.463	SupResZone_MTF EURAUD.,H4: initialized
+0	18:40:38.475	MACD-2x EURAUD.,H4: initialized
+0	18:40:38.475	Laguerre-ACS1 EURAUD.,H4: initialized
+0	18:51:08.158	SupResZone_MTF EURUSD.,H4: uninit reason 3
+0	18:51:08.162	SupResZone_MTF EURUSD.,H4: uninit reason 3
+0	18:51:08.162	SupResZone_MTF EURUSD.,H4: uninit reason 3
+0	18:51:08.162	SupResZone_MTF EURUSD.,H4: uninit reason 3
+0	18:51:08.165	MACD-2x EURUSD.,H4: uninit reason 3
+0	18:51:08.166	Laguerre-ACS1 EURUSD.,H4: deinitialized
+0	18:51:08.166	Laguerre-ACS1 EURUSD.,H4: uninit reason 3
+0	18:51:08.194	SupResZone_MTF EURUSD.,H1: initialized
+0	18:51:08.194	SupResZone_MTF EURUSD.,H1: initialized
+0	18:51:08.194	SupResZone_MTF EURUSD.,H1: Alert: Smaller TimeFrame selected!
+0	18:51:08.194	SupResZone_MTF EURUSD.,H1: initialized
+0	18:51:08.194	SupResZone_MTF EURUSD.,H1: initialized
+0	18:51:08.194	MACD-2x EURUSD.,H1: initialized
+0	18:51:08.194	Laguerre-ACS1 EURUSD.,H1: initialized
+0	18:51:13.862	SupResZone_MTF EURUSD.,H1: uninit reason 3
+0	18:51:13.866	SupResZone_MTF EURUSD.,H1: uninit reason 3
+0	18:51:13.868	SupResZone_MTF EURUSD.,H1: uninit reason 3
+0	18:51:13.868	SupResZone_MTF EURUSD.,H1: uninit reason 3
+0	18:51:13.868	MACD-2x EURUSD.,H1: uninit reason 3
+0	18:51:13.868	Laguerre-ACS1 EURUSD.,H1: deinitialized
+0	18:51:13.869	Laguerre-ACS1 EURUSD.,H1: uninit reason 3
+0	18:51:13.869	SupResZone_MTF EURUSD.,H4: initialized
+0	18:51:13.869	SupResZone_MTF EURUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:51:13.869	SupResZone_MTF EURUSD.,H4: initialized
+0	18:51:13.869	SupResZone_MTF EURUSD.,H4: Alert: Smaller TimeFrame selected!
+0	18:51:13.869	SupResZone_MTF EURUSD.,H4: initialized
+0	18:51:13.869	SupResZone_MTF EURUSD.,H4: initialized
+0	18:51:13.869	MACD-2x EURUSD.,H4: initialized
+0	18:51:13.869	Laguerre-ACS1 EURUSD.,H4: initialized
+0	18:51:46.259	SupResZone_MTF EURUSD.,H4: uninit reason 3
+0	18:51:46.262	SupResZone_MTF EURUSD.,H4: uninit reason 3
+0	18:51:46.262	SupResZone_MTF EURUSD.,H4: uninit reason 3
+0	18:51:46.262	SupResZone_MTF EURUSD.,H4: uninit reason 3
+0	18:51:46.266	MACD-2x EURUSD.,H4: uninit reason 3
+0	18:51:46.266	Laguerre-ACS1 EURUSD.,H4: deinitialized
+0	18:51:46.266	Laguerre-ACS1 EURUSD.,H4: uninit reason 3
+0	18:51:46.267	SupResZone_MTF EURUSD.,H1: initialized
+0	18:51:46.267	SupResZone_MTF EURUSD.,H1: initialized
+0	18:51:46.267	SupResZone_MTF EURUSD.,H1: Alert: Smaller TimeFrame selected!
+0	18:51:46.267	SupResZone_MTF EURUSD.,H1: initialized
+0	18:51:46.267	SupResZone_MTF EURUSD.,H1: initialized
+0	18:51:46.267	MACD-2x EURUSD.,H1: initialized
+0	18:51:46.267	Laguerre-ACS1 EURUSD.,H1: initialized
+0	19:08:24.222	SupResZone_MTF USDCAD.,H4: uninit reason 3
+0	19:08:24.225	SupResZone_MTF USDCAD.,H4: uninit reason 3
+0	19:08:24.225	SupResZone_MTF USDCAD.,H4: uninit reason 3
+0	19:08:24.225	SupResZone_MTF USDCAD.,H4: uninit reason 3
+0	19:08:24.228	MACD-2x USDCAD.,H4: uninit reason 3
+0	19:08:24.228	Laguerre-ACS1 USDCAD.,H4: deinitialized
+0	19:08:24.228	Laguerre-ACS1 USDCAD.,H4: uninit reason 3
+0	19:08:24.228	SupResZone_MTF USDCAD.,Daily: initialized
+0	19:08:24.228	SupResZone_MTF USDCAD.,Daily: Alert: Smaller TimeFrame selected!
+0	19:08:24.228	SupResZone_MTF USDCAD.,Daily: initialized
+0	19:08:24.228	SupResZone_MTF USDCAD.,Daily: Alert: Smaller TimeFrame selected!
+0	19:08:24.228	SupResZone_MTF USDCAD.,Daily: initialized
+0	19:08:24.228	SupResZone_MTF USDCAD.,Daily: Alert: Smaller TimeFrame selected!
+0	19:08:24.228	SupResZone_MTF USDCAD.,Daily: initialized
+0	19:08:24.228	MACD-2x USDCAD.,Daily: initialized
+0	19:08:24.228	Laguerre-ACS1 USDCAD.,Daily: initialized
+0	19:08:27.770	SupResZone_MTF USDCAD.,Daily: uninit reason 3
+0	19:08:27.774	SupResZone_MTF USDCAD.,Daily: uninit reason 3
+0	19:08:27.774	SupResZone_MTF USDCAD.,Daily: uninit reason 3
+0	19:08:27.774	SupResZone_MTF USDCAD.,Daily: uninit reason 3
+0	19:08:27.774	MACD-2x USDCAD.,Daily: uninit reason 3
+0	19:08:27.774	Laguerre-ACS1 USDCAD.,Daily: deinitialized
+0	19:08:27.774	Laguerre-ACS1 USDCAD.,Daily: uninit reason 3
+0	19:08:27.774	SupResZone_MTF USDCAD.,H4: initialized
+0	19:08:27.774	SupResZone_MTF USDCAD.,H4: Alert: Smaller TimeFrame selected!
+0	19:08:27.774	SupResZone_MTF USDCAD.,H4: initialized
+0	19:08:27.774	SupResZone_MTF USDCAD.,H4: Alert: Smaller TimeFrame selected!
+0	19:08:27.774	SupResZone_MTF USDCAD.,H4: initialized
+0	19:08:27.774	SupResZone_MTF USDCAD.,H4: initialized
+0	19:08:27.774	MACD-2x USDCAD.,H4: initialized
+0	19:08:27.774	Laguerre-ACS1 USDCAD.,H4: initialized
+0	19:08:30.721	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	19:08:30.725	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	19:08:30.725	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	19:08:30.725	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	19:08:30.729	MACD-2x USDCHF.,H4: uninit reason 3
+0	19:08:30.729	Laguerre-ACS1 USDCHF.,H4: deinitialized
+0	19:08:30.729	Laguerre-ACS1 USDCHF.,H4: uninit reason 3
+0	19:08:30.729	SupResZone_MTF USDCHF.,Daily: initialized
+0	19:08:30.729	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	19:08:30.729	SupResZone_MTF USDCHF.,Daily: initialized
+0	19:08:30.729	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	19:08:30.729	SupResZone_MTF USDCHF.,Daily: initialized
+0	19:08:30.729	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	19:08:30.729	SupResZone_MTF USDCHF.,Daily: initialized
+0	19:08:30.729	MACD-2x USDCHF.,Daily: initialized
+0	19:08:30.729	Laguerre-ACS1 USDCHF.,Daily: initialized
+0	19:08:32.394	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	19:08:32.398	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	19:08:32.398	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	19:08:32.398	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	19:08:32.398	MACD-2x USDCHF.,Daily: uninit reason 3
+0	19:08:32.398	Laguerre-ACS1 USDCHF.,Daily: deinitialized
+0	19:08:32.398	Laguerre-ACS1 USDCHF.,Daily: uninit reason 3
+0	19:08:32.398	SupResZone_MTF USDCHF.,H4: initialized
+0	19:08:32.398	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	19:08:32.398	SupResZone_MTF USDCHF.,H4: initialized
+0	19:08:32.398	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	19:08:32.398	SupResZone_MTF USDCHF.,H4: initialized
+0	19:08:32.398	SupResZone_MTF USDCHF.,H4: initialized
+0	19:08:32.398	MACD-2x USDCHF.,H4: initialized
+0	19:08:32.398	Laguerre-ACS1 USDCHF.,H4: initialized
+0	20:10:11.921	SupResZone_MTF EURUSD.,H1: uninit reason 3
+0	20:10:11.925	SupResZone_MTF EURUSD.,H1: uninit reason 3
+0	20:10:11.928	SupResZone_MTF EURUSD.,H1: uninit reason 3
+0	20:10:11.928	SupResZone_MTF EURUSD.,H1: uninit reason 3
+0	20:10:11.928	MACD-2x EURUSD.,H1: uninit reason 3
+0	20:10:11.928	Laguerre-ACS1 EURUSD.,H1: deinitialized
+0	20:10:11.928	Laguerre-ACS1 EURUSD.,H1: uninit reason 3
+0	20:10:11.928	SupResZone_MTF EURUSD.,H4: initialized
+0	20:10:11.928	SupResZone_MTF EURUSD.,H4: Alert: Smaller TimeFrame selected!
+0	20:10:11.928	SupResZone_MTF EURUSD.,H4: initialized
+0	20:10:11.928	SupResZone_MTF EURUSD.,H4: Alert: Smaller TimeFrame selected!
+0	20:10:11.928	SupResZone_MTF EURUSD.,H4: initialized
+0	20:10:11.928	SupResZone_MTF EURUSD.,H4: initialized
+0	20:10:11.928	MACD-2x EURUSD.,H4: initialized
+0	20:10:11.928	Laguerre-ACS1 EURUSD.,H4: initialized
+0	20:10:17.607	SupResZone_MTF USDJPY.,H1: uninit reason 3
+0	20:10:17.611	SupResZone_MTF USDJPY.,H1: uninit reason 3
+0	20:10:17.621	SupResZone_MTF USDJPY.,H1: uninit reason 3
+0	20:10:17.621	SupResZone_MTF USDJPY.,H1: uninit reason 3
+0	20:10:17.621	MACD-2x USDJPY.,H1: uninit reason 3
+0	20:10:17.621	Laguerre-ACS1 USDJPY.,H1: deinitialized
+0	20:10:17.621	Laguerre-ACS1 USDJPY.,H1: uninit reason 3
+0	20:10:17.621	SupResZone_MTF USDJPY.,H4: initialized
+0	20:10:17.621	SupResZone_MTF USDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	20:10:17.621	SupResZone_MTF USDJPY.,H4: initialized
+0	20:10:17.621	SupResZone_MTF USDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	20:10:17.621	SupResZone_MTF USDJPY.,H4: initialized
+0	20:10:17.621	SupResZone_MTF USDJPY.,H4: initialized
+0	20:10:17.621	MACD-2x USDJPY.,H4: initialized
+0	20:10:17.621	Laguerre-ACS1 USDJPY.,H4: initialized
+0	20:24:14.666	SupResZone_MTF GBPUSD.,H4: uninit reason 3
+0	20:24:14.670	SupResZone_MTF GBPUSD.,H4: uninit reason 3
+0	20:24:14.670	SupResZone_MTF GBPUSD.,H4: uninit reason 3
+0	20:24:14.670	SupResZone_MTF GBPUSD.,H4: uninit reason 3
+0	20:24:14.673	MACD-2x GBPUSD.,H4: uninit reason 3
+0	20:24:14.673	Laguerre-ACS1 GBPUSD.,H4: deinitialized
+0	20:24:14.673	Laguerre-ACS1 GBPUSD.,H4: uninit reason 3
+0	20:24:14.673	SupResZone_MTF GBPUSD.,Daily: initialized
+0	20:24:14.673	SupResZone_MTF GBPUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:24:14.673	SupResZone_MTF GBPUSD.,Daily: initialized
+0	20:24:14.673	SupResZone_MTF GBPUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:24:14.673	SupResZone_MTF GBPUSD.,Daily: initialized
+0	20:24:14.673	SupResZone_MTF GBPUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:24:14.673	SupResZone_MTF GBPUSD.,Daily: initialized
+0	20:24:14.673	MACD-2x GBPUSD.,Daily: initialized
+0	20:24:14.674	Laguerre-ACS1 GBPUSD.,Daily: initialized
+0	20:24:16.542	SupResZone_MTF GBPUSD.,Daily: uninit reason 3
+0	20:24:16.545	SupResZone_MTF GBPUSD.,Daily: uninit reason 3
+0	20:24:16.545	SupResZone_MTF GBPUSD.,Daily: uninit reason 3
+0	20:24:16.545	SupResZone_MTF GBPUSD.,Daily: uninit reason 3
+0	20:24:16.545	MACD-2x GBPUSD.,Daily: uninit reason 3
+0	20:24:16.545	Laguerre-ACS1 GBPUSD.,Daily: deinitialized
+0	20:24:16.545	Laguerre-ACS1 GBPUSD.,Daily: uninit reason 3
+0	20:24:16.570	SupResZone_MTF GBPUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:24:16.570	SupResZone_MTF GBPUSD.,Weekly: initialized
+0	20:24:16.570	SupResZone_MTF GBPUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:24:16.570	SupResZone_MTF GBPUSD.,Weekly: initialized
+0	20:24:16.570	SupResZone_MTF GBPUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:24:16.570	SupResZone_MTF GBPUSD.,Weekly: initialized
+0	20:24:16.570	SupResZone_MTF GBPUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:24:16.570	SupResZone_MTF GBPUSD.,Weekly: initialized
+0	20:24:16.570	MACD-2x GBPUSD.,Weekly: initialized
+0	20:24:16.570	Laguerre-ACS1 GBPUSD.,Weekly: initialized
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Weekly: uninit reason 3
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Weekly: uninit reason 3
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Weekly: uninit reason 3
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Weekly: uninit reason 3
+0	20:24:22.439	MACD-2x GBPUSD.,Weekly: uninit reason 3
+0	20:24:22.439	Laguerre-ACS1 GBPUSD.,Weekly: deinitialized
+0	20:24:22.439	Laguerre-ACS1 GBPUSD.,Weekly: uninit reason 3
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Daily: initialized
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Daily: initialized
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Daily: initialized
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:24:22.439	SupResZone_MTF GBPUSD.,Daily: initialized
+0	20:24:22.439	MACD-2x GBPUSD.,Daily: initialized
+0	20:24:22.439	Laguerre-ACS1 GBPUSD.,Daily: initialized
+0	20:24:24.063	SupResZone_MTF GBPUSD.,Daily: uninit reason 3
+0	20:24:24.066	SupResZone_MTF GBPUSD.,Daily: uninit reason 3
+0	20:24:24.066	SupResZone_MTF GBPUSD.,Daily: uninit reason 3
+0	20:24:24.066	SupResZone_MTF GBPUSD.,Daily: uninit reason 3
+0	20:24:24.066	MACD-2x GBPUSD.,Daily: uninit reason 3
+0	20:24:24.066	Laguerre-ACS1 GBPUSD.,Daily: deinitialized
+0	20:24:24.066	Laguerre-ACS1 GBPUSD.,Daily: uninit reason 3
+0	20:24:24.066	SupResZone_MTF GBPUSD.,H4: initialized
+0	20:24:24.066	SupResZone_MTF GBPUSD.,H4: Alert: Smaller TimeFrame selected!
+0	20:24:24.066	SupResZone_MTF GBPUSD.,H4: initialized
+0	20:24:24.066	SupResZone_MTF GBPUSD.,H4: Alert: Smaller TimeFrame selected!
+0	20:24:24.066	SupResZone_MTF GBPUSD.,H4: initialized
+0	20:24:24.066	SupResZone_MTF GBPUSD.,H4: initialized
+0	20:24:24.066	MACD-2x GBPUSD.,H4: initialized
+0	20:24:24.066	Laguerre-ACS1 GBPUSD.,H4: initialized
+0	20:27:02.441	SupResZone_MTF XAUUSD.,H4: uninit reason 3
+0	20:27:02.445	SupResZone_MTF XAUUSD.,H4: uninit reason 3
+0	20:27:02.445	SupResZone_MTF XAUUSD.,H4: uninit reason 3
+0	20:27:02.445	SupResZone_MTF XAUUSD.,H4: uninit reason 3
+0	20:27:02.447	MACD-2x XAUUSD.,H4: uninit reason 3
+0	20:27:02.447	Laguerre-ACS1 XAUUSD.,H4: deinitialized
+0	20:27:02.447	Laguerre-ACS1 XAUUSD.,H4: uninit reason 3
+0	20:27:02.448	SupResZone_MTF XAUUSD.,Daily: initialized
+0	20:27:02.448	SupResZone_MTF XAUUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:02.448	SupResZone_MTF XAUUSD.,Daily: initialized
+0	20:27:02.448	SupResZone_MTF XAUUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:02.448	SupResZone_MTF XAUUSD.,Daily: initialized
+0	20:27:02.448	SupResZone_MTF XAUUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:02.448	SupResZone_MTF XAUUSD.,Daily: initialized
+0	20:27:02.448	MACD-2x XAUUSD.,Daily: initialized
+0	20:27:02.448	Laguerre-ACS1 XAUUSD.,Daily: initialized
+0	20:27:09.983	SupResZone_MTF XAUUSD.,Daily: uninit reason 3
+0	20:27:09.986	SupResZone_MTF XAUUSD.,Daily: uninit reason 3
+0	20:27:09.986	SupResZone_MTF XAUUSD.,Daily: uninit reason 3
+0	20:27:09.986	SupResZone_MTF XAUUSD.,Daily: uninit reason 3
+0	20:27:09.986	MACD-2x XAUUSD.,Daily: uninit reason 3
+0	20:27:09.986	Laguerre-ACS1 XAUUSD.,Daily: deinitialized
+0	20:27:09.986	Laguerre-ACS1 XAUUSD.,Daily: uninit reason 3
+0	20:27:09.988	SupResZone_MTF XAUUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:09.988	SupResZone_MTF XAUUSD.,Weekly: initialized
+0	20:27:09.988	SupResZone_MTF XAUUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:09.988	SupResZone_MTF XAUUSD.,Weekly: initialized
+0	20:27:09.988	SupResZone_MTF XAUUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:09.988	SupResZone_MTF XAUUSD.,Weekly: initialized
+0	20:27:09.988	SupResZone_MTF XAUUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:09.988	SupResZone_MTF XAUUSD.,Weekly: initialized
+0	20:27:09.988	MACD-2x XAUUSD.,Weekly: initialized
+0	20:27:09.988	Laguerre-ACS1 XAUUSD.,Weekly: initialized
+0	20:27:12.091	SupResZone_MTF XAUUSD.,Weekly: uninit reason 3
+0	20:27:12.091	SupResZone_MTF XAUUSD.,Weekly: uninit reason 3
+0	20:27:12.091	SupResZone_MTF XAUUSD.,Weekly: uninit reason 3
+0	20:27:12.091	SupResZone_MTF XAUUSD.,Weekly: uninit reason 3
+0	20:27:12.091	MACD-2x XAUUSD.,Weekly: uninit reason 3
+0	20:27:12.091	Laguerre-ACS1 XAUUSD.,Weekly: deinitialized
+0	20:27:12.091	Laguerre-ACS1 XAUUSD.,Weekly: uninit reason 3
+0	20:27:12.099	SupResZone_MTF XAUUSD.,Monthly: Alert: Smaller TimeFrame selected!
+0	20:27:12.099	SupResZone_MTF XAUUSD.,Monthly: initialized
+0	20:27:12.100	SupResZone_MTF XAUUSD.,Monthly: Alert: Smaller TimeFrame selected!
+0	20:27:12.100	SupResZone_MTF XAUUSD.,Monthly: initialized
+0	20:27:12.100	SupResZone_MTF XAUUSD.,Monthly: Alert: Smaller TimeFrame selected!
+0	20:27:12.100	SupResZone_MTF XAUUSD.,Monthly: initialized
+0	20:27:12.100	SupResZone_MTF XAUUSD.,Monthly: Alert: Smaller TimeFrame selected!
+0	20:27:12.100	SupResZone_MTF XAUUSD.,Monthly: initialized
+0	20:27:12.100	MACD-2x XAUUSD.,Monthly: initialized
+0	20:27:12.100	Laguerre-ACS1 XAUUSD.,Monthly: initialized
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Monthly: uninit reason 3
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Monthly: uninit reason 3
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Monthly: uninit reason 3
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Monthly: uninit reason 3
+0	20:27:27.544	MACD-2x XAUUSD.,Monthly: uninit reason 3
+0	20:27:27.544	Laguerre-ACS1 XAUUSD.,Monthly: deinitialized
+0	20:27:27.544	Laguerre-ACS1 XAUUSD.,Monthly: uninit reason 3
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Weekly: initialized
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Weekly: initialized
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Weekly: initialized
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:27.544	SupResZone_MTF XAUUSD.,Weekly: initialized
+0	20:27:27.544	MACD-2x XAUUSD.,Weekly: initialized
+0	20:27:27.544	Laguerre-ACS1 XAUUSD.,Weekly: initialized
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Weekly: uninit reason 3
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Weekly: uninit reason 3
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Weekly: uninit reason 3
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Weekly: uninit reason 3
+0	20:27:30.734	MACD-2x XAUUSD.,Weekly: uninit reason 3
+0	20:27:30.734	Laguerre-ACS1 XAUUSD.,Weekly: deinitialized
+0	20:27:30.734	Laguerre-ACS1 XAUUSD.,Weekly: uninit reason 3
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Daily: initialized
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Daily: initialized
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Daily: initialized
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:30.734	SupResZone_MTF XAUUSD.,Daily: initialized
+0	20:27:30.734	MACD-2x XAUUSD.,Daily: initialized
+0	20:27:30.734	Laguerre-ACS1 XAUUSD.,Daily: initialized
+0	20:27:33.794	SupResZone_MTF XAUUSD.,Daily: uninit reason 3
+0	20:27:33.798	SupResZone_MTF XAUUSD.,Daily: uninit reason 3
+0	20:27:33.798	SupResZone_MTF XAUUSD.,Daily: uninit reason 3
+0	20:27:33.798	SupResZone_MTF XAUUSD.,Daily: uninit reason 3
+0	20:27:33.798	MACD-2x XAUUSD.,Daily: uninit reason 3
+0	20:27:33.798	Laguerre-ACS1 XAUUSD.,Daily: deinitialized
+0	20:27:33.798	Laguerre-ACS1 XAUUSD.,Daily: uninit reason 3
+0	20:27:33.798	SupResZone_MTF XAUUSD.,H4: initialized
+0	20:27:33.798	SupResZone_MTF XAUUSD.,H4: Alert: Smaller TimeFrame selected!
+0	20:27:33.798	SupResZone_MTF XAUUSD.,H4: initialized
+0	20:27:33.798	SupResZone_MTF XAUUSD.,H4: Alert: Smaller TimeFrame selected!
+0	20:27:33.798	SupResZone_MTF XAUUSD.,H4: initialized
+0	20:27:33.798	SupResZone_MTF XAUUSD.,H4: initialized
+0	20:27:33.798	MACD-2x XAUUSD.,H4: initialized
+0	20:27:33.798	Laguerre-ACS1 XAUUSD.,H4: initialized
+0	20:27:38.454	SupResZone_MTF XAGUSD.,H1: uninit reason 3
+0	20:27:38.457	SupResZone_MTF XAGUSD.,H1: uninit reason 3
+0	20:27:38.461	SupResZone_MTF XAGUSD.,H1: uninit reason 3
+0	20:27:38.461	SupResZone_MTF XAGUSD.,H1: uninit reason 3
+0	20:27:38.461	MACD-2x XAGUSD.,H1: uninit reason 3
+0	20:27:38.461	Laguerre-ACS1 XAGUSD.,H1: deinitialized
+0	20:27:38.461	Laguerre-ACS1 XAGUSD.,H1: uninit reason 3
+0	20:27:38.461	SupResZone_MTF XAGUSD.,Daily: initialized
+0	20:27:38.461	SupResZone_MTF XAGUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:38.461	SupResZone_MTF XAGUSD.,Daily: initialized
+0	20:27:38.461	SupResZone_MTF XAGUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:38.461	SupResZone_MTF XAGUSD.,Daily: initialized
+0	20:27:38.461	SupResZone_MTF XAGUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:38.461	SupResZone_MTF XAGUSD.,Daily: initialized
+0	20:27:38.461	MACD-2x XAGUSD.,Daily: initialized
+0	20:27:38.461	Laguerre-ACS1 XAGUSD.,Daily: initialized
+0	20:27:39.406	SupResZone_MTF XAGUSD.,Daily: uninit reason 3
+0	20:27:39.409	SupResZone_MTF XAGUSD.,Daily: uninit reason 3
+0	20:27:39.409	SupResZone_MTF XAGUSD.,Daily: uninit reason 3
+0	20:27:39.409	SupResZone_MTF XAGUSD.,Daily: uninit reason 3
+0	20:27:39.409	MACD-2x XAGUSD.,Daily: uninit reason 3
+0	20:27:39.409	Laguerre-ACS1 XAGUSD.,Daily: deinitialized
+0	20:27:39.409	Laguerre-ACS1 XAGUSD.,Daily: uninit reason 3
+0	20:27:39.410	SupResZone_MTF XAGUSD.,Monthly: Alert: Smaller TimeFrame selected!
+0	20:27:39.410	SupResZone_MTF XAGUSD.,Monthly: initialized
+0	20:27:39.410	SupResZone_MTF XAGUSD.,Monthly: Alert: Smaller TimeFrame selected!
+0	20:27:39.410	SupResZone_MTF XAGUSD.,Monthly: initialized
+0	20:27:39.410	SupResZone_MTF XAGUSD.,Monthly: Alert: Smaller TimeFrame selected!
+0	20:27:39.410	SupResZone_MTF XAGUSD.,Monthly: initialized
+0	20:27:39.410	SupResZone_MTF XAGUSD.,Monthly: Alert: Smaller TimeFrame selected!
+0	20:27:39.410	SupResZone_MTF XAGUSD.,Monthly: initialized
+0	20:27:39.410	MACD-2x XAGUSD.,Monthly: initialized
+0	20:27:39.410	Laguerre-ACS1 XAGUSD.,Monthly: initialized
+0	20:27:41.475	SupResZone_MTF XAGUSD.,Monthly: uninit reason 3
+0	20:27:41.475	SupResZone_MTF XAGUSD.,Monthly: uninit reason 3
+0	20:27:41.475	SupResZone_MTF XAGUSD.,Monthly: uninit reason 3
+0	20:27:41.475	SupResZone_MTF XAGUSD.,Monthly: uninit reason 3
+0	20:27:41.475	MACD-2x XAGUSD.,Monthly: uninit reason 3
+0	20:27:41.475	Laguerre-ACS1 XAGUSD.,Monthly: deinitialized
+0	20:27:41.475	Laguerre-ACS1 XAGUSD.,Monthly: uninit reason 3
+0	20:27:41.499	SupResZone_MTF XAGUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:41.499	SupResZone_MTF XAGUSD.,Weekly: initialized
+0	20:27:41.499	SupResZone_MTF XAGUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:41.499	SupResZone_MTF XAGUSD.,Weekly: initialized
+0	20:27:41.499	SupResZone_MTF XAGUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:41.499	SupResZone_MTF XAGUSD.,Weekly: initialized
+0	20:27:41.499	SupResZone_MTF XAGUSD.,Weekly: Alert: Smaller TimeFrame selected!
+0	20:27:41.499	SupResZone_MTF XAGUSD.,Weekly: initialized
+0	20:27:41.499	MACD-2x XAGUSD.,Weekly: initialized
+0	20:27:41.499	Laguerre-ACS1 XAGUSD.,Weekly: initialized
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Weekly: uninit reason 3
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Weekly: uninit reason 3
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Weekly: uninit reason 3
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Weekly: uninit reason 3
+0	20:27:44.640	MACD-2x XAGUSD.,Weekly: uninit reason 3
+0	20:27:44.640	Laguerre-ACS1 XAGUSD.,Weekly: deinitialized
+0	20:27:44.640	Laguerre-ACS1 XAGUSD.,Weekly: uninit reason 3
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Daily: initialized
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Daily: initialized
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Daily: initialized
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:27:44.640	SupResZone_MTF XAGUSD.,Daily: initialized
+0	20:27:44.640	MACD-2x XAGUSD.,Daily: initialized
+0	20:27:44.640	Laguerre-ACS1 XAGUSD.,Daily: initialized
+0	20:27:47.568	SupResZone_MTF XAGUSD.,Daily: uninit reason 3
+0	20:27:47.571	SupResZone_MTF XAGUSD.,Daily: uninit reason 3
+0	20:27:47.571	SupResZone_MTF XAGUSD.,Daily: uninit reason 3
+0	20:27:47.571	SupResZone_MTF XAGUSD.,Daily: uninit reason 3
+0	20:27:47.571	MACD-2x XAGUSD.,Daily: uninit reason 3
+0	20:27:47.571	Laguerre-ACS1 XAGUSD.,Daily: deinitialized
+0	20:27:47.571	Laguerre-ACS1 XAGUSD.,Daily: uninit reason 3
+0	20:27:47.571	SupResZone_MTF XAGUSD.,H4: initialized
+0	20:27:47.571	SupResZone_MTF XAGUSD.,H4: Alert: Smaller TimeFrame selected!
+0	20:27:47.571	SupResZone_MTF XAGUSD.,H4: initialized
+0	20:27:47.571	SupResZone_MTF XAGUSD.,H4: Alert: Smaller TimeFrame selected!
+0	20:27:47.571	SupResZone_MTF XAGUSD.,H4: initialized
+0	20:27:47.571	SupResZone_MTF XAGUSD.,H4: initialized
+0	20:27:47.571	MACD-2x XAGUSD.,H4: initialized
+0	20:27:47.571	Laguerre-ACS1 XAGUSD.,H4: initialized
+0	20:28:00.278	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	20:28:00.281	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	20:28:00.281	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	20:28:00.281	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	20:28:00.284	MACD-2x US_OIL,H4: uninit reason 3
+0	20:28:00.284	Laguerre-ACS1 US_OIL,H4: deinitialized
+0	20:28:00.284	Laguerre-ACS1 US_OIL,H4: uninit reason 3
+0	20:28:00.310	SupResZone_MTF US_OIL,Weekly: Alert: Smaller TimeFrame selected!
+0	20:28:00.310	SupResZone_MTF US_OIL,Weekly: initialized
+0	20:28:00.310	SupResZone_MTF US_OIL,Weekly: Alert: Smaller TimeFrame selected!
+0	20:28:00.310	SupResZone_MTF US_OIL,Weekly: initialized
+0	20:28:00.310	SupResZone_MTF US_OIL,Weekly: Alert: Smaller TimeFrame selected!
+0	20:28:00.310	SupResZone_MTF US_OIL,Weekly: initialized
+0	20:28:00.310	SupResZone_MTF US_OIL,Weekly: Alert: Smaller TimeFrame selected!
+0	20:28:00.310	SupResZone_MTF US_OIL,Weekly: initialized
+0	20:28:00.310	MACD-2x US_OIL,Weekly: initialized
+0	20:28:00.310	Laguerre-ACS1 US_OIL,Weekly: initialized
+0	20:28:03.341	SupResZone_MTF US_OIL,Weekly: uninit reason 3
+0	20:28:03.341	SupResZone_MTF US_OIL,Weekly: uninit reason 3
+0	20:28:03.341	SupResZone_MTF US_OIL,Weekly: uninit reason 3
+0	20:28:03.341	SupResZone_MTF US_OIL,Weekly: uninit reason 3
+0	20:28:03.341	MACD-2x US_OIL,Weekly: uninit reason 3
+0	20:28:03.341	Laguerre-ACS1 US_OIL,Weekly: deinitialized
+0	20:28:03.341	Laguerre-ACS1 US_OIL,Weekly: uninit reason 3
+0	20:28:03.341	SupResZone_MTF US_OIL,Daily: initialized
+0	20:28:03.341	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	20:28:03.341	SupResZone_MTF US_OIL,Daily: initialized
+0	20:28:03.341	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	20:28:03.341	SupResZone_MTF US_OIL,Daily: initialized
+0	20:28:03.341	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	20:28:03.341	SupResZone_MTF US_OIL,Daily: initialized
+0	20:28:03.341	MACD-2x US_OIL,Daily: initialized
+0	20:28:03.341	Laguerre-ACS1 US_OIL,Daily: initialized
+0	20:28:08.065	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	20:28:08.069	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	20:28:08.069	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	20:28:08.069	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	20:28:08.069	MACD-2x US_OIL,Daily: uninit reason 3
+0	20:28:08.069	Laguerre-ACS1 US_OIL,Daily: deinitialized
+0	20:28:08.069	Laguerre-ACS1 US_OIL,Daily: uninit reason 3
+0	20:28:08.069	SupResZone_MTF US_OIL,H4: initialized
+0	20:28:08.069	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	20:28:08.069	SupResZone_MTF US_OIL,H4: initialized
+0	20:28:08.069	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	20:28:08.069	SupResZone_MTF US_OIL,H4: initialized
+0	20:28:08.069	SupResZone_MTF US_OIL,H4: initialized
+0	20:28:08.069	MACD-2x US_OIL,H4: initialized
+0	20:28:08.069	Laguerre-ACS1 US_OIL,H4: initialized
+0	20:28:11.598	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	20:28:11.601	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	20:28:11.601	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	20:28:11.601	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	20:28:11.604	MACD-2x US_OIL,H4: uninit reason 3
+0	20:28:11.604	Laguerre-ACS1 US_OIL,H4: deinitialized
+0	20:28:11.604	Laguerre-ACS1 US_OIL,H4: uninit reason 3
+0	20:28:11.605	SupResZone_MTF US_OIL,H1: initialized
+0	20:28:11.605	SupResZone_MTF US_OIL,H1: initialized
+0	20:28:11.605	SupResZone_MTF US_OIL,H1: Alert: Smaller TimeFrame selected!
+0	20:28:11.605	SupResZone_MTF US_OIL,H1: initialized
+0	20:28:11.605	SupResZone_MTF US_OIL,H1: initialized
+0	20:28:11.605	MACD-2x US_OIL,H1: initialized
+0	20:28:11.605	Laguerre-ACS1 US_OIL,H1: initialized
+0	20:28:14.823	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	20:28:14.826	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	20:28:14.829	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	20:28:14.829	SupResZone_MTF US_OIL,H1: uninit reason 3
+0	20:28:14.829	MACD-2x US_OIL,H1: uninit reason 3
+0	20:28:14.829	Laguerre-ACS1 US_OIL,H1: deinitialized
+0	20:28:14.829	Laguerre-ACS1 US_OIL,H1: uninit reason 3
+0	20:28:14.829	SupResZone_MTF US_OIL,H4: initialized
+0	20:28:14.829	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	20:28:14.829	SupResZone_MTF US_OIL,H4: initialized
+0	20:28:14.829	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	20:28:14.829	SupResZone_MTF US_OIL,H4: initialized
+0	20:28:14.829	SupResZone_MTF US_OIL,H4: initialized
+0	20:28:14.829	MACD-2x US_OIL,H4: initialized
+0	20:28:14.829	Laguerre-ACS1 US_OIL,H4: initialized
+0	20:28:23.082	SupResZone_MTF JP225,H4: uninit reason 3
+0	20:28:23.086	SupResZone_MTF JP225,H4: uninit reason 3
+0	20:28:23.086	SupResZone_MTF JP225,H4: uninit reason 3
+0	20:28:23.086	SupResZone_MTF JP225,H4: uninit reason 3
+0	20:28:23.088	MACD-2x JP225,H4: uninit reason 3
+0	20:28:23.088	Laguerre-ACS1 JP225,H4: deinitialized
+0	20:28:23.088	Laguerre-ACS1 JP225,H4: uninit reason 3
+0	20:28:23.088	SupResZone_MTF JP225,Daily: initialized
+0	20:28:23.088	SupResZone_MTF JP225,Daily: Alert: Smaller TimeFrame selected!
+0	20:28:23.088	SupResZone_MTF JP225,Daily: initialized
+0	20:28:23.088	SupResZone_MTF JP225,Daily: Alert: Smaller TimeFrame selected!
+0	20:28:23.088	SupResZone_MTF JP225,Daily: initialized
+0	20:28:23.089	SupResZone_MTF JP225,Daily: Alert: Smaller TimeFrame selected!
+0	20:28:23.089	SupResZone_MTF JP225,Daily: initialized
+0	20:28:23.089	MACD-2x JP225,Daily: initialized
+0	20:28:23.089	Laguerre-ACS1 JP225,Daily: initialized
+0	20:28:34.027	SupResZone_MTF JP225,Daily: uninit reason 3
+0	20:28:34.030	SupResZone_MTF JP225,Daily: uninit reason 3
+0	20:28:34.030	SupResZone_MTF JP225,Daily: uninit reason 3
+0	20:28:34.030	SupResZone_MTF JP225,Daily: uninit reason 3
+0	20:28:34.030	MACD-2x JP225,Daily: uninit reason 3
+0	20:28:34.030	Laguerre-ACS1 JP225,Daily: deinitialized
+0	20:28:34.030	Laguerre-ACS1 JP225,Daily: uninit reason 3
+0	20:28:34.030	SupResZone_MTF JP225,H4: initialized
+0	20:28:34.030	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	20:28:34.030	SupResZone_MTF JP225,H4: initialized
+0	20:28:34.031	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	20:28:34.031	SupResZone_MTF JP225,H4: initialized
+0	20:28:34.031	SupResZone_MTF JP225,H4: initialized
+0	20:28:34.031	MACD-2x JP225,H4: initialized
+0	20:28:34.031	Laguerre-ACS1 JP225,H4: initialized
+0	20:29:48.273	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	20:29:48.276	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	20:29:48.276	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	20:29:48.276	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	20:29:48.279	MACD-2x AUDUSD.,H4: uninit reason 3
+0	20:29:48.279	Laguerre-ACS1 AUDUSD.,H4: deinitialized
+0	20:29:48.279	Laguerre-ACS1 AUDUSD.,H4: uninit reason 3
+0	20:29:48.279	SupResZone_MTF AUDUSD.,Daily: initialized
+0	20:29:48.279	SupResZone_MTF AUDUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:29:48.279	SupResZone_MTF AUDUSD.,Daily: initialized
+0	20:29:48.279	SupResZone_MTF AUDUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:29:48.279	SupResZone_MTF AUDUSD.,Daily: initialized
+0	20:29:48.279	SupResZone_MTF AUDUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	20:29:48.279	SupResZone_MTF AUDUSD.,Daily: initialized
+0	20:29:48.279	MACD-2x AUDUSD.,Daily: initialized
+0	20:29:48.279	Laguerre-ACS1 AUDUSD.,Daily: initialized
+0	20:29:52.478	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	20:29:52.481	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	20:29:52.481	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	20:29:52.481	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	20:29:52.481	MACD-2x AUDUSD.,Daily: uninit reason 3
+0	20:29:52.481	Laguerre-ACS1 AUDUSD.,Daily: deinitialized
+0	20:29:52.481	Laguerre-ACS1 AUDUSD.,Daily: uninit reason 3
+0	20:29:52.481	SupResZone_MTF AUDUSD.,H4: initialized
+0	20:29:52.481	SupResZone_MTF AUDUSD.,H4: Alert: Smaller TimeFrame selected!
+0	20:29:52.481	SupResZone_MTF AUDUSD.,H4: initialized
+0	20:29:52.481	SupResZone_MTF AUDUSD.,H4: Alert: Smaller TimeFrame selected!
+0	20:29:52.481	SupResZone_MTF AUDUSD.,H4: initialized
+0	20:29:52.481	SupResZone_MTF AUDUSD.,H4: initialized
+0	20:29:52.481	MACD-2x AUDUSD.,H4: initialized
+0	20:29:52.481	Laguerre-ACS1 AUDUSD.,H4: initialized
+0	20:53:36.493	SupResZone_MTF USDJPY.,H4: uninit reason 3
+0	20:53:36.496	SupResZone_MTF USDJPY.,H4: uninit reason 3
+0	20:53:36.496	SupResZone_MTF USDJPY.,H4: uninit reason 3
+0	20:53:36.496	SupResZone_MTF USDJPY.,H4: uninit reason 3
+0	20:53:36.499	MACD-2x USDJPY.,H4: uninit reason 3
+0	20:53:36.499	Laguerre-ACS1 USDJPY.,H4: deinitialized
+0	20:53:36.499	Laguerre-ACS1 USDJPY.,H4: uninit reason 3
+0	20:53:36.499	SupResZone_MTF USDJPY.,H1: initialized
+0	20:53:36.499	SupResZone_MTF USDJPY.,H1: initialized
+0	20:53:36.499	SupResZone_MTF USDJPY.,H1: Alert: Smaller TimeFrame selected!
+0	20:53:36.499	SupResZone_MTF USDJPY.,H1: initialized
+0	20:53:36.499	SupResZone_MTF USDJPY.,H1: initialized
+0	20:53:36.499	MACD-2x USDJPY.,H1: initialized
+0	20:53:36.499	Laguerre-ACS1 USDJPY.,H1: initialized
+0	21:22:47.896	SupResZone_MTF JP225,H4: uninit reason 3
+0	21:22:47.899	SupResZone_MTF JP225,H4: uninit reason 3
+0	21:22:47.899	SupResZone_MTF JP225,H4: uninit reason 3
+0	21:22:47.899	SupResZone_MTF JP225,H4: uninit reason 3
+0	21:22:47.902	MACD-2x JP225,H4: uninit reason 3
+0	21:22:47.902	Laguerre-ACS1 JP225,H4: deinitialized
+0	21:22:47.902	Laguerre-ACS1 JP225,H4: uninit reason 3
+0	21:22:47.928	SupResZone_MTF JP225,H1: initialized
+0	21:22:47.928	SupResZone_MTF JP225,H1: initialized
+0	21:22:47.928	SupResZone_MTF JP225,H1: Alert: Smaller TimeFrame selected!
+0	21:22:47.928	SupResZone_MTF JP225,H1: initialized
+0	21:22:47.928	SupResZone_MTF JP225,H1: initialized
+0	21:22:47.928	MACD-2x JP225,H1: initialized
+0	21:22:47.928	Laguerre-ACS1 JP225,H1: initialized
+0	21:26:14.129	SupResZone_MTF JP225,H1: uninit reason 3
+0	21:26:14.134	SupResZone_MTF JP225,H1: uninit reason 3
+0	21:26:14.138	SupResZone_MTF JP225,H1: uninit reason 3
+0	21:26:14.138	SupResZone_MTF JP225,H1: uninit reason 3
+0	21:26:14.138	MACD-2x JP225,H1: uninit reason 3
+0	21:26:14.138	Laguerre-ACS1 JP225,H1: deinitialized
+0	21:26:14.138	Laguerre-ACS1 JP225,H1: uninit reason 3
+0	21:26:14.138	SupResZone_MTF JP225,H4: initialized
+0	21:26:14.138	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	21:26:14.138	SupResZone_MTF JP225,H4: initialized
+0	21:26:14.138	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	21:26:14.138	SupResZone_MTF JP225,H4: initialized
+0	21:26:14.138	SupResZone_MTF JP225,H4: initialized
+0	21:26:14.138	MACD-2x JP225,H4: initialized
+0	21:26:14.138	Laguerre-ACS1 JP225,H4: initialized
+0	21:26:16.430	SupResZone_MTF JP225,H4: uninit reason 3
+0	21:26:16.433	SupResZone_MTF JP225,H4: uninit reason 3
+0	21:26:16.433	SupResZone_MTF JP225,H4: uninit reason 3
+0	21:26:16.433	SupResZone_MTF JP225,H4: uninit reason 3
+0	21:26:16.435	MACD-2x JP225,H4: uninit reason 3
+0	21:26:16.435	Laguerre-ACS1 JP225,H4: deinitialized
+0	21:26:16.435	Laguerre-ACS1 JP225,H4: uninit reason 3
+0	21:26:16.436	SupResZone_MTF JP225,H1: initialized
+0	21:26:16.436	SupResZone_MTF JP225,H1: initialized
+0	21:26:16.436	SupResZone_MTF JP225,H1: Alert: Smaller TimeFrame selected!
+0	21:26:16.436	SupResZone_MTF JP225,H1: initialized
+0	21:26:16.436	SupResZone_MTF JP225,H1: initialized
+0	21:26:16.436	MACD-2x JP225,H1: initialized
+0	21:26:16.436	Laguerre-ACS1 JP225,H1: initialized
+0	21:26:40.716	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	21:26:40.719	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	21:26:40.719	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	21:26:40.719	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	21:26:40.723	MACD-2x USDCHF.,H4: uninit reason 3
+0	21:26:40.723	Laguerre-ACS1 USDCHF.,H4: deinitialized
+0	21:26:40.723	Laguerre-ACS1 USDCHF.,H4: uninit reason 3
+0	21:26:40.723	SupResZone_MTF USDCHF.,Daily: initialized
+0	21:26:40.723	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	21:26:40.723	SupResZone_MTF USDCHF.,Daily: initialized
+0	21:26:40.723	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	21:26:40.723	SupResZone_MTF USDCHF.,Daily: initialized
+0	21:26:40.723	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	21:26:40.723	SupResZone_MTF USDCHF.,Daily: initialized
+0	21:26:40.723	MACD-2x USDCHF.,Daily: initialized
+0	21:26:40.723	Laguerre-ACS1 USDCHF.,Daily: initialized
+0	21:26:48.343	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	21:26:48.346	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	21:26:48.346	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	21:26:48.346	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	21:26:48.346	MACD-2x USDCHF.,Daily: uninit reason 3
+0	21:26:48.346	Laguerre-ACS1 USDCHF.,Daily: deinitialized
+0	21:26:48.346	Laguerre-ACS1 USDCHF.,Daily: uninit reason 3
+0	21:26:48.346	SupResZone_MTF USDCHF.,H4: initialized
+0	21:26:48.346	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	21:26:48.346	SupResZone_MTF USDCHF.,H4: initialized
+0	21:26:48.346	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	21:26:48.346	SupResZone_MTF USDCHF.,H4: initialized
+0	21:26:48.346	SupResZone_MTF USDCHF.,H4: initialized
+0	21:26:48.346	MACD-2x USDCHF.,H4: initialized
+0	21:26:48.346	Laguerre-ACS1 USDCHF.,H4: initialized
+0	22:03:30.087	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	22:03:30.090	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	22:03:30.090	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	22:03:30.090	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	22:03:30.094	MACD-2x US_OIL,H4: uninit reason 3
+0	22:03:30.094	Laguerre-ACS1 US_OIL,H4: deinitialized
+0	22:03:30.094	Laguerre-ACS1 US_OIL,H4: uninit reason 3
+0	22:03:30.094	SupResZone_MTF US_OIL,Daily: initialized
+0	22:03:30.094	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	22:03:30.094	SupResZone_MTF US_OIL,Daily: initialized
+0	22:03:30.094	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	22:03:30.094	SupResZone_MTF US_OIL,Daily: initialized
+0	22:03:30.094	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	22:03:30.094	SupResZone_MTF US_OIL,Daily: initialized
+0	22:03:30.094	MACD-2x US_OIL,Daily: initialized
+0	22:03:30.094	Laguerre-ACS1 US_OIL,Daily: initialized
+0	22:05:12.713	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	22:05:12.716	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	22:05:12.716	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	22:05:12.716	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	22:05:12.716	MACD-2x US_OIL,Daily: uninit reason 3
+0	22:05:12.716	Laguerre-ACS1 US_OIL,Daily: deinitialized
+0	22:05:12.716	Laguerre-ACS1 US_OIL,Daily: uninit reason 3
+0	22:05:12.716	SupResZone_MTF US_OIL,H4: initialized
+0	22:05:12.716	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	22:05:12.716	SupResZone_MTF US_OIL,H4: initialized
+0	22:05:12.716	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	22:05:12.716	SupResZone_MTF US_OIL,H4: initialized
+0	22:05:12.716	SupResZone_MTF US_OIL,H4: initialized
+0	22:05:12.716	MACD-2x US_OIL,H4: initialized
+0	22:05:12.716	Laguerre-ACS1 US_OIL,H4: initialized
+0	22:05:36.452	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	22:05:36.456	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	22:05:36.456	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	22:05:36.456	SupResZone_MTF US_OIL,H4: uninit reason 3
+0	22:05:36.459	MACD-2x US_OIL,H4: uninit reason 3
+0	22:05:36.459	Laguerre-ACS1 US_OIL,H4: deinitialized
+0	22:05:36.459	Laguerre-ACS1 US_OIL,H4: uninit reason 3
+0	22:05:36.459	SupResZone_MTF US_OIL,Daily: initialized
+0	22:05:36.459	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	22:05:36.459	SupResZone_MTF US_OIL,Daily: initialized
+0	22:05:36.459	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	22:05:36.459	SupResZone_MTF US_OIL,Daily: initialized
+0	22:05:36.459	SupResZone_MTF US_OIL,Daily: Alert: Smaller TimeFrame selected!
+0	22:05:36.459	SupResZone_MTF US_OIL,Daily: initialized
+0	22:05:36.459	MACD-2x US_OIL,Daily: initialized
+0	22:05:36.459	Laguerre-ACS1 US_OIL,Daily: initialized
+0	22:05:44.766	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	22:05:44.770	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	22:05:44.770	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	22:05:44.770	SupResZone_MTF US_OIL,Daily: uninit reason 3
+0	22:05:44.770	MACD-2x US_OIL,Daily: uninit reason 3
+0	22:05:44.770	Laguerre-ACS1 US_OIL,Daily: deinitialized
+0	22:05:44.770	Laguerre-ACS1 US_OIL,Daily: uninit reason 3
+0	22:05:44.770	SupResZone_MTF US_OIL,H4: initialized
+0	22:05:44.770	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	22:05:44.770	SupResZone_MTF US_OIL,H4: initialized
+0	22:05:44.770	SupResZone_MTF US_OIL,H4: Alert: Smaller TimeFrame selected!
+0	22:05:44.770	SupResZone_MTF US_OIL,H4: initialized
+0	22:05:44.770	SupResZone_MTF US_OIL,H4: initialized
+0	22:05:44.770	MACD-2x US_OIL,H4: initialized
+0	22:05:44.771	Laguerre-ACS1 US_OIL,H4: initialized
+0	22:05:49.266	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:05:49.270	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:05:49.273	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:05:49.273	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:05:49.273	MACD-2x JP225,H1: uninit reason 3
+0	22:05:49.273	Laguerre-ACS1 JP225,H1: deinitialized
+0	22:05:49.273	Laguerre-ACS1 JP225,H1: uninit reason 3
+0	22:05:49.273	SupResZone_MTF JP225,H4: initialized
+0	22:05:49.273	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	22:05:49.273	SupResZone_MTF JP225,H4: initialized
+0	22:05:49.273	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	22:05:49.274	SupResZone_MTF JP225,H4: initialized
+0	22:05:49.274	SupResZone_MTF JP225,H4: initialized
+0	22:05:49.274	MACD-2x JP225,H4: initialized
+0	22:05:49.274	Laguerre-ACS1 JP225,H4: initialized
+0	22:06:02.846	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	22:06:02.850	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	22:06:02.850	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	22:06:02.850	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	22:06:02.854	MACD-2x AUDJPY.,H4: uninit reason 3
+0	22:06:02.854	Laguerre-ACS1 AUDJPY.,H4: deinitialized
+0	22:06:02.854	Laguerre-ACS1 AUDJPY.,H4: uninit reason 3
+0	22:06:02.879	SupResZone_MTF AUDJPY.,H1: initialized
+0	22:06:02.879	SupResZone_MTF AUDJPY.,H1: initialized
+0	22:06:02.879	SupResZone_MTF AUDJPY.,H1: Alert: Smaller TimeFrame selected!
+0	22:06:02.879	SupResZone_MTF AUDJPY.,H1: initialized
+0	22:06:02.879	SupResZone_MTF AUDJPY.,H1: initialized
+0	22:06:02.879	MACD-2x AUDJPY.,H1: initialized
+0	22:06:02.879	Laguerre-ACS1 AUDJPY.,H1: initialized
+0	22:06:14.762	SupResZone_MTF AUDJPY.,H1: uninit reason 3
+0	22:06:14.766	SupResZone_MTF AUDJPY.,H1: uninit reason 3
+0	22:06:14.769	SupResZone_MTF AUDJPY.,H1: uninit reason 3
+0	22:06:14.769	SupResZone_MTF AUDJPY.,H1: uninit reason 3
+0	22:06:14.769	MACD-2x AUDJPY.,H1: uninit reason 3
+0	22:06:14.769	Laguerre-ACS1 AUDJPY.,H1: deinitialized
+0	22:06:14.769	Laguerre-ACS1 AUDJPY.,H1: uninit reason 3
+0	22:06:14.769	SupResZone_MTF AUDJPY.,H4: initialized
+0	22:06:14.769	SupResZone_MTF AUDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	22:06:14.769	SupResZone_MTF AUDJPY.,H4: initialized
+0	22:06:14.769	SupResZone_MTF AUDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	22:06:14.769	SupResZone_MTF AUDJPY.,H4: initialized
+0	22:06:14.769	SupResZone_MTF AUDJPY.,H4: initialized
+0	22:06:14.769	MACD-2x AUDJPY.,H4: initialized
+0	22:06:14.769	Laguerre-ACS1 AUDJPY.,H4: initialized
+0	22:06:20.429	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	22:06:20.432	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	22:06:20.432	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	22:06:20.432	SupResZone_MTF AUDJPY.,H4: uninit reason 3
+0	22:06:20.435	MACD-2x AUDJPY.,H4: uninit reason 3
+0	22:06:20.435	Laguerre-ACS1 AUDJPY.,H4: deinitialized
+0	22:06:20.435	Laguerre-ACS1 AUDJPY.,H4: uninit reason 3
+0	22:06:20.435	SupResZone_MTF AUDJPY.,Daily: initialized
+0	22:06:20.435	SupResZone_MTF AUDJPY.,Daily: Alert: Smaller TimeFrame selected!
+0	22:06:20.435	SupResZone_MTF AUDJPY.,Daily: initialized
+0	22:06:20.435	SupResZone_MTF AUDJPY.,Daily: Alert: Smaller TimeFrame selected!
+0	22:06:20.435	SupResZone_MTF AUDJPY.,Daily: initialized
+0	22:06:20.435	SupResZone_MTF AUDJPY.,Daily: Alert: Smaller TimeFrame selected!
+0	22:06:20.435	SupResZone_MTF AUDJPY.,Daily: initialized
+0	22:06:20.435	MACD-2x AUDJPY.,Daily: initialized
+0	22:06:20.435	Laguerre-ACS1 AUDJPY.,Daily: initialized
+0	22:06:21.652	SupResZone_MTF AUDJPY.,Daily: uninit reason 3
+0	22:06:21.656	SupResZone_MTF AUDJPY.,Daily: uninit reason 3
+0	22:06:21.656	SupResZone_MTF AUDJPY.,Daily: uninit reason 3
+0	22:06:21.656	SupResZone_MTF AUDJPY.,Daily: uninit reason 3
+0	22:06:21.656	MACD-2x AUDJPY.,Daily: uninit reason 3
+0	22:06:21.656	Laguerre-ACS1 AUDJPY.,Daily: deinitialized
+0	22:06:21.656	Laguerre-ACS1 AUDJPY.,Daily: uninit reason 3
+0	22:06:21.656	SupResZone_MTF AUDJPY.,H4: initialized
+0	22:06:21.656	SupResZone_MTF AUDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	22:06:21.656	SupResZone_MTF AUDJPY.,H4: initialized
+0	22:06:21.656	SupResZone_MTF AUDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	22:06:21.656	SupResZone_MTF AUDJPY.,H4: initialized
+0	22:06:21.656	SupResZone_MTF AUDJPY.,H4: initialized
+0	22:06:21.656	MACD-2x AUDJPY.,H4: initialized
+0	22:06:21.656	Laguerre-ACS1 AUDJPY.,H4: initialized
+0	22:06:28.780	SupResZone_MTF USDJPY.,H1: uninit reason 3
+0	22:06:28.783	SupResZone_MTF USDJPY.,H1: uninit reason 3
+0	22:06:28.786	SupResZone_MTF USDJPY.,H1: uninit reason 3
+0	22:06:28.786	SupResZone_MTF USDJPY.,H1: uninit reason 3
+0	22:06:28.786	MACD-2x USDJPY.,H1: uninit reason 3
+0	22:06:28.786	Laguerre-ACS1 USDJPY.,H1: deinitialized
+0	22:06:28.786	Laguerre-ACS1 USDJPY.,H1: uninit reason 3
+0	22:06:28.786	SupResZone_MTF USDJPY.,H4: initialized
+0	22:06:28.786	SupResZone_MTF USDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	22:06:28.786	SupResZone_MTF USDJPY.,H4: initialized
+0	22:06:28.786	SupResZone_MTF USDJPY.,H4: Alert: Smaller TimeFrame selected!
+0	22:06:28.786	SupResZone_MTF USDJPY.,H4: initialized
+0	22:06:28.786	SupResZone_MTF USDJPY.,H4: initialized
+0	22:06:28.786	MACD-2x USDJPY.,H4: initialized
+0	22:06:28.786	Laguerre-ACS1 USDJPY.,H4: initialized
+0	22:06:49.576	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:06:49.579	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:06:49.579	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:06:49.579	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:06:49.582	MACD-2x USDCHF.,H4: uninit reason 3
+0	22:06:49.582	Laguerre-ACS1 USDCHF.,H4: deinitialized
+0	22:06:49.582	Laguerre-ACS1 USDCHF.,H4: uninit reason 3
+0	22:06:49.582	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:06:49.582	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:06:49.582	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:06:49.582	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:06:49.582	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:06:49.582	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:06:49.582	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:06:49.582	MACD-2x USDCHF.,Daily: initialized
+0	22:06:49.582	Laguerre-ACS1 USDCHF.,Daily: initialized
+0	22:06:53.699	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:06:53.702	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:06:53.702	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:06:53.702	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:06:53.702	MACD-2x USDCHF.,Daily: uninit reason 3
+0	22:06:53.702	Laguerre-ACS1 USDCHF.,Daily: deinitialized
+0	22:06:53.702	Laguerre-ACS1 USDCHF.,Daily: uninit reason 3
+0	22:06:53.702	SupResZone_MTF USDCHF.,H4: initialized
+0	22:06:53.702	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	22:06:53.702	SupResZone_MTF USDCHF.,H4: initialized
+0	22:06:53.703	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	22:06:53.703	SupResZone_MTF USDCHF.,H4: initialized
+0	22:06:53.703	SupResZone_MTF USDCHF.,H4: initialized
+0	22:06:53.703	MACD-2x USDCHF.,H4: initialized
+0	22:06:53.703	Laguerre-ACS1 USDCHF.,H4: initialized
+0	22:06:58.934	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:06:58.937	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:06:58.937	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:06:58.937	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:06:58.940	MACD-2x USDCHF.,H4: uninit reason 3
+0	22:06:58.940	Laguerre-ACS1 USDCHF.,H4: deinitialized
+0	22:06:58.940	Laguerre-ACS1 USDCHF.,H4: uninit reason 3
+0	22:06:58.940	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:06:58.940	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:06:58.940	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:06:58.940	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:06:58.940	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:06:58.940	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:06:58.940	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:06:58.940	MACD-2x USDCHF.,Daily: initialized
+0	22:06:58.940	Laguerre-ACS1 USDCHF.,Daily: initialized
+0	22:06:59.948	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:06:59.951	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:06:59.951	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:06:59.951	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:06:59.951	MACD-2x USDCHF.,Daily: uninit reason 3
+0	22:06:59.951	Laguerre-ACS1 USDCHF.,Daily: deinitialized
+0	22:06:59.951	Laguerre-ACS1 USDCHF.,Daily: uninit reason 3
+0	22:06:59.976	SupResZone_MTF USDCHF.,Weekly: Alert: Smaller TimeFrame selected!
+0	22:06:59.976	SupResZone_MTF USDCHF.,Weekly: initialized
+0	22:06:59.976	SupResZone_MTF USDCHF.,Weekly: Alert: Smaller TimeFrame selected!
+0	22:06:59.976	SupResZone_MTF USDCHF.,Weekly: initialized
+0	22:06:59.976	SupResZone_MTF USDCHF.,Weekly: Alert: Smaller TimeFrame selected!
+0	22:06:59.976	SupResZone_MTF USDCHF.,Weekly: initialized
+0	22:06:59.976	SupResZone_MTF USDCHF.,Weekly: Alert: Smaller TimeFrame selected!
+0	22:06:59.976	SupResZone_MTF USDCHF.,Weekly: initialized
+0	22:06:59.976	MACD-2x USDCHF.,Weekly: initialized
+0	22:06:59.976	Laguerre-ACS1 USDCHF.,Weekly: initialized
+0	22:07:00.906	SupResZone_MTF USDCHF.,Weekly: uninit reason 3
+0	22:07:00.906	SupResZone_MTF USDCHF.,Weekly: uninit reason 3
+0	22:07:00.906	SupResZone_MTF USDCHF.,Weekly: uninit reason 3
+0	22:07:00.906	SupResZone_MTF USDCHF.,Weekly: uninit reason 3
+0	22:07:00.906	MACD-2x USDCHF.,Weekly: uninit reason 3
+0	22:07:00.906	Laguerre-ACS1 USDCHF.,Weekly: deinitialized
+0	22:07:00.906	Laguerre-ACS1 USDCHF.,Weekly: uninit reason 3
+0	22:07:00.906	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:07:00.906	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:07:00.906	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:07:00.906	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:07:00.906	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:07:00.906	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:07:00.906	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:07:00.906	MACD-2x USDCHF.,Daily: initialized
+0	22:07:00.906	Laguerre-ACS1 USDCHF.,Daily: initialized
+0	22:07:05.138	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:07:05.141	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:07:05.141	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:07:05.141	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:07:05.141	MACD-2x USDCHF.,Daily: uninit reason 3
+0	22:07:05.141	Laguerre-ACS1 USDCHF.,Daily: deinitialized
+0	22:07:05.141	Laguerre-ACS1 USDCHF.,Daily: uninit reason 3
+0	22:07:05.141	SupResZone_MTF USDCHF.,H4: initialized
+0	22:07:05.141	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	22:07:05.141	SupResZone_MTF USDCHF.,H4: initialized
+0	22:07:05.141	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	22:07:05.141	SupResZone_MTF USDCHF.,H4: initialized
+0	22:07:05.141	SupResZone_MTF USDCHF.,H4: initialized
+0	22:07:05.141	MACD-2x USDCHF.,H4: initialized
+0	22:07:05.141	Laguerre-ACS1 USDCHF.,H4: initialized
+0	22:26:25.523	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:26:25.526	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:26:25.526	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:26:25.526	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:26:25.529	MACD-2x JP225,H4: uninit reason 3
+0	22:26:25.529	Laguerre-ACS1 JP225,H4: deinitialized
+0	22:26:25.529	Laguerre-ACS1 JP225,H4: uninit reason 3
+0	22:26:25.530	SupResZone_MTF JP225,H1: initialized
+0	22:26:25.530	SupResZone_MTF JP225,H1: initialized
+0	22:26:25.530	SupResZone_MTF JP225,H1: Alert: Smaller TimeFrame selected!
+0	22:26:25.530	SupResZone_MTF JP225,H1: initialized
+0	22:26:25.530	SupResZone_MTF JP225,H1: initialized
+0	22:26:25.530	MACD-2x JP225,H1: initialized
+0	22:26:25.531	Laguerre-ACS1 JP225,H1: initialized
+0	22:26:35.943	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:26:35.946	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:26:35.949	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:26:35.949	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:26:35.949	MACD-2x JP225,H1: uninit reason 3
+0	22:26:35.949	Laguerre-ACS1 JP225,H1: deinitialized
+0	22:26:35.949	Laguerre-ACS1 JP225,H1: uninit reason 3
+0	22:26:35.949	SupResZone_MTF JP225,H4: initialized
+0	22:26:35.949	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	22:26:35.949	SupResZone_MTF JP225,H4: initialized
+0	22:26:35.949	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	22:26:35.949	SupResZone_MTF JP225,H4: initialized
+0	22:26:35.949	SupResZone_MTF JP225,H4: initialized
+0	22:26:35.949	MACD-2x JP225,H4: initialized
+0	22:26:35.950	Laguerre-ACS1 JP225,H4: initialized
+0	22:27:02.067	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:27:02.070	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:27:02.070	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:27:02.070	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:27:02.073	MACD-2x JP225,H4: uninit reason 3
+0	22:27:02.073	Laguerre-ACS1 JP225,H4: deinitialized
+0	22:27:02.073	Laguerre-ACS1 JP225,H4: uninit reason 3
+0	22:27:02.074	SupResZone_MTF JP225,H1: initialized
+0	22:27:02.074	SupResZone_MTF JP225,H1: initialized
+0	22:27:02.074	SupResZone_MTF JP225,H1: Alert: Smaller TimeFrame selected!
+0	22:27:02.074	SupResZone_MTF JP225,H1: initialized
+0	22:27:02.074	SupResZone_MTF JP225,H1: initialized
+0	22:27:02.074	MACD-2x JP225,H1: initialized
+0	22:27:02.075	Laguerre-ACS1 JP225,H1: initialized
+0	22:27:07.448	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:27:07.452	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:27:07.456	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:27:07.456	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:27:07.456	MACD-2x JP225,H1: uninit reason 3
+0	22:27:07.456	Laguerre-ACS1 JP225,H1: deinitialized
+0	22:27:07.456	Laguerre-ACS1 JP225,H1: uninit reason 3
+0	22:27:07.456	SupResZone_MTF JP225,H4: initialized
+0	22:27:07.456	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	22:27:07.456	SupResZone_MTF JP225,H4: initialized
+0	22:27:07.456	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	22:27:07.456	SupResZone_MTF JP225,H4: initialized
+0	22:27:07.456	SupResZone_MTF JP225,H4: initialized
+0	22:27:07.456	MACD-2x JP225,H4: initialized
+0	22:27:07.456	Laguerre-ACS1 JP225,H4: initialized
+0	22:27:09.064	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:27:09.068	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:27:09.068	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:27:09.068	SupResZone_MTF JP225,H4: uninit reason 3
+0	22:27:09.071	MACD-2x JP225,H4: uninit reason 3
+0	22:27:09.071	Laguerre-ACS1 JP225,H4: deinitialized
+0	22:27:09.071	Laguerre-ACS1 JP225,H4: uninit reason 3
+0	22:27:09.071	SupResZone_MTF JP225,H1: initialized
+0	22:27:09.071	SupResZone_MTF JP225,H1: initialized
+0	22:27:09.071	SupResZone_MTF JP225,H1: Alert: Smaller TimeFrame selected!
+0	22:27:09.071	SupResZone_MTF JP225,H1: initialized
+0	22:27:09.071	SupResZone_MTF JP225,H1: initialized
+0	22:27:09.071	MACD-2x JP225,H1: initialized
+0	22:27:09.071	Laguerre-ACS1 JP225,H1: initialized
+0	22:27:19.969	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:27:19.973	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:27:19.977	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:27:19.977	SupResZone_MTF JP225,H1: uninit reason 3
+0	22:27:19.977	MACD-2x JP225,H1: uninit reason 3
+0	22:27:19.977	Laguerre-ACS1 JP225,H1: deinitialized
+0	22:27:19.977	Laguerre-ACS1 JP225,H1: uninit reason 3
+0	22:27:19.977	SupResZone_MTF JP225,H4: initialized
+0	22:27:19.977	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	22:27:19.977	SupResZone_MTF JP225,H4: initialized
+0	22:27:19.977	SupResZone_MTF JP225,H4: Alert: Smaller TimeFrame selected!
+0	22:27:19.977	SupResZone_MTF JP225,H4: initialized
+0	22:27:19.977	SupResZone_MTF JP225,H4: initialized
+0	22:27:19.977	MACD-2x JP225,H4: initialized
+0	22:27:19.977	Laguerre-ACS1 JP225,H4: initialized
+0	22:28:36.473	SupResZone_MTF EURAUD.,H4: uninit reason 3
+0	22:28:36.476	SupResZone_MTF EURAUD.,H4: uninit reason 3
+0	22:28:36.476	SupResZone_MTF EURAUD.,H4: uninit reason 3
+0	22:28:36.476	SupResZone_MTF EURAUD.,H4: uninit reason 3
+0	22:28:36.480	MACD-2x EURAUD.,H4: uninit reason 3
+0	22:28:36.480	Laguerre-ACS1 EURAUD.,H4: deinitialized
+0	22:28:36.480	Laguerre-ACS1 EURAUD.,H4: uninit reason 3
+0	22:28:36.480	SupResZone_MTF EURAUD.,Daily: initialized
+0	22:28:36.480	SupResZone_MTF EURAUD.,Daily: Alert: Smaller TimeFrame selected!
+0	22:28:36.480	SupResZone_MTF EURAUD.,Daily: initialized
+0	22:28:36.480	SupResZone_MTF EURAUD.,Daily: Alert: Smaller TimeFrame selected!
+0	22:28:36.480	SupResZone_MTF EURAUD.,Daily: initialized
+0	22:28:36.480	SupResZone_MTF EURAUD.,Daily: Alert: Smaller TimeFrame selected!
+0	22:28:36.480	SupResZone_MTF EURAUD.,Daily: initialized
+0	22:28:36.480	MACD-2x EURAUD.,Daily: initialized
+0	22:28:36.480	Laguerre-ACS1 EURAUD.,Daily: initialized
+0	22:28:37.696	SupResZone_MTF EURAUD.,Daily: uninit reason 3
+0	22:28:37.701	SupResZone_MTF EURAUD.,Daily: uninit reason 3
+0	22:28:37.701	SupResZone_MTF EURAUD.,Daily: uninit reason 3
+0	22:28:37.701	SupResZone_MTF EURAUD.,Daily: uninit reason 3
+0	22:28:37.701	MACD-2x EURAUD.,Daily: uninit reason 3
+0	22:28:37.701	Laguerre-ACS1 EURAUD.,Daily: deinitialized
+0	22:28:37.701	Laguerre-ACS1 EURAUD.,Daily: uninit reason 3
+0	22:28:37.701	SupResZone_MTF EURAUD.,H4: initialized
+0	22:28:37.701	SupResZone_MTF EURAUD.,H4: Alert: Smaller TimeFrame selected!
+0	22:28:37.701	SupResZone_MTF EURAUD.,H4: initialized
+0	22:28:37.701	SupResZone_MTF EURAUD.,H4: Alert: Smaller TimeFrame selected!
+0	22:28:37.701	SupResZone_MTF EURAUD.,H4: initialized
+0	22:28:37.701	SupResZone_MTF EURAUD.,H4: initialized
+0	22:28:37.701	MACD-2x EURAUD.,H4: initialized
+0	22:28:37.701	Laguerre-ACS1 EURAUD.,H4: initialized
+0	22:29:21.278	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	22:29:21.282	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	22:29:21.282	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	22:29:21.282	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	22:29:21.285	MACD-2x AUDUSD.,H4: uninit reason 3
+0	22:29:21.285	Laguerre-ACS1 AUDUSD.,H4: deinitialized
+0	22:29:21.285	Laguerre-ACS1 AUDUSD.,H4: uninit reason 3
+0	22:29:21.286	SupResZone_MTF AUDUSD.,Daily: initialized
+0	22:29:21.286	SupResZone_MTF AUDUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	22:29:21.286	SupResZone_MTF AUDUSD.,Daily: initialized
+0	22:29:21.286	SupResZone_MTF AUDUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	22:29:21.286	SupResZone_MTF AUDUSD.,Daily: initialized
+0	22:29:21.286	SupResZone_MTF AUDUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	22:29:21.286	SupResZone_MTF AUDUSD.,Daily: initialized
+0	22:29:21.286	MACD-2x AUDUSD.,Daily: initialized
+0	22:29:21.286	Laguerre-ACS1 AUDUSD.,Daily: initialized
+0	22:29:25.404	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	22:29:25.407	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	22:29:25.407	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	22:29:25.407	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	22:29:25.407	MACD-2x AUDUSD.,Daily: uninit reason 3
+0	22:29:25.407	Laguerre-ACS1 AUDUSD.,Daily: deinitialized
+0	22:29:25.407	Laguerre-ACS1 AUDUSD.,Daily: uninit reason 3
+0	22:29:25.407	SupResZone_MTF AUDUSD.,H4: initialized
+0	22:29:25.407	SupResZone_MTF AUDUSD.,H4: Alert: Smaller TimeFrame selected!
+0	22:29:25.407	SupResZone_MTF AUDUSD.,H4: initialized
+0	22:29:25.407	SupResZone_MTF AUDUSD.,H4: Alert: Smaller TimeFrame selected!
+0	22:29:25.407	SupResZone_MTF AUDUSD.,H4: initialized
+0	22:29:25.407	SupResZone_MTF AUDUSD.,H4: initialized
+0	22:29:25.407	MACD-2x AUDUSD.,H4: initialized
+0	22:29:25.407	Laguerre-ACS1 AUDUSD.,H4: initialized
+0	22:30:11.052	SupResZone_MTF GBPUSD.,H4: uninit reason 3
+0	22:30:11.056	SupResZone_MTF GBPUSD.,H4: uninit reason 3
+0	22:30:11.056	SupResZone_MTF GBPUSD.,H4: uninit reason 3
+0	22:30:11.056	SupResZone_MTF GBPUSD.,H4: uninit reason 3
+0	22:30:11.059	MACD-2x GBPUSD.,H4: uninit reason 3
+0	22:30:11.059	Laguerre-ACS1 GBPUSD.,H4: deinitialized
+0	22:30:11.059	Laguerre-ACS1 GBPUSD.,H4: uninit reason 3
+0	22:30:11.062	SupResZone_MTF GBPUSD.,H1: initialized
+0	22:30:11.062	SupResZone_MTF GBPUSD.,H1: initialized
+0	22:30:11.062	SupResZone_MTF GBPUSD.,H1: Alert: Smaller TimeFrame selected!
+0	22:30:11.062	SupResZone_MTF GBPUSD.,H1: initialized
+0	22:30:11.062	SupResZone_MTF GBPUSD.,H1: initialized
+0	22:30:11.062	MACD-2x GBPUSD.,H1: initialized
+0	22:30:11.062	Laguerre-ACS1 GBPUSD.,H1: initialized
+0	22:30:17.924	SupResZone_MTF GBPUSD.,H1: uninit reason 3
+0	22:30:17.928	SupResZone_MTF GBPUSD.,H1: uninit reason 3
+0	22:30:17.931	SupResZone_MTF GBPUSD.,H1: uninit reason 3
+0	22:30:17.932	SupResZone_MTF GBPUSD.,H1: uninit reason 3
+0	22:30:17.932	MACD-2x GBPUSD.,H1: uninit reason 3
+0	22:30:17.932	Laguerre-ACS1 GBPUSD.,H1: deinitialized
+0	22:30:17.932	Laguerre-ACS1 GBPUSD.,H1: uninit reason 3
+0	22:30:17.932	SupResZone_MTF GBPUSD.,H4: initialized
+0	22:30:17.932	SupResZone_MTF GBPUSD.,H4: Alert: Smaller TimeFrame selected!
+0	22:30:17.932	SupResZone_MTF GBPUSD.,H4: initialized
+0	22:30:17.932	SupResZone_MTF GBPUSD.,H4: Alert: Smaller TimeFrame selected!
+0	22:30:17.932	SupResZone_MTF GBPUSD.,H4: initialized
+0	22:30:17.932	SupResZone_MTF GBPUSD.,H4: initialized
+0	22:30:17.932	MACD-2x GBPUSD.,H4: initialized
+0	22:30:17.932	Laguerre-ACS1 GBPUSD.,H4: initialized
+0	22:30:32.812	SupResZone_MTF USDCAD.,H4: uninit reason 3
+0	22:30:32.817	SupResZone_MTF USDCAD.,H4: uninit reason 3
+0	22:30:32.817	SupResZone_MTF USDCAD.,H4: uninit reason 3
+0	22:30:32.817	SupResZone_MTF USDCAD.,H4: uninit reason 3
+0	22:30:32.820	MACD-2x USDCAD.,H4: uninit reason 3
+0	22:30:32.820	Laguerre-ACS1 USDCAD.,H4: deinitialized
+0	22:30:32.820	Laguerre-ACS1 USDCAD.,H4: uninit reason 3
+0	22:30:32.821	SupResZone_MTF USDCAD.,H1: initialized
+0	22:30:32.821	SupResZone_MTF USDCAD.,H1: initialized
+0	22:30:32.821	SupResZone_MTF USDCAD.,H1: Alert: Smaller TimeFrame selected!
+0	22:30:32.821	SupResZone_MTF USDCAD.,H1: initialized
+0	22:30:32.821	SupResZone_MTF USDCAD.,H1: initialized
+0	22:30:32.821	MACD-2x USDCAD.,H1: initialized
+0	22:30:32.821	Laguerre-ACS1 USDCAD.,H1: initialized
+0	22:30:39.946	SupResZone_MTF USDCAD.,H1: uninit reason 3
+0	22:30:39.949	SupResZone_MTF USDCAD.,H1: uninit reason 3
+0	22:30:39.952	SupResZone_MTF USDCAD.,H1: uninit reason 3
+0	22:30:39.952	SupResZone_MTF USDCAD.,H1: uninit reason 3
+0	22:30:39.952	MACD-2x USDCAD.,H1: uninit reason 3
+0	22:30:39.952	Laguerre-ACS1 USDCAD.,H1: deinitialized
+0	22:30:39.952	Laguerre-ACS1 USDCAD.,H1: uninit reason 3
+0	22:30:39.952	SupResZone_MTF USDCAD.,Daily: initialized
+0	22:30:39.952	SupResZone_MTF USDCAD.,Daily: Alert: Smaller TimeFrame selected!
+0	22:30:39.952	SupResZone_MTF USDCAD.,Daily: initialized
+0	22:30:39.952	SupResZone_MTF USDCAD.,Daily: Alert: Smaller TimeFrame selected!
+0	22:30:39.952	SupResZone_MTF USDCAD.,Daily: initialized
+0	22:30:39.952	SupResZone_MTF USDCAD.,Daily: Alert: Smaller TimeFrame selected!
+0	22:30:39.952	SupResZone_MTF USDCAD.,Daily: initialized
+0	22:30:39.952	MACD-2x USDCAD.,Daily: initialized
+0	22:30:39.952	Laguerre-ACS1 USDCAD.,Daily: initialized
+0	22:30:49.016	SupResZone_MTF USDCAD.,Daily: uninit reason 3
+0	22:30:49.020	SupResZone_MTF USDCAD.,Daily: uninit reason 3
+0	22:30:49.020	SupResZone_MTF USDCAD.,Daily: uninit reason 3
+0	22:30:49.020	SupResZone_MTF USDCAD.,Daily: uninit reason 3
+0	22:30:49.020	MACD-2x USDCAD.,Daily: uninit reason 3
+0	22:30:49.020	Laguerre-ACS1 USDCAD.,Daily: deinitialized
+0	22:30:49.020	Laguerre-ACS1 USDCAD.,Daily: uninit reason 3
+0	22:30:49.020	SupResZone_MTF USDCAD.,H4: initialized
+0	22:30:49.020	SupResZone_MTF USDCAD.,H4: Alert: Smaller TimeFrame selected!
+0	22:30:49.020	SupResZone_MTF USDCAD.,H4: initialized
+0	22:30:49.020	SupResZone_MTF USDCAD.,H4: Alert: Smaller TimeFrame selected!
+0	22:30:49.020	SupResZone_MTF USDCAD.,H4: initialized
+0	22:30:49.020	SupResZone_MTF USDCAD.,H4: initialized
+0	22:30:49.020	MACD-2x USDCAD.,H4: initialized
+0	22:30:49.020	Laguerre-ACS1 USDCAD.,H4: initialized
+0	22:31:48.173	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:31:48.177	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:31:48.177	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:31:48.177	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:31:48.180	MACD-2x USDCHF.,H4: uninit reason 3
+0	22:31:48.180	Laguerre-ACS1 USDCHF.,H4: deinitialized
+0	22:31:48.180	Laguerre-ACS1 USDCHF.,H4: uninit reason 3
+0	22:31:48.180	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:31:48.180	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:31:48.180	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:31:48.180	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:31:48.180	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:31:48.180	SupResZone_MTF USDCHF.,Daily: Alert: Smaller TimeFrame selected!
+0	22:31:48.180	SupResZone_MTF USDCHF.,Daily: initialized
+0	22:31:48.180	MACD-2x USDCHF.,Daily: initialized
+0	22:31:48.180	Laguerre-ACS1 USDCHF.,Daily: initialized
+0	22:31:49.234	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:31:49.237	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:31:49.237	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:31:49.237	SupResZone_MTF USDCHF.,Daily: uninit reason 3
+0	22:31:49.237	MACD-2x USDCHF.,Daily: uninit reason 3
+0	22:31:49.237	Laguerre-ACS1 USDCHF.,Daily: deinitialized
+0	22:31:49.237	Laguerre-ACS1 USDCHF.,Daily: uninit reason 3
+0	22:31:49.237	SupResZone_MTF USDCHF.,H4: initialized
+0	22:31:49.237	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	22:31:49.237	SupResZone_MTF USDCHF.,H4: initialized
+0	22:31:49.237	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	22:31:49.237	SupResZone_MTF USDCHF.,H4: initialized
+0	22:31:49.237	SupResZone_MTF USDCHF.,H4: initialized
+0	22:31:49.237	MACD-2x USDCHF.,H4: initialized
+0	22:31:49.237	Laguerre-ACS1 USDCHF.,H4: initialized
+0	22:31:51.774	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:31:51.777	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:31:51.777	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:31:51.777	SupResZone_MTF USDCHF.,H4: uninit reason 3
+0	22:31:51.780	MACD-2x USDCHF.,H4: uninit reason 3
+0	22:31:51.780	Laguerre-ACS1 USDCHF.,H4: deinitialized
+0	22:31:51.780	Laguerre-ACS1 USDCHF.,H4: uninit reason 3
+0	22:31:51.782	SupResZone_MTF USDCHF.,H1: initialized
+0	22:31:51.782	SupResZone_MTF USDCHF.,H1: initialized
+0	22:31:51.782	SupResZone_MTF USDCHF.,H1: Alert: Smaller TimeFrame selected!
+0	22:31:51.782	SupResZone_MTF USDCHF.,H1: initialized
+0	22:31:51.782	SupResZone_MTF USDCHF.,H1: initialized
+0	22:31:51.782	MACD-2x USDCHF.,H1: initialized
+0	22:31:51.782	Laguerre-ACS1 USDCHF.,H1: initialized
+0	22:31:54.321	SupResZone_MTF USDCHF.,H1: uninit reason 3
+0	22:31:54.325	SupResZone_MTF USDCHF.,H1: uninit reason 3
+0	22:31:54.328	SupResZone_MTF USDCHF.,H1: uninit reason 3
+0	22:31:54.328	SupResZone_MTF USDCHF.,H1: uninit reason 3
+0	22:31:54.328	MACD-2x USDCHF.,H1: uninit reason 3
+0	22:31:54.328	Laguerre-ACS1 USDCHF.,H1: deinitialized
+0	22:31:54.328	Laguerre-ACS1 USDCHF.,H1: uninit reason 3
+0	22:31:54.328	SupResZone_MTF USDCHF.,H4: initialized
+0	22:31:54.328	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	22:31:54.328	SupResZone_MTF USDCHF.,H4: initialized
+0	22:31:54.328	SupResZone_MTF USDCHF.,H4: Alert: Smaller TimeFrame selected!
+0	22:31:54.328	SupResZone_MTF USDCHF.,H4: initialized
+0	22:31:54.328	SupResZone_MTF USDCHF.,H4: initialized
+0	22:31:54.328	MACD-2x USDCHF.,H4: initialized
+0	22:31:54.328	Laguerre-ACS1 USDCHF.,H4: initialized
+0	23:28:04.023	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	23:28:04.026	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	23:28:04.026	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	23:28:04.026	SupResZone_MTF AUDUSD.,H4: uninit reason 3
+0	23:28:04.029	MACD-2x AUDUSD.,H4: uninit reason 3
+0	23:28:04.029	Laguerre-ACS1 AUDUSD.,H4: deinitialized
+0	23:28:04.029	Laguerre-ACS1 AUDUSD.,H4: uninit reason 3
+0	23:28:04.030	SupResZone_MTF AUDUSD.,Daily: initialized
+0	23:28:04.030	SupResZone_MTF AUDUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	23:28:04.030	SupResZone_MTF AUDUSD.,Daily: initialized
+0	23:28:04.030	SupResZone_MTF AUDUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	23:28:04.030	SupResZone_MTF AUDUSD.,Daily: initialized
+0	23:28:04.030	SupResZone_MTF AUDUSD.,Daily: Alert: Smaller TimeFrame selected!
+0	23:28:04.030	SupResZone_MTF AUDUSD.,Daily: initialized
+0	23:28:04.030	MACD-2x AUDUSD.,Daily: initialized
+0	23:28:04.030	Laguerre-ACS1 AUDUSD.,Daily: initialized
+0	23:28:10.249	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	23:28:10.253	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	23:28:10.253	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	23:28:10.253	SupResZone_MTF AUDUSD.,Daily: uninit reason 3
+0	23:28:10.253	MACD-2x AUDUSD.,Daily: uninit reason 3
+0	23:28:10.253	Laguerre-ACS1 AUDUSD.,Daily: deinitialized
+0	23:28:10.253	Laguerre-ACS1 AUDUSD.,Daily: uninit reason 3
+0	23:28:10.253	SupResZone_MTF AUDUSD.,H4: initialized
+0	23:28:10.253	SupResZone_MTF AUDUSD.,H4: Alert: Smaller TimeFrame selected!
+0	23:28:10.253	SupResZone_MTF AUDUSD.,H4: initialized
+0	23:28:10.253	SupResZone_MTF AUDUSD.,H4: Alert: Smaller TimeFrame selected!
+0	23:28:10.253	SupResZone_MTF AUDUSD.,H4: initialized
+0	23:28:10.253	SupResZone_MTF AUDUSD.,H4: initialized
+0	23:28:10.253	MACD-2x AUDUSD.,H4: initialized
+0	23:28:10.254	Laguerre-ACS1 AUDUSD.,H4: initialized

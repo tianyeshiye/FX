@@ -1,0 +1,158 @@
+1	00:40:03.222	'120010550': connect failed [No connection]
+2	00:40:44.985	Custom indicator span_model EURAUD.,H1: removed
+2	00:40:44.988	Custom indicator MACD-2x EURAUD.,H1: removed
+2	00:40:44.992	Custom indicator MACD-2x EURAUD.,H1: removed
+2	00:40:44.993	Custom indicator Laguerre-ACS1 EURAUD.,H1: removed
+2	00:40:44.997	Custom indicator span_model XAUUSD.,H1: removed
+2	00:40:45.000	Custom indicator MACD-2x XAUUSD.,H1: removed
+2	00:40:45.002	Custom indicator MACD-2x XAUUSD.,H1: removed
+2	00:40:45.002	Custom indicator Laguerre-ACS1 XAUUSD.,H1: removed
+2	00:40:45.027	Custom indicator span_model JP225,M5: removed
+2	00:40:45.030	Custom indicator MACD-2x JP225,M5: removed
+2	00:40:45.032	Custom indicator MACD-2x JP225,M5: removed
+2	00:40:45.032	Custom indicator Laguerre-ACS1 JP225,M5: removed
+2	00:40:45.038	Custom indicator span_model US_OIL,Daily: removed
+2	00:40:45.041	Custom indicator MACD-2x US_OIL,Daily: removed
+2	00:40:45.044	Custom indicator MACD-2x US_OIL,Daily: removed
+2	00:40:45.044	Custom indicator Laguerre-ACS1 US_OIL,Daily: removed
+2	00:40:45.062	Custom indicator span_model NDX100,Daily: removed
+2	00:40:45.064	Custom indicator MACD-2x NDX100,Daily: removed
+2	00:40:45.066	Custom indicator MACD-2x NDX100,Daily: removed
+2	00:40:45.066	Custom indicator Laguerre-ACS1 NDX100,Daily: removed
+2	00:40:45.086	Custom indicator span_model SPX500,Daily: removed
+2	00:40:45.089	Custom indicator MACD-2x SPX500,Daily: removed
+2	00:40:45.091	Custom indicator MACD-2x SPX500,Daily: removed
+2	00:40:45.091	Custom indicator Laguerre-ACS1 SPX500,Daily: removed
+2	00:40:45.096	Custom indicator span_model USDJPY.,Daily: removed
+2	00:40:45.098	Custom indicator MACD-2x USDJPY.,Daily: removed
+2	00:40:45.099	Custom indicator MACD-2x USDJPY.,Daily: removed
+2	00:40:45.099	Custom indicator Laguerre-ACS1 USDJPY.,Daily: removed
+2	00:40:45.106	Custom indicator span_model EURJPY.,Daily: removed
+2	00:40:45.108	Custom indicator MACD-2x EURJPY.,Daily: removed
+2	00:40:45.109	Custom indicator MACD-2x EURJPY.,Daily: removed
+2	00:40:45.110	Custom indicator Laguerre-ACS1 EURJPY.,Daily: removed
+2	00:40:45.115	Custom indicator span_model EURUSD.,Daily: removed
+2	00:40:45.117	Custom indicator MACD-2x EURUSD.,Daily: removed
+2	00:40:45.119	Custom indicator MACD-2x EURUSD.,Daily: removed
+2	00:40:45.119	Custom indicator Laguerre-ACS1 EURUSD.,Daily: removed
+2	00:40:45.124	Custom indicator span_model GBPUSD.,Daily: removed
+2	00:40:45.126	Custom indicator MACD-2x GBPUSD.,Daily: removed
+2	00:40:45.128	Custom indicator MACD-2x GBPUSD.,Daily: removed
+2	00:40:45.128	Custom indicator Laguerre-ACS1 GBPUSD.,Daily: removed
+2	00:40:45.136	Custom indicator span_model GBPJPY.,Daily: removed
+2	00:40:45.139	Custom indicator MACD-2x GBPJPY.,Daily: removed
+2	00:40:45.141	Custom indicator MACD-2x GBPJPY.,Daily: removed
+2	00:40:45.141	Custom indicator Laguerre-ACS1 GBPJPY.,Daily: removed
+0	00:40:45.531	FX Trader build 1170 stopped
+0	19:07:43.942	FX Trader build 1170 started (Performance Ronnaru Capital Ltd.)
+0	19:07:43.942	Windows 10 Home x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 23165 / 32639 Mb, Disk: 141 / 264 Gb, GMT+9
+0	19:07:43.942	Data Folder: C:\Users\tiany\AppData\Roaming\MetaQuotes\Terminal\79214103E7A6FC97F86082D309D0B84B
+2	19:07:45.926	Custom indicator span_model EURAUD.,H1: loaded successfully
+2	19:07:45.937	Custom indicator MACD-2x EURAUD.,H1: loaded successfully
+2	19:07:45.946	Custom indicator MACD-2x EURAUD.,H1: loaded successfully
+2	19:07:46.018	Custom indicator Laguerre-ACS1 EURAUD.,H1: loaded successfully
+2	19:07:46.153	Custom indicator span_model XAUUSD.,H1: loaded successfully
+2	19:07:46.163	Custom indicator MACD-2x XAUUSD.,H1: loaded successfully
+2	19:07:46.173	Custom indicator MACD-2x XAUUSD.,H1: loaded successfully
+2	19:07:46.242	Custom indicator Laguerre-ACS1 XAUUSD.,H1: loaded successfully
+2	19:07:46.438	Custom indicator span_model JP225,M5: loaded successfully
+2	19:07:46.448	Custom indicator MACD-2x JP225,M5: loaded successfully
+2	19:07:46.458	Custom indicator MACD-2x JP225,M5: loaded successfully
+2	19:07:46.526	Custom indicator Laguerre-ACS1 JP225,M5: loaded successfully
+2	19:07:46.715	Custom indicator span_model US_OIL,Daily: loaded successfully
+2	19:07:46.726	Custom indicator MACD-2x US_OIL,Daily: loaded successfully
+2	19:07:46.737	Custom indicator MACD-2x US_OIL,Daily: loaded successfully
+2	19:07:46.812	Custom indicator Laguerre-ACS1 US_OIL,Daily: loaded successfully
+2	19:07:46.958	Custom indicator span_model NDX100,Daily: loaded successfully
+2	19:07:46.969	Custom indicator MACD-2x NDX100,Daily: loaded successfully
+2	19:07:46.980	Custom indicator MACD-2x NDX100,Daily: loaded successfully
+2	19:07:47.054	Custom indicator Laguerre-ACS1 NDX100,Daily: loaded successfully
+2	19:07:47.193	Custom indicator span_model SPX500,Daily: loaded successfully
+2	19:07:47.203	Custom indicator MACD-2x SPX500,Daily: loaded successfully
+2	19:07:47.213	Custom indicator MACD-2x SPX500,Daily: loaded successfully
+2	19:07:47.282	Custom indicator Laguerre-ACS1 SPX500,Daily: loaded successfully
+2	19:07:47.440	Custom indicator span_model USDJPY.,Daily: loaded successfully
+2	19:07:47.450	Custom indicator MACD-2x USDJPY.,Daily: loaded successfully
+2	19:07:47.460	Custom indicator MACD-2x USDJPY.,Daily: loaded successfully
+2	19:07:47.527	Custom indicator Laguerre-ACS1 USDJPY.,Daily: loaded successfully
+2	19:07:47.701	Custom indicator span_model EURJPY.,Daily: loaded successfully
+2	19:07:47.711	Custom indicator MACD-2x EURJPY.,Daily: loaded successfully
+2	19:07:47.721	Custom indicator MACD-2x EURJPY.,Daily: loaded successfully
+2	19:07:47.809	Custom indicator Laguerre-ACS1 EURJPY.,Daily: loaded successfully
+2	19:07:48.029	Custom indicator span_model EURUSD.,Daily: loaded successfully
+2	19:07:48.040	Custom indicator MACD-2x EURUSD.,Daily: loaded successfully
+2	19:07:48.056	Custom indicator MACD-2x EURUSD.,Daily: loaded successfully
+2	19:07:48.162	Custom indicator Laguerre-ACS1 EURUSD.,Daily: loaded successfully
+2	19:07:48.336	Custom indicator span_model GBPUSD.,Daily: loaded successfully
+2	19:07:48.350	Custom indicator MACD-2x GBPUSD.,Daily: loaded successfully
+2	19:07:48.363	Custom indicator MACD-2x GBPUSD.,Daily: loaded successfully
+2	19:07:48.458	Custom indicator Laguerre-ACS1 GBPUSD.,Daily: loaded successfully
+2	19:07:48.663	Custom indicator span_model GBPJPY.,Daily: loaded successfully
+2	19:07:48.681	Custom indicator MACD-2x GBPJPY.,Daily: loaded successfully
+2	19:07:48.699	Custom indicator MACD-2x GBPJPY.,Daily: loaded successfully
+2	19:07:48.801	Custom indicator Laguerre-ACS1 GBPJPY.,Daily: loaded successfully
+0	19:07:51.008	'120010550': login on PRC-Live through Server 3 (ping: 41.70 ms)
+0	19:07:51.660	'120010550': login datacenter on PRC-Live through Server 3 (ping: 41.70 ms)
+0	19:07:51.916	'120010550': previous successful authorization performed from 106.181.142.214
+0	19:08:07.739	'120010550': ping to current access point Server 3 is 32.87 ms
+2	19:19:17.138	Custom indicator span_model AUDJPY.,H1: loaded successfully
+2	19:19:17.149	Custom indicator MACD-2x AUDJPY.,H1: loaded successfully
+2	19:19:17.160	Custom indicator MACD-2x AUDJPY.,H1: loaded successfully
+2	19:19:17.232	Custom indicator Laguerre-ACS1 AUDJPY.,H1: loaded successfully
+1	20:15:38.538	'120010550': datacenter connecting failed [6]
+0	20:15:38.994	'120010550': login on PRC-Live through Server 3 (ping: 32.87 ms)
+0	20:15:39.527	'120010550': login datacenter on PRC-Live through Server 3 (ping: 32.87 ms)
+0	20:15:39.779	'120010550': previous successful authorization performed from 106.181.142.214
+0	20:15:56.090	'120010550': ping to current access point Server 3 is 33.63 ms
+0	20:15:57.808	'120010550': order sell market 0.01 XAUUSD. sl: 0.00 tp: 0.00
+0	20:15:57.958	'120010550': order was opened : #10872208 sell 0.01 XAUUSD. at 1284.10 sl: 0.00 tp: 0.00
+0	20:48:39.100	'120010550': order #10872208 sell 0.01 XAUUSD. at 1284.10 closed due take-profit at price 1283.18
+2	21:01:46.786	Custom indicator span_model EURAUD.,Daily: removed
+2	21:01:46.789	Custom indicator MACD-2x EURAUD.,Daily: removed
+2	21:01:46.794	Custom indicator MACD-2x EURAUD.,Daily: removed
+2	21:01:46.794	Custom indicator Laguerre-ACS1 EURAUD.,Daily: removed
+2	21:01:46.807	Custom indicator span_model XAUUSD.,M15: removed
+2	21:01:46.811	Custom indicator MACD-2x XAUUSD.,M15: removed
+2	21:01:46.815	Custom indicator MACD-2x XAUUSD.,M15: removed
+2	21:01:46.815	Custom indicator Laguerre-ACS1 XAUUSD.,M15: removed
+2	21:01:46.918	Custom indicator span_model JP225,H1: removed
+2	21:01:46.929	Custom indicator MACD-2x JP225,H1: removed
+2	21:01:46.935	Custom indicator MACD-2x JP225,H1: removed
+2	21:01:46.935	Custom indicator Laguerre-ACS1 JP225,H1: removed
+2	21:01:46.956	Custom indicator span_model US_OIL,Daily: removed
+2	21:01:46.964	Custom indicator MACD-2x US_OIL,Daily: removed
+2	21:01:46.969	Custom indicator MACD-2x US_OIL,Daily: removed
+2	21:01:46.969	Custom indicator Laguerre-ACS1 US_OIL,Daily: removed
+2	21:01:47.002	Custom indicator span_model NDX100,Daily: removed
+2	21:01:47.008	Custom indicator MACD-2x NDX100,Daily: removed
+2	21:01:47.013	Custom indicator MACD-2x NDX100,Daily: removed
+2	21:01:47.013	Custom indicator Laguerre-ACS1 NDX100,Daily: removed
+2	21:01:47.172	Custom indicator span_model SPX500,H1: removed
+2	21:01:47.180	Custom indicator MACD-2x SPX500,H1: removed
+2	21:01:47.187	Custom indicator MACD-2x SPX500,H1: removed
+2	21:01:47.187	Custom indicator Laguerre-ACS1 SPX500,H1: removed
+2	21:01:47.321	Custom indicator span_model USDJPY.,H1: removed
+2	21:01:47.327	Custom indicator MACD-2x USDJPY.,H1: removed
+2	21:01:47.333	Custom indicator MACD-2x USDJPY.,H1: removed
+2	21:01:47.333	Custom indicator Laguerre-ACS1 USDJPY.,H1: removed
+2	21:01:47.344	Custom indicator span_model EURJPY.,Daily: removed
+2	21:01:47.351	Custom indicator MACD-2x EURJPY.,Daily: removed
+2	21:01:47.357	Custom indicator MACD-2x EURJPY.,Daily: removed
+2	21:01:47.357	Custom indicator Laguerre-ACS1 EURJPY.,Daily: removed
+2	21:01:47.514	Custom indicator span_model EURUSD.,M15: removed
+2	21:01:47.522	Custom indicator MACD-2x EURUSD.,M15: removed
+2	21:01:47.528	Custom indicator MACD-2x EURUSD.,M15: removed
+2	21:01:47.529	Custom indicator Laguerre-ACS1 EURUSD.,M15: removed
+2	21:01:47.555	Custom indicator span_model GBPUSD.,Daily: removed
+2	21:01:47.560	Custom indicator MACD-2x GBPUSD.,Daily: removed
+2	21:01:47.567	Custom indicator MACD-2x GBPUSD.,Daily: removed
+2	21:01:47.567	Custom indicator Laguerre-ACS1 GBPUSD.,Daily: removed
+2	21:01:47.629	Custom indicator span_model GBPJPY.,H1: removed
+2	21:01:47.635	Custom indicator MACD-2x GBPJPY.,H1: removed
+2	21:01:47.640	Custom indicator MACD-2x GBPJPY.,H1: removed
+2	21:01:47.641	Custom indicator Laguerre-ACS1 GBPJPY.,H1: removed
+2	21:01:47.672	Custom indicator span_model AUDJPY.,H1: removed
+2	21:01:47.680	Custom indicator MACD-2x AUDJPY.,H1: removed
+2	21:01:47.688	Custom indicator MACD-2x AUDJPY.,H1: removed
+2	21:01:47.689	Custom indicator Laguerre-ACS1 AUDJPY.,H1: removed
+0	21:01:48.188	FX Trader build 1170 stopped

@@ -2,12 +2,13 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="getRate" key="selection"/>
+		<item value="MacdParamentTest" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="true" key="wholeword"/>
 		<list key="findhistory">
+			<item value="MacdPostiveNegativeSwitchAndGoldDeadStop"/>
 			<item value="getRate"/>
 			<item value="macdFast"/>
 			<item value="computeMaxIntervalValue"/>
@@ -15,9 +16,9 @@
 			<item value="maxIntervalBean"/>
 			<item value="clearCurrentStatus"/>
 			<item value="macdPostiveNegativeSwitch"/>
-			<item value="MacdPostiveNegativeSwitch"/>
 		</list>
 		<list key="replacehistory">
+			<item value="MacdParamentTest"/>
 			<item value="zhiBiaoName"/>
 			<item value="driver"/>
 			<item value="MacdPostiveNegativeSwitchAndGoldDeadStop"/>
@@ -25,7 +26,6 @@
 			<item value="EURUSD"/>
 			<item value="EURJPY"/>
 			<item value="USDJPY"/>
-			<item value="zhiyingPoint"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">

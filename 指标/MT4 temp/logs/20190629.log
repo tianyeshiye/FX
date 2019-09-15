@@ -1,0 +1,4 @@
+0	00:37:56.626	'120010550': modify order #11048373 sell 0.02 EURAUD. at 1.62322 sl: 1.63078 tp: 1.61593 -> sl: 1.62272 tp: 1.61593
+0	00:37:56.971	'120010550': order #11048373 sell 0.02 EURAUD. at 1.62322 was modified -> sl: 1.62272 tp: 1.61593
+0	00:38:40.123	System to be shutdown, request for close FX Trader
+0	00:38:40.420	FX Trader build 1170 stopped because system shutdown

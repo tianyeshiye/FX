@@ -1,0 +1,326 @@
+0	00:11:00.001	'120010550': modify order #10947534 sell 0.01 US_OIL at 61.70 sl: 0.00 tp: 60.20 -> sl: 0.00 tp: 60.74
+0	00:11:00.826	'120010550': order #10947534 sell 0.01 US_OIL at 61.70 was modified -> sl: 0.00 tp: 60.74
+0	00:27:27.935	'120010550': modify order #10938722 sell 0.01 XAGUSD. at 14.428 sl: 14.541 tp: 0.000 -> sl: 14.635 tp: 0.000
+0	00:27:28.678	'120010550': order #10938722 sell 0.01 XAGUSD. at 14.428 was modified -> sl: 14.635 tp: 0.000
+0	00:30:29.945	'120010550': order sell market 0.01 EURUSD. sl: 0.00000 tp: 0.00000
+0	00:30:30.705	'120010550': order was opened : #10947639 sell 0.01 EURUSD. at 1.11520 sl: 0.00000 tp: 0.00000
+0	00:30:43.764	'120010550': modify order #10947639 sell 0.01 EURUSD. at 1.11520 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.11442
+0	00:30:44.711	'120010550': order #10947639 sell 0.01 EURUSD. at 1.11520 was modified -> sl: 0.00000 tp: 1.11442
+0	01:10:54.227	'120010550': modify order #10944383 buy 0.01 USDJPY. at 110.561 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 110.582
+0	01:10:54.719	'120010550': order #10944383 buy 0.01 USDJPY. at 110.561 was modified -> sl: 0.000 tp: 110.582
+2	01:20:48.650	Custom indicator MACD-2x USDXXX,H1: removed
+2	01:20:48.650	Custom indicator Laguerre-ACS1 USDXXX,H1: removed
+2	01:20:48.698	Custom indicator SupResZone_MTF XAUUSD.,H4: removed
+2	01:20:48.700	Custom indicator SupResZone_MTF XAUUSD.,H4: removed
+2	01:20:48.702	Custom indicator SupResZone_MTF XAUUSD.,H4: removed
+2	01:20:48.704	Custom indicator SupResZone_MTF XAUUSD.,H4: removed
+2	01:20:48.707	Custom indicator MACD-2x XAUUSD.,H4: removed
+2	01:20:48.707	Custom indicator Laguerre-ACS1 XAUUSD.,H4: removed
+2	01:20:48.734	Custom indicator SupResZone_MTF XAGUSD.,H4: removed
+2	01:20:48.737	Custom indicator SupResZone_MTF XAGUSD.,H4: removed
+2	01:20:48.739	Custom indicator SupResZone_MTF XAGUSD.,H4: removed
+2	01:20:48.741	Custom indicator SupResZone_MTF XAGUSD.,H4: removed
+2	01:20:48.743	Custom indicator MACD-2x XAGUSD.,H4: removed
+2	01:20:48.743	Custom indicator Laguerre-ACS1 XAGUSD.,H4: removed
+2	01:20:48.767	Custom indicator SupResZone_MTF US_OIL,H4: removed
+2	01:20:48.768	Custom indicator SupResZone_MTF US_OIL,H4: removed
+2	01:20:48.771	Custom indicator SupResZone_MTF US_OIL,H4: removed
+2	01:20:48.773	Custom indicator SupResZone_MTF US_OIL,H4: removed
+2	01:20:48.775	Custom indicator MACD-2x US_OIL,H4: removed
+2	01:20:48.776	Custom indicator Laguerre-ACS1 US_OIL,H4: removed
+2	01:20:48.799	Custom indicator SupResZone_MTF JP225,H4: removed
+2	01:20:48.801	Custom indicator SupResZone_MTF JP225,H4: removed
+2	01:20:48.803	Custom indicator SupResZone_MTF JP225,H4: removed
+2	01:20:48.805	Custom indicator SupResZone_MTF JP225,H4: removed
+2	01:20:48.807	Custom indicator MACD-2x JP225,H4: removed
+2	01:20:48.807	Custom indicator Laguerre-ACS1 JP225,H4: removed
+2	01:20:48.813	Custom indicator SupResZone_MTF SPX500,H4: removed
+2	01:20:48.815	Custom indicator SupResZone_MTF SPX500,H4: removed
+2	01:20:48.817	Custom indicator SupResZone_MTF SPX500,H4: removed
+2	01:20:48.819	Custom indicator SupResZone_MTF SPX500,H4: removed
+2	01:20:48.823	Custom indicator MACD-2x SPX500,H4: removed
+2	01:20:48.823	Custom indicator Laguerre-ACS1 SPX500,H4: removed
+2	01:20:48.827	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+2	01:20:48.829	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+2	01:20:48.831	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+2	01:20:48.833	Custom indicator SupResZone_MTF EURAUD.,H4: removed
+2	01:20:48.834	Custom indicator MACD-2x EURAUD.,H4: removed
+2	01:20:48.835	Custom indicator Laguerre-ACS1 EURAUD.,H4: removed
+2	01:20:48.855	Custom indicator SupResZone_MTF AUDJPY.,H4: removed
+2	01:20:48.857	Custom indicator SupResZone_MTF AUDJPY.,H4: removed
+2	01:20:48.858	Custom indicator SupResZone_MTF AUDJPY.,H4: removed
+2	01:20:48.860	Custom indicator SupResZone_MTF AUDJPY.,H4: removed
+2	01:20:48.862	Custom indicator MACD-2x AUDJPY.,H4: removed
+2	01:20:48.862	Custom indicator Laguerre-ACS1 AUDJPY.,H4: removed
+2	01:20:48.882	Custom indicator SupResZone_MTF AUDUSD.,H4: removed
+2	01:20:48.884	Custom indicator SupResZone_MTF AUDUSD.,H4: removed
+2	01:20:48.885	Custom indicator SupResZone_MTF AUDUSD.,H4: removed
+2	01:20:48.887	Custom indicator SupResZone_MTF AUDUSD.,H4: removed
+2	01:20:48.889	Custom indicator MACD-2x AUDUSD.,H4: removed
+2	01:20:48.889	Custom indicator Laguerre-ACS1 AUDUSD.,H4: removed
+2	01:20:48.908	Custom indicator SupResZone_MTF USDJPY.,H4: removed
+2	01:20:48.909	Custom indicator SupResZone_MTF USDJPY.,H4: removed
+2	01:20:48.911	Custom indicator SupResZone_MTF USDJPY.,H4: removed
+2	01:20:48.912	Custom indicator SupResZone_MTF USDJPY.,H4: removed
+2	01:20:48.915	Custom indicator MACD-2x USDJPY.,H4: removed
+2	01:20:48.915	Custom indicator Laguerre-ACS1 USDJPY.,H4: removed
+2	01:20:48.934	Custom indicator SupResZone_MTF EURJPY.,H4: removed
+2	01:20:48.936	Custom indicator SupResZone_MTF EURJPY.,H4: removed
+2	01:20:48.937	Custom indicator SupResZone_MTF EURJPY.,H4: removed
+2	01:20:48.939	Custom indicator SupResZone_MTF EURJPY.,H4: removed
+2	01:20:48.940	Custom indicator MACD-2x EURJPY.,H4: removed
+2	01:20:48.940	Custom indicator Laguerre-ACS1 EURJPY.,H4: removed
+2	01:20:48.961	Custom indicator SupResZone_MTF EURUSD.,H4: removed
+2	01:20:48.962	Custom indicator SupResZone_MTF EURUSD.,H4: removed
+2	01:20:48.964	Custom indicator SupResZone_MTF EURUSD.,H4: removed
+2	01:20:48.965	Custom indicator SupResZone_MTF EURUSD.,H4: removed
+2	01:20:48.967	Custom indicator MACD-2x EURUSD.,H4: removed
+2	01:20:48.967	Custom indicator Laguerre-ACS1 EURUSD.,H4: removed
+2	01:20:48.986	Custom indicator SupResZone_MTF GBPUSD.,H4: removed
+2	01:20:48.988	Custom indicator SupResZone_MTF GBPUSD.,H4: removed
+2	01:20:48.989	Custom indicator SupResZone_MTF GBPUSD.,H4: removed
+2	01:20:48.991	Custom indicator SupResZone_MTF GBPUSD.,H4: removed
+2	01:20:48.993	Custom indicator MACD-2x GBPUSD.,H4: removed
+2	01:20:48.993	Custom indicator Laguerre-ACS1 GBPUSD.,H4: removed
+2	01:20:49.011	Custom indicator SupResZone_MTF USDCAD.,Daily: removed
+2	01:20:49.012	Custom indicator SupResZone_MTF USDCAD.,Daily: removed
+2	01:20:49.013	Custom indicator SupResZone_MTF USDCAD.,Daily: removed
+2	01:20:49.015	Custom indicator SupResZone_MTF USDCAD.,Daily: removed
+2	01:20:49.017	Custom indicator MACD-2x USDCAD.,Daily: removed
+2	01:20:49.017	Custom indicator Laguerre-ACS1 USDCAD.,Daily: removed
+2	01:20:49.035	Custom indicator SupResZone_MTF USDCHF.,Daily: removed
+2	01:20:49.037	Custom indicator SupResZone_MTF USDCHF.,Daily: removed
+2	01:20:49.039	Custom indicator SupResZone_MTF USDCHF.,Daily: removed
+2	01:20:49.040	Custom indicator SupResZone_MTF USDCHF.,Daily: removed
+2	01:20:49.042	Custom indicator MACD-2x USDCHF.,Daily: removed
+2	01:20:49.042	Custom indicator Laguerre-ACS1 USDCHF.,Daily: removed
+2	01:20:49.047	Custom indicator GMMA Long USDJPY.,H1: removed
+2	01:20:49.049	Custom indicator GMMA Short USDJPY.,H1: removed
+2	01:20:49.050	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H1: removed
+2	01:20:49.052	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H1: removed
+2	01:20:49.054	Custom indicator SupResZone_MTF USDJPY.,H1: removed
+2	01:20:49.055	Custom indicator SupResZone_MTF USDJPY.,H1: removed
+2	01:20:49.057	Custom indicator MACD-2x USDJPY.,H1: removed
+2	01:20:49.067	Custom indicator MACD-2x USDCNH,Daily: removed
+2	01:20:49.070	Custom indicator MACD-2x USDCNH,Daily: removed
+2	01:20:49.070	Custom indicator Laguerre-ACS1 USDCNH,Daily: removed
+0	01:20:49.507	FX Trader build 1170 stopped
+0	21:17:48.936	FX Trader build 1170 started (Performance Ronnaru Capital Ltd.)
+0	21:17:48.937	Windows 10 Home x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 24203 / 32639 Mb, Disk: 140 / 264 Gb, GMT+9
+0	21:17:48.937	Data Folder: C:\Users\tiany\AppData\Roaming\MetaQuotes\Terminal\79214103E7A6FC97F86082D309D0B84B
+2	21:17:50.610	Custom indicator MACD-2x USDXXX,H1: loaded successfully
+2	21:17:50.687	Custom indicator Laguerre-ACS1 USDXXX,H1: loaded successfully
+2	21:17:50.729	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+2	21:17:50.739	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+2	21:17:50.749	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+2	21:17:50.760	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+2	21:17:50.770	Custom indicator MACD-2x XAUUSD.,H4: loaded successfully
+2	21:17:50.838	Custom indicator Laguerre-ACS1 XAUUSD.,H4: loaded successfully
+2	21:17:51.047	Custom indicator SupResZone_MTF XAGUSD.,H4: loaded successfully
+2	21:17:51.058	Custom indicator SupResZone_MTF XAGUSD.,H4: loaded successfully
+2	21:17:51.068	Custom indicator SupResZone_MTF XAGUSD.,H4: loaded successfully
+2	21:17:51.078	Custom indicator SupResZone_MTF XAGUSD.,H4: loaded successfully
+2	21:17:51.088	Custom indicator MACD-2x XAGUSD.,H4: loaded successfully
+2	21:17:51.157	Custom indicator Laguerre-ACS1 XAGUSD.,H4: loaded successfully
+2	21:17:51.343	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	21:17:51.354	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	21:17:51.363	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	21:17:51.374	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	21:17:51.383	Custom indicator MACD-2x US_OIL,H4: loaded successfully
+2	21:17:51.451	Custom indicator Laguerre-ACS1 US_OIL,H4: loaded successfully
+2	21:17:51.650	Custom indicator SupResZone_MTF JP225,H4: loaded successfully
+2	21:17:51.662	Custom indicator SupResZone_MTF JP225,H4: loaded successfully
+2	21:17:51.672	Custom indicator SupResZone_MTF JP225,H4: loaded successfully
+2	21:17:51.685	Custom indicator SupResZone_MTF JP225,H4: loaded successfully
+2	21:17:51.695	Custom indicator MACD-2x JP225,H4: loaded successfully
+2	21:17:51.765	Custom indicator Laguerre-ACS1 JP225,H4: loaded successfully
+2	21:17:52.012	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+2	21:17:52.022	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+2	21:17:52.032	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+2	21:17:52.043	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+2	21:17:52.053	Custom indicator MACD-2x SPX500,H4: loaded successfully
+2	21:17:52.122	Custom indicator Laguerre-ACS1 SPX500,H4: loaded successfully
+2	21:17:52.318	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+2	21:17:52.330	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+2	21:17:52.341	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+2	21:17:52.350	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+2	21:17:52.362	Custom indicator MACD-2x EURAUD.,H4: loaded successfully
+2	21:17:52.431	Custom indicator Laguerre-ACS1 EURAUD.,H4: loaded successfully
+2	21:17:52.610	Custom indicator SupResZone_MTF AUDJPY.,H4: loaded successfully
+2	21:17:52.621	Custom indicator SupResZone_MTF AUDJPY.,H4: loaded successfully
+2	21:17:52.632	Custom indicator SupResZone_MTF AUDJPY.,H4: loaded successfully
+2	21:17:52.642	Custom indicator SupResZone_MTF AUDJPY.,H4: loaded successfully
+2	21:17:52.651	Custom indicator MACD-2x AUDJPY.,H4: loaded successfully
+2	21:17:52.723	Custom indicator Laguerre-ACS1 AUDJPY.,H4: loaded successfully
+2	21:17:52.940	Custom indicator SupResZone_MTF AUDUSD.,H4: loaded successfully
+2	21:17:52.950	Custom indicator SupResZone_MTF AUDUSD.,H4: loaded successfully
+2	21:17:52.960	Custom indicator SupResZone_MTF AUDUSD.,H4: loaded successfully
+2	21:17:52.970	Custom indicator SupResZone_MTF AUDUSD.,H4: loaded successfully
+2	21:17:52.980	Custom indicator MACD-2x AUDUSD.,H4: loaded successfully
+2	21:17:53.051	Custom indicator Laguerre-ACS1 AUDUSD.,H4: loaded successfully
+2	21:17:53.228	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	21:17:53.238	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	21:17:53.248	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	21:17:53.258	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	21:17:53.267	Custom indicator MACD-2x USDJPY.,H4: loaded successfully
+2	21:17:53.337	Custom indicator Laguerre-ACS1 USDJPY.,H4: loaded successfully
+2	21:17:53.563	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	21:17:53.573	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	21:17:53.583	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	21:17:53.593	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	21:17:53.602	Custom indicator MACD-2x EURJPY.,H4: loaded successfully
+2	21:17:53.674	Custom indicator Laguerre-ACS1 EURJPY.,H4: loaded successfully
+2	21:17:53.882	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+2	21:17:53.893	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+2	21:17:53.904	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+2	21:17:53.914	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+2	21:17:53.924	Custom indicator MACD-2x EURUSD.,H4: loaded successfully
+2	21:17:53.997	Custom indicator Laguerre-ACS1 EURUSD.,H4: loaded successfully
+2	21:17:54.210	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+2	21:17:54.220	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+2	21:17:54.229	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+2	21:17:54.239	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+2	21:17:54.250	Custom indicator MACD-2x GBPUSD.,H4: loaded successfully
+2	21:17:54.318	Custom indicator Laguerre-ACS1 GBPUSD.,H4: loaded successfully
+2	21:17:54.524	Custom indicator SupResZone_MTF USDCAD.,Daily: loaded successfully
+2	21:17:54.534	Custom indicator SupResZone_MTF USDCAD.,Daily: loaded successfully
+2	21:17:54.545	Custom indicator SupResZone_MTF USDCAD.,Daily: loaded successfully
+2	21:17:54.555	Custom indicator SupResZone_MTF USDCAD.,Daily: loaded successfully
+2	21:17:54.565	Custom indicator MACD-2x USDCAD.,Daily: loaded successfully
+2	21:17:54.634	Custom indicator Laguerre-ACS1 USDCAD.,Daily: loaded successfully
+2	21:17:54.777	Custom indicator SupResZone_MTF USDCHF.,Daily: loaded successfully
+2	21:17:54.788	Custom indicator SupResZone_MTF USDCHF.,Daily: loaded successfully
+2	21:17:54.798	Custom indicator SupResZone_MTF USDCHF.,Daily: loaded successfully
+2	21:17:54.807	Custom indicator SupResZone_MTF USDCHF.,Daily: loaded successfully
+2	21:17:54.817	Custom indicator MACD-2x USDCHF.,Daily: loaded successfully
+2	21:17:54.887	Custom indicator Laguerre-ACS1 USDCHF.,Daily: loaded successfully
+2	21:17:55.029	Custom indicator MACD-2x USDCNH,Daily: loaded successfully
+2	21:17:55.041	Custom indicator MACD-2x USDCNH,Daily: loaded successfully
+2	21:17:55.111	Custom indicator Laguerre-ACS1 USDCNH,Daily: loaded successfully
+2	21:17:55.183	Custom indicator GMMA Long USDJPY.,H1: loaded successfully
+2	21:17:55.195	Custom indicator GMMA Short USDJPY.,H1: loaded successfully
+2	21:17:55.204	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H1: loaded successfully
+2	21:17:55.212	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H1: loaded successfully
+2	21:17:55.222	Custom indicator SupResZone_MTF USDJPY.,H1: loaded successfully
+2	21:17:55.232	Custom indicator SupResZone_MTF USDJPY.,H1: loaded successfully
+2	21:17:55.242	Custom indicator MACD-2x USDJPY.,H1: loaded successfully
+0	21:17:57.390	'120010550': login on PRC-Live through Server 7 (ping: 47.33 ms)
+0	21:17:58.280	'120010550': login datacenter on PRC-Live through Server 7 (ping: 47.33 ms)
+0	21:17:58.554	'120010550': previous successful authorization performed from 106.133.98.3
+0	21:18:15.503	'120010550': auto connecting to a better access point Server 3 (ping is 39.98 ms)
+0	21:18:16.099	'120010550': login on PRC-Live through Server 3 (ping: 39.98 ms)
+0	21:18:16.799	'120010550': login datacenter on PRC-Live through Server 3 (ping: 39.98 ms)
+0	21:18:17.127	'120010550': previous successful authorization performed from 106.181.136.230
+0	21:18:42.029	'120010550': order sell market 0.01 US_OIL sl: 0.00 tp: 0.00
+0	21:18:42.913	'120010550': order was opened : #10950111 sell 0.01 US_OIL at 60.06 sl: 0.00 tp: 0.00
+0	21:22:03.841	'120010550': order #10944200 sell 0.01 XAUUSD. at 1271.51 closed due stop-loss at price 1280.32
+0	21:24:33.462	'120010550': order sell market 0.02 USDJPY. sl: 0.000 tp: 0.000
+0	21:24:33.951	'120010550': order was opened : #10950129 sell 0.02 USDJPY. at 110.021 sl: 0.000 tp: 0.000
+0	21:31:52.956	'120010550': order sell market 0.01 US_OIL sl: 0.00 tp: 0.00
+0	21:31:53.498	'120010550': order was opened : #10950203 sell 0.01 US_OIL at 59.82 sl: 0.00 tp: 0.00
+0	21:32:54.190	'120010550': modify order #10938722 sell 0.01 XAGUSD. at 14.428 sl: 14.635 tp: 0.000 -> sl: 14.715 tp: 0.000
+0	21:32:54.868	'120010550': order #10938722 sell 0.01 XAGUSD. at 14.428 was modified -> sl: 14.715 tp: 0.000
+0	21:36:28.196	'120010550': modify order #10947528 sell 0.03 EURJPY. at 123.037 sl: 123.000 tp: 122.000 -> sl: 123.000 tp: 122.129
+0	21:36:28.825	'120010550': order #10947528 sell 0.03 EURJPY. at 123.037 was modified -> sl: 123.000 tp: 122.129
+0	21:37:20.471	'120010550': modify order #10941444 sell 0.01 JP225 at 21090 sl: 21548 tp: 0 -> sl: 21111 tp: 0
+0	21:37:20.752	'120010550': order #10941444 sell 0.01 JP225 at 21090 was modified -> sl: 21111 tp: 0
+0	21:37:22.936	'120010550': modify order #10941444 sell 0.01 JP225 at 21090 sl: 21111 tp: 0 -> sl: 21071 tp: 0
+0	21:37:23.785	'120010550': order #10941444 sell 0.01 JP225 at 21090 was modified -> sl: 21071 tp: 0
+0	21:51:46.628	'120010550': modify order #10938722 sell 0.01 XAGUSD. at 14.428 sl: 14.715 tp: 0.000 -> sl: 14.854 tp: 0.000
+0	21:51:47.894	'120010550': order #10938722 sell 0.01 XAGUSD. at 14.428 was modified -> sl: 14.854 tp: 0.000
+0	21:51:56.855	'120010550': modify order #10938722 sell 0.01 XAGUSD. at 14.428 sl: 14.854 tp: 0.000 -> sl: 14.869 tp: 0.000
+0	21:51:57.121	'120010550': order #10938722 sell 0.01 XAGUSD. at 14.428 was modified -> sl: 14.869 tp: 0.000
+0	21:52:00.506	'120010550': modify order #10938722 sell 0.01 XAGUSD. at 14.428 sl: 14.869 tp: 0.000 -> sl: 14.869 tp: 14.410
+0	21:52:00.906	'120010550': order #10938722 sell 0.01 XAGUSD. at 14.428 was modified -> sl: 14.869 tp: 14.410
+0	22:01:07.280	'120010550': modify order #10947528 sell 0.03 EURJPY. at 123.037 sl: 123.000 tp: 122.129 -> sl: 123.000 tp: 122.175
+0	22:01:08.110	'120010550': order #10947528 sell 0.03 EURJPY. at 123.037 was modified -> sl: 123.000 tp: 122.175
+0	22:01:31.585	'120010550': order sell market 0.01 US_OIL sl: 0.00 tp: 0.00
+0	22:01:31.768	'120010550': order was opened : #10950398 sell 0.01 US_OIL at 59.50 sl: 0.00 tp: 0.00
+0	22:02:34.522	'120010550': order sell market 0.01 XAUUSD. sl: 0.00 tp: 0.00
+0	22:02:34.925	'120010550': order was opened : #10950406 sell 0.01 XAUUSD. at 1280.81 sl: 0.00 tp: 0.00
+0	22:02:43.040	'120010550': modify order #10950406 sell 0.01 XAUUSD. at 1280.81 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1274.77
+0	22:02:43.747	'120010550': order #10950406 sell 0.01 XAUUSD. at 1280.81 was modified -> sl: 0.00 tp: 1274.77
+0	22:02:45.491	'120010550': modify order #10950406 sell 0.01 XAUUSD. at 1280.81 sl: 0.00 tp: 1274.77 -> sl: 0.00 tp: 1276.16
+0	22:02:45.989	'120010550': order #10950406 sell 0.01 XAUUSD. at 1280.81 was modified -> sl: 0.00 tp: 1276.16
+0	22:02:52.582	'120010550': modify order #10950406 sell 0.01 XAUUSD. at 1280.81 sl: 0.00 tp: 1276.16 -> sl: 0.00 tp: 1278.03
+0	22:02:53.796	'120010550': order #10950406 sell 0.01 XAUUSD. at 1280.81 was modified -> sl: 0.00 tp: 1278.03
+0	22:04:11.284	'120010550': modify order #10941444 sell 0.01 JP225 at 21090 sl: 21071 tp: 0 -> sl: 21071 tp: 20783
+0	22:04:11.594	'120010550': order #10941444 sell 0.01 JP225 at 21090 was modified -> sl: 21071 tp: 20783
+0	22:06:19.615	'120010550': modify order #10947528 sell 0.03 EURJPY. at 123.037 sl: 123.000 tp: 122.175 -> sl: 122.782 tp: 122.175
+0	22:06:20.941	'120010550': order #10947528 sell 0.03 EURJPY. at 123.037 was modified -> sl: 122.782 tp: 122.175
+0	22:06:55.886	'120010550': order sell market 0.01 EURAUD. sl: 0.00000 tp: 0.00000
+0	22:06:56.809	'120010550': order was opened : #10950508 sell 0.01 EURAUD. at 1.61868 sl: 0.00000 tp: 0.00000
+0	22:07:02.401	'120010550': modify order #10950508 sell 0.01 EURAUD. at 1.61868 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.61283
+0	22:07:03.039	'120010550': order #10950508 sell 0.01 EURAUD. at 1.61868 was modified -> sl: 0.00000 tp: 1.61283
+0	22:07:08.446	'120010550': modify order #10950508 sell 0.01 EURAUD. at 1.61868 sl: 0.00000 tp: 1.61283 -> sl: 1.62684 tp: 1.61283
+0	22:07:08.840	'120010550': order #10950508 sell 0.01 EURAUD. at 1.61868 was modified -> sl: 1.62684 tp: 1.61283
+0	22:16:14.425	'120010550': modify order #10950111 sell 0.01 US_OIL at 60.06 sl: 0.00 tp: 0.00 -> sl: 60.26 tp: 0.00
+0	22:16:15.011	'120010550': order #10950111 sell 0.01 US_OIL at 60.06 was modified -> sl: 60.26 tp: 0.00
+0	22:16:17.739	'120010550': modify order #10950111 sell 0.01 US_OIL at 60.06 sl: 60.26 tp: 0.00 -> sl: 59.92 tp: 0.00
+0	22:16:18.233	'120010550': order #10950111 sell 0.01 US_OIL at 60.06 was modified -> sl: 59.92 tp: 0.00
+0	22:17:21.200	'120010550': modify order #10950508 sell 0.01 EURAUD. at 1.61868 sl: 1.62684 tp: 1.61283 -> sl: 1.62684 tp: 1.61489
+0	22:17:21.759	'120010550': order #10950508 sell 0.01 EURAUD. at 1.61868 was modified -> sl: 1.62684 tp: 1.61489
+0	22:18:08.388	'120010550': modify order #10947279 sell 0.01 GBPUSD. at 1.26251 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.25452
+0	22:18:08.866	'120010550': order #10947279 sell 0.01 GBPUSD. at 1.26251 was modified -> sl: 0.00000 tp: 1.25452
+0	22:39:58.661	'120010550': modify order #10947528 sell 0.03 EURJPY. at 123.037 sl: 122.782 tp: 122.175 -> sl: 122.782 tp: 122.109
+0	22:39:59.767	'120010550': order #10947528 sell 0.03 EURJPY. at 123.037 was modified -> sl: 122.782 tp: 122.109
+0	22:40:04.774	'120010550': modify order #10947528 sell 0.03 EURJPY. at 123.037 sl: 122.782 tp: 122.109 -> sl: 122.782 tp: 122.148
+0	22:40:05.777	'120010550': order #10947528 sell 0.03 EURJPY. at 123.037 was modified -> sl: 122.782 tp: 122.148
+0	22:40:29.020	'120010550': modify order #10950111 sell 0.01 US_OIL at 60.06 sl: 59.92 tp: 0.00 -> sl: 59.57 tp: 0.00
+0	22:40:29.259	'120010550': order #10950111 sell 0.01 US_OIL at 60.06 was modified -> sl: 59.57 tp: 0.00
+0	22:42:21.266	'120010550': modify order #10947528 sell 0.03 EURJPY. at 123.037 sl: 122.782 tp: 122.148 -> sl: 122.782 tp: 122.094
+0	22:42:21.737	'120010550': order #10947528 sell 0.03 EURJPY. at 123.037 was modified -> sl: 122.782 tp: 122.094
+0	22:42:24.888	'120010550': modify order #10947528 sell 0.03 EURJPY. at 123.037 sl: 122.782 tp: 122.094 -> sl: 122.564 tp: 122.094
+0	22:42:25.144	'120010550': order #10947528 sell 0.03 EURJPY. at 123.037 was modified -> sl: 122.564 tp: 122.094
+0	22:45:09.038	'120010550': order sell market 0.02 USDJPY. sl: 0.000 tp: 0.000
+0	22:45:09.365	'120010550': order was opened : #10950757 sell 0.02 USDJPY. at 109.904 sl: 0.000 tp: 0.000
+0	22:46:16.984	'120010550': modify order #10947528 sell 0.03 EURJPY. at 123.037 sl: 122.564 tp: 0.000 -> sl: 122.529 tp: 0.000
+0	22:46:17.720	'120010550': order #10947528 sell 0.03 EURJPY. at 123.037 was modified -> sl: 122.529 tp: 0.000
+0	22:49:04.863	'120010550': modify order #10947528 sell 0.03 EURJPY. at 123.037 sl: 122.529 tp: 0.000 -> sl: 122.457 tp: 0.000
+0	22:49:05.327	'120010550': order #10947528 sell 0.03 EURJPY. at 123.037 was modified -> sl: 122.457 tp: 0.000
+0	22:49:58.760	'120010550': modify order #10950111 sell 0.01 US_OIL at 60.06 sl: 59.57 tp: 0.00 -> sl: 59.36 tp: 0.00
+0	22:49:59.078	'120010550': order #10950111 sell 0.01 US_OIL at 60.06 was modified -> sl: 59.36 tp: 0.00
+0	22:50:26.577	'120010550': order sell market 0.01 JP225 sl: 0 tp: 0
+0	22:50:27.746	'120010550': order was opened : #10950851 sell 0.01 JP225 at 20889 sl: 0 tp: 0
+0	22:50:57.148	'120010550': modify order #10941444 sell 0.01 JP225 at 21090 sl: 21071 tp: 20783 -> sl: 21011 tp: 20783
+0	22:50:57.833	'120010550': order #10941444 sell 0.01 JP225 at 21090 was modified -> sl: 21011 tp: 20783
+0	22:51:08.617	'120010550': modify order #10941444 sell 0.01 JP225 at 21090 sl: 21011 tp: 20783 -> sl: 21008 tp: 20783
+0	22:51:09.069	'120010550': order #10941444 sell 0.01 JP225 at 21090 was modified -> sl: 21008 tp: 20783
+0	22:51:23.794	'120010550': order sell market 0.01 USDJPY. sl: 0.000 tp: 0.000
+0	22:51:24.923	'120010550': order was opened : #10950866 sell 0.01 USDJPY. at 109.838 sl: 0.000 tp: 0.000
+0	23:04:42.329	'120010550': modify order #10950111 sell 0.01 US_OIL at 60.06 sl: 59.36 tp: 0.00 -> sl: 59.18 tp: 0.00
+0	23:04:42.954	'120010550': order #10950111 sell 0.01 US_OIL at 60.06 was modified -> sl: 59.18 tp: 0.00
+0	23:05:53.438	'120010550': modify order #10941444 sell 0.01 JP225 at 21090 sl: 21008 tp: 20783 -> sl: 21008 tp: 20799
+0	23:05:53.943	'120010550': order #10941444 sell 0.01 JP225 at 21090 was modified -> sl: 21008 tp: 20799
+1	23:07:20.493	'120010550': modification of order #10950129 sell 0.02 USDJPY. at 110.021 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 109.915 failed [Invalid S/L or T/P]
+1	23:07:26.342	'120010550': modification of order #10950129 sell 0.02 USDJPY. at 110.021 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 109.973 failed [Invalid S/L or T/P]
+0	23:16:39.882	'120010550': modify order #10947279 sell 0.01 GBPUSD. at 1.26251 sl: 0.00000 tp: 1.25452 -> sl: 0.00000 tp: 1.26134
+0	23:16:40.140	'120010550': order #10947279 sell 0.01 GBPUSD. at 1.26251 was modified -> sl: 0.00000 tp: 1.26134
+0	23:17:40.303	'120010550': order sell market 0.01 USDJPY. sl: 0.000 tp: 0.000
+0	23:17:40.870	'120010550': order was opened : #10951201 sell 0.01 USDJPY. at 109.734 sl: 0.000 tp: 0.000
+0	23:24:32.890	'120010550': modify order #10950111 sell 0.01 US_OIL at 60.06 sl: 59.18 tp: 0.00 -> sl: 58.94 tp: 0.00
+0	23:24:33.883	'120010550': order #10950111 sell 0.01 US_OIL at 60.06 was modified -> sl: 58.94 tp: 0.00
+0	23:35:12.784	'120010550': modify order #10950398 sell 0.01 US_OIL at 59.50 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 58.00
+0	23:35:13.023	'120010550': order #10950398 sell 0.01 US_OIL at 59.50 was modified -> sl: 0.00 tp: 58.00
+0	23:37:12.807	'120010550': modify order #10950203 sell 0.01 US_OIL at 59.82 sl: 0.00 tp: 0.00 -> sl: 60.32 tp: 0.00
+0	23:37:13.717	'120010550': order #10950203 sell 0.01 US_OIL at 59.82 was modified -> sl: 60.32 tp: 0.00
+0	23:37:25.660	'120010550': modify order #10950203 sell 0.01 US_OIL at 59.82 sl: 60.32 tp: 0.00 -> sl: 59.00 tp: 0.00
+0	23:37:26.147	'120010550': order #10950203 sell 0.01 US_OIL at 59.82 was modified -> sl: 59.00 tp: 0.00
+0	23:37:29.808	'120010550': modify order #10950111 sell 0.01 US_OIL at 60.06 sl: 58.94 tp: 0.00 -> sl: 59.06 tp: 0.00
+0	23:37:30.338	'120010550': order #10950111 sell 0.01 US_OIL at 60.06 was modified -> sl: 59.06 tp: 0.00
+0	23:39:14.731	'120010550': modify order #10950129 sell 0.02 USDJPY. at 110.021 sl: 0.000 tp: 0.000 -> sl: 110.115 tp: 0.000
+0	23:39:15.820	'120010550': order #10950129 sell 0.02 USDJPY. at 110.021 was modified -> sl: 110.115 tp: 0.000
+0	23:39:19.603	'120010550': modify order #10950757 sell 0.02 USDJPY. at 109.904 sl: 0.000 tp: 0.000 -> sl: 110.169 tp: 0.000
+0	23:39:20.026	'120010550': order #10950757 sell 0.02 USDJPY. at 109.904 was modified -> sl: 110.169 tp: 0.000
+0	23:39:23.446	'120010550': modify order #10950757 sell 0.02 USDJPY. at 109.904 sl: 110.169 tp: 0.000 -> sl: 109.885 tp: 0.000
+0	23:39:23.827	'120010550': order #10950757 sell 0.02 USDJPY. at 109.904 was modified -> sl: 109.885 tp: 0.000
+0	23:39:30.281	'120010550': modify order #10950129 sell 0.02 USDJPY. at 110.021 sl: 110.115 tp: 0.000 -> sl: 109.935 tp: 0.000
+0	23:39:30.876	'120010550': order #10950129 sell 0.02 USDJPY. at 110.021 was modified -> sl: 109.935 tp: 0.000
+0	23:40:35.337	'120010550': modify order #10950851 sell 0.01 JP225 at 20889 sl: 0 tp: 0 -> sl: 0 tp: 20822
+0	23:40:35.608	'120010550': order #10950851 sell 0.01 JP225 at 20889 was modified -> sl: 0 tp: 20822
+0	23:40:47.257	'120010550': modify order #10941444 sell 0.01 JP225 at 21090 sl: 21008 tp: 20799 -> sl: 21008 tp: 20767
+0	23:40:47.644	'120010550': order #10941444 sell 0.01 JP225 at 21090 was modified -> sl: 21008 tp: 20767
+0	23:40:52.107	'120010550': modify order #10950851 sell 0.01 JP225 at 20889 sl: 0 tp: 20822 -> sl: 0 tp: 20800
+0	23:40:52.849	'120010550': order #10950851 sell 0.01 JP225 at 20889 was modified -> sl: 0 tp: 20800
+0	23:40:57.520	'120010550': modify order #10950851 sell 0.01 JP225 at 20889 sl: 0 tp: 20800 -> sl: 0 tp: 20804
+0	23:40:58.072	'120010550': order #10950851 sell 0.01 JP225 at 20889 was modified -> sl: 0 tp: 20804

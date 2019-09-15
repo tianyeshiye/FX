@@ -1,0 +1,142 @@
+0	00:00:21.291	'120010550': modify order #10917663 sell 0.01 GBPUSD. at 1.30021 sl: 1.30843 tp: 1.29214 -> sl: 1.31813 tp: 1.29214
+0	00:00:21.606	'120010550': order #10917663 sell 0.01 GBPUSD. at 1.30021 was modified -> sl: 1.31813 tp: 1.29214
+2	00:01:39.877	Custom indicator MACD-2x EURAUD.,Daily: removed
+2	00:01:39.879	Custom indicator MACD-2x EURAUD.,Daily: removed
+2	00:01:39.879	Custom indicator Laguerre-ACS1 EURAUD.,Daily: removed
+2	00:01:39.899	Custom indicator MACD-2x XAUUSD.,H1: removed
+2	00:01:39.900	Custom indicator MACD-2x XAUUSD.,H1: removed
+2	00:01:39.901	Custom indicator Laguerre-ACS1 XAUUSD.,H1: removed
+2	00:01:39.907	Custom indicator MACD-2x US_OIL,H4: removed
+2	00:01:39.909	Custom indicator MACD-2x US_OIL,H4: removed
+2	00:01:39.909	Custom indicator Laguerre-ACS1 US_OIL,H4: removed
+2	00:01:39.916	Custom indicator MACD-2x JP225,Daily: removed
+2	00:01:39.918	Custom indicator MACD-2x JP225,Daily: removed
+2	00:01:39.918	Custom indicator Laguerre-ACS1 JP225,Daily: removed
+2	00:01:39.924	Custom indicator MACD-2x SPX500,Daily: removed
+2	00:01:39.925	Custom indicator MACD-2x SPX500,Daily: removed
+2	00:01:39.926	Custom indicator Laguerre-ACS1 SPX500,Daily: removed
+2	00:01:39.932	Custom indicator MACD-2x NDX100,Daily: removed
+2	00:01:39.934	Custom indicator MACD-2x NDX100,Daily: removed
+2	00:01:39.934	Custom indicator Laguerre-ACS1 NDX100,Daily: removed
+2	00:01:39.941	Custom indicator MACD-2x USDJPY.,H4: removed
+2	00:01:39.942	Custom indicator MACD-2x USDJPY.,H4: removed
+2	00:01:39.943	Custom indicator Laguerre-ACS1 USDJPY.,H4: removed
+2	00:01:39.950	Custom indicator MACD-2x EURUSD.,H4: removed
+2	00:01:39.952	Custom indicator MACD-2x EURUSD.,H4: removed
+2	00:01:39.952	Custom indicator Laguerre-ACS1 EURUSD.,H4: removed
+2	00:01:39.958	Custom indicator MACD-2x GBPUSD.,Daily: removed
+2	00:01:39.959	Custom indicator MACD-2x GBPUSD.,Daily: removed
+2	00:01:39.959	Custom indicator Laguerre-ACS1 GBPUSD.,Daily: removed
+2	00:01:39.966	Custom indicator MACD-2x GBPJPY.,H4: removed
+2	00:01:39.968	Custom indicator MACD-2x GBPJPY.,H4: removed
+2	00:01:39.968	Custom indicator Laguerre-ACS1 GBPJPY.,H4: removed
+2	00:01:39.973	Custom indicator MACD-2x AUDUSD.,Daily: removed
+2	00:01:39.975	Custom indicator MACD-2x AUDUSD.,Daily: removed
+2	00:01:39.975	Custom indicator Laguerre-ACS1 AUDUSD.,Daily: removed
+2	00:01:39.981	Custom indicator MACD-2x USDCHF.,H4: removed
+2	00:01:39.983	Custom indicator MACD-2x USDCHF.,H4: removed
+2	00:01:39.983	Custom indicator Laguerre-ACS1 USDCHF.,H4: removed
+2	00:01:39.992	Custom indicator MACD-2x USDCAD.,H4: removed
+2	00:01:39.994	Custom indicator MACD-2x USDCAD.,H4: removed
+2	00:01:39.994	Custom indicator Laguerre-ACS1 USDCAD.,H4: removed
+2	00:01:40.010	Custom indicator MACD-2x XAGUSD.,H1: removed
+2	00:01:40.012	Custom indicator MACD-2x XAGUSD.,H1: removed
+2	00:01:40.012	Custom indicator Laguerre-ACS1 XAGUSD.,H1: removed
+2	00:01:40.023	Custom indicator MACD-2x EURJPY.,H4: removed
+2	00:01:40.024	Custom indicator MACD-2x EURJPY.,H4: removed
+2	00:01:40.025	Custom indicator Laguerre-ACS1 EURJPY.,H4: removed
+0	00:01:40.445	FX Trader build 1170 stopped
+0	22:28:03.910	FX Trader build 1170 started (Performance Ronnaru Capital Ltd.)
+0	22:28:03.910	Windows 10 Home x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 28444 / 32639 Mb, Disk: 139 / 264 Gb, GMT+9
+0	22:28:03.910	Data Folder: C:\Users\tiany\AppData\Roaming\MetaQuotes\Terminal\79214103E7A6FC97F86082D309D0B84B
+1	22:28:06.005	MQL Base: failed connect to server
+2	22:28:06.625	Custom indicator MACD-2x EURAUD.,Daily: loaded successfully
+2	22:28:06.637	Custom indicator MACD-2x EURAUD.,Daily: loaded successfully
+2	22:28:06.733	Custom indicator Laguerre-ACS1 EURAUD.,Daily: loaded successfully
+2	22:28:07.214	Custom indicator MACD-2x XAUUSD.,H1: loaded successfully
+2	22:28:07.227	Custom indicator MACD-2x XAUUSD.,H1: loaded successfully
+2	22:28:07.314	Custom indicator Laguerre-ACS1 XAUUSD.,H1: loaded successfully
+2	22:28:07.398	Custom indicator MACD-2x XAGUSD.,H1: loaded successfully
+2	22:28:07.408	Custom indicator MACD-2x XAGUSD.,H1: loaded successfully
+2	22:28:07.490	Custom indicator Laguerre-ACS1 XAGUSD.,H1: loaded successfully
+2	22:28:07.577	Custom indicator MACD-2x US_OIL,H4: loaded successfully
+2	22:28:07.588	Custom indicator MACD-2x US_OIL,H4: loaded successfully
+2	22:28:07.681	Custom indicator Laguerre-ACS1 US_OIL,H4: loaded successfully
+2	22:28:07.781	Custom indicator MACD-2x JP225,Daily: loaded successfully
+2	22:28:07.792	Custom indicator MACD-2x JP225,Daily: loaded successfully
+2	22:28:07.866	Custom indicator Laguerre-ACS1 JP225,Daily: loaded successfully
+2	22:28:07.937	Custom indicator MACD-2x SPX500,Daily: loaded successfully
+2	22:28:07.948	Custom indicator MACD-2x SPX500,Daily: loaded successfully
+2	22:28:08.026	Custom indicator Laguerre-ACS1 SPX500,Daily: loaded successfully
+2	22:28:08.097	Custom indicator MACD-2x NDX100,Daily: loaded successfully
+2	22:28:08.109	Custom indicator MACD-2x NDX100,Daily: loaded successfully
+2	22:28:08.181	Custom indicator Laguerre-ACS1 NDX100,Daily: loaded successfully
+2	22:28:08.266	Custom indicator MACD-2x USDJPY.,H4: loaded successfully
+2	22:28:08.278	Custom indicator MACD-2x USDJPY.,H4: loaded successfully
+2	22:28:08.355	Custom indicator Laguerre-ACS1 USDJPY.,H4: loaded successfully
+2	22:28:08.430	Custom indicator MACD-2x EURJPY.,H4: loaded successfully
+2	22:28:08.446	Custom indicator MACD-2x EURJPY.,H4: loaded successfully
+2	22:28:08.524	Custom indicator Laguerre-ACS1 EURJPY.,H4: loaded successfully
+2	22:28:08.618	Custom indicator MACD-2x EURUSD.,H4: loaded successfully
+2	22:28:08.618	Custom indicator MACD-2x EURUSD.,H4: loaded successfully
+2	22:28:08.708	Custom indicator Laguerre-ACS1 EURUSD.,H4: loaded successfully
+2	22:28:08.818	Custom indicator MACD-2x GBPUSD.,Daily: loaded successfully
+2	22:28:08.832	Custom indicator MACD-2x GBPUSD.,Daily: loaded successfully
+2	22:28:08.933	Custom indicator Laguerre-ACS1 GBPUSD.,Daily: loaded successfully
+2	22:28:09.015	Custom indicator MACD-2x GBPJPY.,H4: loaded successfully
+2	22:28:09.029	Custom indicator MACD-2x GBPJPY.,H4: loaded successfully
+2	22:28:09.124	Custom indicator Laguerre-ACS1 GBPJPY.,H4: loaded successfully
+2	22:28:09.265	Custom indicator MACD-2x AUDUSD.,Daily: loaded successfully
+2	22:28:09.279	Custom indicator MACD-2x AUDUSD.,Daily: loaded successfully
+2	22:28:09.361	Custom indicator Laguerre-ACS1 AUDUSD.,Daily: loaded successfully
+2	22:28:09.500	Custom indicator MACD-2x USDCHF.,H4: loaded successfully
+2	22:28:09.513	Custom indicator MACD-2x USDCHF.,H4: loaded successfully
+2	22:28:09.589	Custom indicator Laguerre-ACS1 USDCHF.,H4: loaded successfully
+2	22:28:09.662	Custom indicator MACD-2x USDCAD.,H4: loaded successfully
+2	22:28:09.673	Custom indicator MACD-2x USDCAD.,H4: loaded successfully
+2	22:28:09.752	Custom indicator Laguerre-ACS1 USDCAD.,H4: loaded successfully
+1	22:28:11.563	'120010550': connect failed [No connection]
+1	22:28:11.650	MQL5.community: authorization failed
+1	22:28:11.885	MQL5.community: authorization failed
+0	22:29:02.487	'120010550': login on PRC-Live through Server 3 (ping: 71.27 ms)
+0	22:29:03.477	'120010550': login datacenter on PRC-Live through Server 3 (ping: 71.27 ms)
+0	22:29:03.822	'120010550': previous successful authorization performed from 106.133.94.67
+0	22:29:19.750	'120010550': auto connecting to a better access point Server 7 (ping is 33.22 ms)
+0	22:29:20.197	'120010550': login on PRC-Live through Server 7 (ping: 33.22 ms)
+0	22:29:20.855	'120010550': login datacenter on PRC-Live through Server 7 (ping: 33.22 ms)
+0	22:29:21.177	'120010550': previous successful authorization performed from 106.181.130.38
+0	22:30:14.435	'120010550': modify order #10920826 sell 0.01 XAGUSD. at 14.742 sl: 0.000 tp: 14.700 -> sl: 0.000 tp: 14.680
+0	22:30:14.853	'120010550': order #10920826 sell 0.01 XAGUSD. at 14.742 was modified -> sl: 0.000 tp: 14.680
+0	22:30:35.022	'120010550': modify order #10911936 sell 0.01 JP225 at 21941 sl: 0 tp: 21033 -> sl: 0 tp: 20891
+0	22:30:35.324	'120010550': order #10911936 sell 0.01 JP225 at 21941 was modified -> sl: 0 tp: 20891
+0	22:45:06.194	'120010550': modify order #10913645 sell 0.01 XAUUSD. at 1280.00 sl: 0.00 tp: 1279.00 -> sl: 0.00 tp: 1279.31
+0	22:45:06.650	'120010550': order #10913645 sell 0.01 XAUUSD. at 1280.00 was modified -> sl: 0.00 tp: 1279.31
+0	22:45:11.330	'120010550': modify order #10913645 sell 0.01 XAUUSD. at 1280.00 sl: 0.00 tp: 1279.31 -> sl: 0.00 tp: 1279.47
+0	22:45:12.664	'120010550': order #10913645 sell 0.01 XAUUSD. at 1280.00 was modified -> sl: 0.00 tp: 1279.47
+0	22:45:33.233	'120010550': modify order #10920826 sell 0.01 XAGUSD. at 14.742 sl: 0.000 tp: 14.680 -> sl: 0.000 tp: 14.706
+0	22:45:33.528	'120010550': order #10920826 sell 0.01 XAGUSD. at 14.742 was modified -> sl: 0.000 tp: 14.706
+0	22:50:47.645	'120010550': order sell market 0.01 SPX500 sl: 0.0 tp: 0.0
+0	22:50:48.514	'120010550': order was opened : #10921220 sell 0.01 SPX500 at 2843.1 sl: 0.0 tp: 0.0
+0	22:51:10.607	'120010550': modify order #10920826 sell 0.01 XAGUSD. at 14.742 sl: 0.000 tp: 14.706 -> sl: 0.000 tp: 14.722
+0	22:51:11.626	'120010550': order #10920826 sell 0.01 XAGUSD. at 14.742 was modified -> sl: 0.000 tp: 14.722
+0	22:51:16.573	'120010550': modify order #10910592 sell 0.01 XAGUSD. at 14.765 sl: 15.073 tp: 0.000 -> sl: 15.073 tp: 14.752
+0	22:51:17.626	'120010550': order #10910592 sell 0.01 XAGUSD. at 14.765 was modified -> sl: 15.073 tp: 14.752
+0	22:53:00.645	'120010550': modify order #10917663 sell 0.01 GBPUSD. at 1.30021 sl: 1.31813 tp: 1.29214 -> sl: 1.31813 tp: 1.29496
+0	22:53:01.728	'120010550': order #10917663 sell 0.01 GBPUSD. at 1.30021 was modified -> sl: 1.31813 tp: 1.29496
+1	22:53:16.655	'120010550': modification of order #10917663 sell 0.01 GBPUSD. at 1.30021 sl: 1.31813 tp: 1.29496 -> sl: 1.31813 tp: 1.29862 failed [Invalid S/L or T/P]
+0	22:54:32.171	'120010550': modify order #10921220 sell 0.01 SPX500 at 2843.1 sl: 0.0 tp: 0.0 -> sl: 0.0 tp: 2821.9
+0	22:54:32.746	'120010550': order #10921220 sell 0.01 SPX500 at 2843.1 was modified -> sl: 0.0 tp: 2821.9
+0	22:55:25.495	'120010550': modify order #10911936 sell 0.01 JP225 at 21941 sl: 0 tp: 20891 -> sl: 0 tp: 20962
+0	22:55:25.707	'120010550': order #10911936 sell 0.01 JP225 at 21941 was modified -> sl: 0 tp: 20962
+0	23:14:24.523	'120010550': modify order #10913645 sell 0.01 XAUUSD. at 1280.00 sl: 0.00 tp: 1279.47 -> sl: 0.00 tp: 1279.42
+0	23:14:25.661	'120010550': order #10913645 sell 0.01 XAUUSD. at 1280.00 was modified -> sl: 0.00 tp: 1279.42
+0	23:14:29.777	'120010550': modify order #10907962 sell 0.01 XAUUSD. at 1280.34 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1279.42
+0	23:14:30.665	'120010550': order #10907962 sell 0.01 XAUUSD. at 1280.34 was modified -> sl: 0.00 tp: 1279.42
+0	23:14:37.628	'120010550': modify order #10910590 sell 0.01 XAUUSD. at 1278.40 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1278.03
+0	23:14:38.072	'120010550': order #10910590 sell 0.01 XAUUSD. at 1278.40 was modified -> sl: 0.00 tp: 1278.03
+0	23:26:38.131	'120010550': modify order #10911936 sell 0.01 JP225 at 21941 sl: 21800 tp: 20962 -> sl: 21625 tp: 20962
+0	23:26:38.631	'120010550': order #10911936 sell 0.01 JP225 at 21941 was modified -> sl: 21625 tp: 20962
+1	23:26:56.130	'120010550': modification of order #10919404 sell 0.01 SPX500 at 2866.9 sl: 0.0 tp: 0.0 -> sl: 0.0 tp: 2850.6 failed [Invalid S/L or T/P]
+1	23:27:37.409	'120010550': modification of order #10919404 sell 0.01 SPX500 at 2866.9 sl: 2860.0 tp: 0.0 -> sl: 2855.6 tp: 0.0 failed [Invalid S/L or T/P]
+0	23:39:38.708	'120010550': modify order #10920826 sell 0.01 XAGUSD. at 14.742 sl: 0.000 tp: 14.722 -> sl: 0.000 tp: 14.711
+0	23:39:39.700	'120010550': order #10920826 sell 0.01 XAGUSD. at 14.742 was modified -> sl: 0.000 tp: 14.711

@@ -1,0 +1,33 @@
+1	02:27:03.593	'120010550': ping failed
+1	02:27:04.279	MQL5.community: authorization failed
+0	02:27:07.298	'120010550': login on PRC-Live through Server 3 (ping: 114.77 ms)
+0	02:27:09.104	'120010550': login datacenter on PRC-Live through Server 3 (ping: 114.77 ms)
+0	02:27:09.650	'120010550': previous successful authorization performed from 101.131.181.23
+0	08:30:14.577	'120010550': auto connecting to a better access point Server 5 (ping is 94.95 ms)
+1	08:30:15.714	'120010550': connect failed [No connection]
+1	08:30:16.702	MQL5.community: authorization failed
+1	08:30:17.248	MQL5.community: authorization failed
+1	08:30:17.420	MQL5.community: authorization failed
+0	08:30:21.639	'120010550': login on PRC-Live through Server 5 (ping: 94.94 ms)
+0	08:30:23.180	'120010550': login datacenter on PRC-Live through Server 5 (ping: 94.94 ms)
+0	08:30:23.713	'120010550': previous successful authorization performed from 101.131.181.23
+1	10:41:54.577	'120010550': ping failed
+0	10:41:58.448	'120010550': login on PRC-Live through Server 8 (ping: n/a)
+0	10:42:00.252	'120010550': login datacenter on PRC-Live through Server 8 (ping: n/a)
+0	10:42:00.786	'120010550': previous successful authorization performed from 101.131.181.23
+0	10:42:45.088	'120010550': auto connecting to a better access point Server 5 (ping is 94.66 ms)
+0	10:42:45.701	'120010550': login on PRC-Live through Server 5 (ping: 94.66 ms)
+0	10:42:46.726	'120010550': login datacenter on PRC-Live through Server 5 (ping: 94.66 ms)
+0	10:42:47.054	'120010550': previous successful authorization performed from 101.131.181.23
+1	16:16:01.208	'120010550': ping failed
+1	16:16:01.391	'120010550': connect failed [No connection]
+0	16:16:07.179	'120010550': login on PRC-Live through Server 8 (ping: n/a)
+0	16:16:09.627	'120010550': login datacenter on PRC-Live through Server 8 (ping: n/a)
+0	16:16:10.188	'120010550': previous successful authorization performed from 101.131.181.23
+1	22:41:01.573	'120010550': ping failed
+1	22:41:01.677	MQL5.community: authorization failed
+1	22:41:01.705	MQL5.community: authorization failed
+0	22:41:05.569	'120010550': login on PRC-Live through Server 5 (ping: n/a)
+0	22:41:06.762	'120010550': ping to current access point Server 5 is 95.42 ms
+0	22:41:30.013	'120010550': login datacenter on PRC-Live through Server 5 (ping: 95.42 ms)
+0	22:41:30.522	'120010550': previous successful authorization performed from 101.131.181.23

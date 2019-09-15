@@ -1,0 +1,337 @@
+0	00:45:09.500	FX Trader build 1170 started (Performance Ronnaru Capital Ltd.)
+0	00:45:09.501	Windows 10 Home x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 24473 / 32639 Mb, Disk: 140 / 264 Gb, GMT+9
+0	00:45:09.501	Data Folder: C:\Users\tiany\AppData\Roaming\MetaQuotes\Terminal\79214103E7A6FC97F86082D309D0B84B
+2	00:45:11.324	Custom indicator MACD-2x USDXXX,H1: loaded successfully
+2	00:45:11.392	Custom indicator Laguerre-ACS1 USDXXX,H1: loaded successfully
+2	00:45:11.443	Custom indicator SupResZone_MTF XAUUSD.,H1: loaded successfully
+2	00:45:11.453	Custom indicator SupResZone_MTF XAUUSD.,H1: loaded successfully
+2	00:45:11.469	Custom indicator SupResZone_MTF XAUUSD.,H1: loaded successfully
+2	00:45:11.485	Custom indicator SupResZone_MTF XAUUSD.,H1: loaded successfully
+2	00:45:11.495	Custom indicator MACD-2x XAUUSD.,H1: loaded successfully
+2	00:45:11.575	Custom indicator Laguerre-ACS1 XAUUSD.,H1: loaded successfully
+2	00:45:11.832	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	00:45:11.842	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	00:45:11.851	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	00:45:11.861	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	00:45:11.872	Custom indicator MACD-2x XAGUSD.,H1: loaded successfully
+2	00:45:11.945	Custom indicator Laguerre-ACS1 XAGUSD.,H1: loaded successfully
+2	00:45:12.138	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	00:45:12.149	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	00:45:12.159	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	00:45:12.169	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	00:45:12.179	Custom indicator MACD-2x US_OIL,H4: loaded successfully
+2	00:45:12.251	Custom indicator Laguerre-ACS1 US_OIL,H4: loaded successfully
+2	00:45:12.452	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	00:45:12.464	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	00:45:12.476	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	00:45:12.488	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	00:45:12.499	Custom indicator MACD-2x JP225,H1: loaded successfully
+2	00:45:12.571	Custom indicator Laguerre-ACS1 JP225,H1: loaded successfully
+2	00:45:12.841	Custom indicator SupResZone_MTF SPX500,H1: loaded successfully
+2	00:45:12.853	Custom indicator SupResZone_MTF SPX500,H1: loaded successfully
+2	00:45:12.865	Custom indicator SupResZone_MTF SPX500,H1: loaded successfully
+2	00:45:12.875	Custom indicator SupResZone_MTF SPX500,H1: loaded successfully
+2	00:45:12.886	Custom indicator MACD-2x SPX500,H1: loaded successfully
+2	00:45:12.962	Custom indicator Laguerre-ACS1 SPX500,H1: loaded successfully
+2	00:45:13.197	Custom indicator SupResZone_MTF EURAUD.,Daily: loaded successfully
+2	00:45:13.209	Custom indicator SupResZone_MTF EURAUD.,Daily: loaded successfully
+2	00:45:13.219	Custom indicator SupResZone_MTF EURAUD.,Daily: loaded successfully
+2	00:45:13.229	Custom indicator SupResZone_MTF EURAUD.,Daily: loaded successfully
+2	00:45:13.239	Custom indicator MACD-2x EURAUD.,Daily: loaded successfully
+2	00:45:13.308	Custom indicator Laguerre-ACS1 EURAUD.,Daily: loaded successfully
+2	00:45:13.449	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	00:45:13.462	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	00:45:13.472	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	00:45:13.482	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	00:45:13.492	Custom indicator MACD-2x AUDJPY.,Daily: loaded successfully
+2	00:45:13.563	Custom indicator Laguerre-ACS1 AUDJPY.,Daily: loaded successfully
+2	00:45:13.701	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	00:45:13.714	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	00:45:13.725	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	00:45:13.735	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	00:45:13.745	Custom indicator MACD-2x AUDUSD.,Daily: loaded successfully
+2	00:45:13.821	Custom indicator Laguerre-ACS1 AUDUSD.,Daily: loaded successfully
+2	00:45:14.048	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	00:45:14.061	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	00:45:14.073	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	00:45:14.084	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	00:45:14.094	Custom indicator MACD-2x USDJPY.,H4: loaded successfully
+2	00:45:14.164	Custom indicator Laguerre-ACS1 USDJPY.,H4: loaded successfully
+2	00:45:14.480	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	00:45:14.492	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	00:45:14.503	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	00:45:14.514	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	00:45:14.526	Custom indicator MACD-2x EURJPY.,H4: loaded successfully
+2	00:45:14.599	Custom indicator Laguerre-ACS1 EURJPY.,H4: loaded successfully
+2	00:45:14.964	Custom indicator SupResZone_MTF EURUSD.,H1: loaded successfully
+2	00:45:14.977	Custom indicator SupResZone_MTF EURUSD.,H1: loaded successfully
+2	00:45:14.989	Custom indicator SupResZone_MTF EURUSD.,H1: loaded successfully
+2	00:45:15.000	Custom indicator SupResZone_MTF EURUSD.,H1: loaded successfully
+2	00:45:15.013	Custom indicator MACD-2x EURUSD.,H1: loaded successfully
+2	00:45:15.086	Custom indicator Laguerre-ACS1 EURUSD.,H1: loaded successfully
+2	00:45:15.327	Custom indicator SupResZone_MTF GBPUSD.,H1: loaded successfully
+2	00:45:15.338	Custom indicator SupResZone_MTF GBPUSD.,H1: loaded successfully
+2	00:45:15.349	Custom indicator SupResZone_MTF GBPUSD.,H1: loaded successfully
+2	00:45:15.359	Custom indicator SupResZone_MTF GBPUSD.,H1: loaded successfully
+2	00:45:15.377	Custom indicator MACD-2x GBPUSD.,H1: loaded successfully
+2	00:45:15.456	Custom indicator Laguerre-ACS1 GBPUSD.,H1: loaded successfully
+2	00:45:15.703	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	00:45:15.714	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	00:45:15.725	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	00:45:15.735	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	00:45:15.744	Custom indicator MACD-2x USDCAD.,H4: loaded successfully
+2	00:45:15.818	Custom indicator Laguerre-ACS1 USDCAD.,H4: loaded successfully
+2	00:45:16.018	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	00:45:16.039	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	00:45:16.051	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	00:45:16.065	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	00:45:16.078	Custom indicator MACD-2x USDCHF.,H4: loaded successfully
+2	00:45:16.165	Custom indicator Laguerre-ACS1 USDCHF.,H4: loaded successfully
+2	00:45:16.390	Custom indicator GMMA Long USDJPY.,H1: loaded successfully
+2	00:45:16.399	Custom indicator GMMA Short USDJPY.,H1: loaded successfully
+2	00:45:16.409	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H1: loaded successfully
+2	00:45:16.417	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H1: loaded successfully
+2	00:45:16.427	Custom indicator SupResZone_MTF USDJPY.,H1: loaded successfully
+2	00:45:16.438	Custom indicator SupResZone_MTF USDJPY.,H1: loaded successfully
+2	00:45:16.447	Custom indicator MACD-2x USDJPY.,H1: loaded successfully
+2	00:45:16.663	Custom indicator MACD-2x USDCNH,Daily: loaded successfully
+2	00:45:16.675	Custom indicator MACD-2x USDCNH,Daily: loaded successfully
+2	00:45:16.750	Custom indicator Laguerre-ACS1 USDCNH,Daily: loaded successfully
+0	00:45:18.576	'120010550': login on PRC-Live through Server 3 (ping: 42.55 ms)
+0	00:45:19.364	'120010550': login datacenter on PRC-Live through Server 3 (ping: 42.55 ms)
+0	00:45:19.688	'120010550': previous successful authorization performed from 106.181.141.117
+0	00:45:36.225	'120010550': ping to current access point Server 3 is 48.50 ms
+0	00:55:20.247	'120010550': modify order #10934725 sell 0.02 AUDUSD. at 0.69052 sl: 0.68965 tp: 0.00000 -> sl: 0.68909 tp: 0.00000
+1	00:55:20.397	'120010550': modification of order #10934725 sell 0.02 AUDUSD. at 0.69052 sl: 0.68965 tp: 0.00000 -> sl: 0.68909 tp: 0.00000 failed [Market is closed]
+0	00:55:26.892	'120010550': modify order #10934725 sell 0.02 AUDUSD. at 0.69052 sl: 0.68965 tp: 0.00000 -> sl: 0.68909 tp: 0.00000
+1	00:55:27.061	'120010550': modification of order #10934725 sell 0.02 AUDUSD. at 0.69052 sl: 0.68965 tp: 0.00000 -> sl: 0.68909 tp: 0.00000 failed [Market is closed]
+2	01:00:37.637	Custom indicator MACD-2x USDXXX,H1: removed
+2	01:00:37.638	Custom indicator Laguerre-ACS1 USDXXX,H1: removed
+2	01:00:37.646	Custom indicator SupResZone_MTF XAUUSD.,H1: removed
+2	01:00:37.648	Custom indicator SupResZone_MTF XAUUSD.,H1: removed
+2	01:00:37.650	Custom indicator SupResZone_MTF XAUUSD.,H1: removed
+2	01:00:37.651	Custom indicator SupResZone_MTF XAUUSD.,H1: removed
+2	01:00:37.653	Custom indicator MACD-2x XAUUSD.,H1: removed
+2	01:00:37.653	Custom indicator Laguerre-ACS1 XAUUSD.,H1: removed
+2	01:00:37.663	Custom indicator SupResZone_MTF XAGUSD.,H1: removed
+2	01:00:37.665	Custom indicator SupResZone_MTF XAGUSD.,H1: removed
+2	01:00:37.668	Custom indicator SupResZone_MTF XAGUSD.,H1: removed
+2	01:00:37.670	Custom indicator SupResZone_MTF XAGUSD.,H1: removed
+2	01:00:37.673	Custom indicator MACD-2x XAGUSD.,H1: removed
+2	01:00:37.673	Custom indicator Laguerre-ACS1 XAGUSD.,H1: removed
+2	01:00:37.717	Custom indicator SupResZone_MTF US_OIL,Daily: removed
+2	01:00:37.719	Custom indicator SupResZone_MTF US_OIL,Daily: removed
+2	01:00:37.720	Custom indicator SupResZone_MTF US_OIL,Daily: removed
+2	01:00:37.724	Custom indicator SupResZone_MTF US_OIL,Daily: removed
+2	01:00:37.726	Custom indicator MACD-2x US_OIL,Daily: removed
+2	01:00:37.726	Custom indicator Laguerre-ACS1 US_OIL,Daily: removed
+2	01:00:37.751	Custom indicator SupResZone_MTF JP225,H1: removed
+2	01:00:37.752	Custom indicator SupResZone_MTF JP225,H1: removed
+2	01:00:37.755	Custom indicator SupResZone_MTF JP225,H1: removed
+2	01:00:37.757	Custom indicator SupResZone_MTF JP225,H1: removed
+2	01:00:37.759	Custom indicator MACD-2x JP225,H1: removed
+2	01:00:37.759	Custom indicator Laguerre-ACS1 JP225,H1: removed
+2	01:00:37.780	Custom indicator SupResZone_MTF SPX500,H1: removed
+2	01:00:37.783	Custom indicator SupResZone_MTF SPX500,H1: removed
+2	01:00:37.784	Custom indicator SupResZone_MTF SPX500,H1: removed
+2	01:00:37.785	Custom indicator SupResZone_MTF SPX500,H1: removed
+2	01:00:37.787	Custom indicator MACD-2x SPX500,H1: removed
+2	01:00:37.787	Custom indicator Laguerre-ACS1 SPX500,H1: removed
+2	01:00:37.810	Custom indicator SupResZone_MTF EURAUD.,Daily: removed
+2	01:00:37.812	Custom indicator SupResZone_MTF EURAUD.,Daily: removed
+2	01:00:37.814	Custom indicator SupResZone_MTF EURAUD.,Daily: removed
+2	01:00:37.815	Custom indicator SupResZone_MTF EURAUD.,Daily: removed
+2	01:00:37.817	Custom indicator MACD-2x EURAUD.,Daily: removed
+2	01:00:37.817	Custom indicator Laguerre-ACS1 EURAUD.,Daily: removed
+2	01:00:37.835	Custom indicator SupResZone_MTF AUDJPY.,Daily: removed
+2	01:00:37.836	Custom indicator SupResZone_MTF AUDJPY.,Daily: removed
+2	01:00:37.838	Custom indicator SupResZone_MTF AUDJPY.,Daily: removed
+2	01:00:37.840	Custom indicator SupResZone_MTF AUDJPY.,Daily: removed
+2	01:00:37.841	Custom indicator MACD-2x AUDJPY.,Daily: removed
+2	01:00:37.842	Custom indicator Laguerre-ACS1 AUDJPY.,Daily: removed
+2	01:00:37.860	Custom indicator SupResZone_MTF AUDUSD.,Daily: removed
+2	01:00:37.861	Custom indicator SupResZone_MTF AUDUSD.,Daily: removed
+2	01:00:37.863	Custom indicator SupResZone_MTF AUDUSD.,Daily: removed
+2	01:00:37.864	Custom indicator SupResZone_MTF AUDUSD.,Daily: removed
+2	01:00:37.866	Custom indicator MACD-2x AUDUSD.,Daily: removed
+2	01:00:37.866	Custom indicator Laguerre-ACS1 AUDUSD.,Daily: removed
+2	01:00:37.872	Custom indicator SupResZone_MTF USDJPY.,Daily: removed
+2	01:00:37.874	Custom indicator SupResZone_MTF USDJPY.,Daily: removed
+2	01:00:37.875	Custom indicator SupResZone_MTF USDJPY.,Daily: removed
+2	01:00:37.877	Custom indicator SupResZone_MTF USDJPY.,Daily: removed
+2	01:00:37.878	Custom indicator MACD-2x USDJPY.,Daily: removed
+2	01:00:37.879	Custom indicator Laguerre-ACS1 USDJPY.,Daily: removed
+2	01:00:37.896	Custom indicator SupResZone_MTF EURJPY.,H1: removed
+2	01:00:37.898	Custom indicator SupResZone_MTF EURJPY.,H1: removed
+2	01:00:37.899	Custom indicator SupResZone_MTF EURJPY.,H1: removed
+2	01:00:37.901	Custom indicator SupResZone_MTF EURJPY.,H1: removed
+2	01:00:37.902	Custom indicator MACD-2x EURJPY.,H1: removed
+2	01:00:37.903	Custom indicator Laguerre-ACS1 EURJPY.,H1: removed
+2	01:00:37.920	Custom indicator SupResZone_MTF EURUSD.,H1: removed
+2	01:00:37.923	Custom indicator SupResZone_MTF EURUSD.,H1: removed
+2	01:00:37.925	Custom indicator SupResZone_MTF EURUSD.,H1: removed
+2	01:00:37.926	Custom indicator SupResZone_MTF EURUSD.,H1: removed
+2	01:00:37.928	Custom indicator MACD-2x EURUSD.,H1: removed
+2	01:00:37.928	Custom indicator Laguerre-ACS1 EURUSD.,H1: removed
+2	01:00:37.945	Custom indicator SupResZone_MTF GBPUSD.,H1: removed
+2	01:00:37.947	Custom indicator SupResZone_MTF GBPUSD.,H1: removed
+2	01:00:37.948	Custom indicator SupResZone_MTF GBPUSD.,H1: removed
+2	01:00:37.950	Custom indicator SupResZone_MTF GBPUSD.,H1: removed
+2	01:00:37.951	Custom indicator MACD-2x GBPUSD.,H1: removed
+2	01:00:37.952	Custom indicator Laguerre-ACS1 GBPUSD.,H1: removed
+2	01:00:37.969	Custom indicator SupResZone_MTF USDCAD.,H4: removed
+2	01:00:37.971	Custom indicator SupResZone_MTF USDCAD.,H4: removed
+2	01:00:37.973	Custom indicator SupResZone_MTF USDCAD.,H4: removed
+2	01:00:37.974	Custom indicator SupResZone_MTF USDCAD.,H4: removed
+2	01:00:37.976	Custom indicator MACD-2x USDCAD.,H4: removed
+2	01:00:37.976	Custom indicator Laguerre-ACS1 USDCAD.,H4: removed
+2	01:00:37.991	Custom indicator SupResZone_MTF USDCHF.,H4: removed
+2	01:00:37.993	Custom indicator SupResZone_MTF USDCHF.,H4: removed
+2	01:00:37.994	Custom indicator SupResZone_MTF USDCHF.,H4: removed
+2	01:00:37.996	Custom indicator SupResZone_MTF USDCHF.,H4: removed
+2	01:00:37.998	Custom indicator MACD-2x USDCHF.,H4: removed
+2	01:00:37.998	Custom indicator Laguerre-ACS1 USDCHF.,H4: removed
+2	01:00:38.014	Custom indicator GMMA Long USDJPY.,H1: removed
+2	01:00:38.016	Custom indicator GMMA Short USDJPY.,H1: removed
+2	01:00:38.017	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H1: removed
+2	01:00:38.019	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H1: removed
+2	01:00:38.020	Custom indicator SupResZone_MTF USDJPY.,H1: removed
+2	01:00:38.022	Custom indicator SupResZone_MTF USDJPY.,H1: removed
+2	01:00:38.024	Custom indicator MACD-2x USDJPY.,H1: removed
+2	01:00:38.032	Custom indicator MACD-2x USDCNH,Daily: removed
+2	01:00:38.034	Custom indicator MACD-2x USDCNH,Daily: removed
+2	01:00:38.034	Custom indicator Laguerre-ACS1 USDCNH,Daily: removed
+0	01:00:38.419	FX Trader build 1170 stopped
+0	21:46:15.467	FX Trader build 1170 started (Performance Ronnaru Capital Ltd.)
+0	21:46:15.469	Windows 10 Home x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 24461 / 32639 Mb, Disk: 140 / 264 Gb, GMT+9
+0	21:46:15.469	Data Folder: C:\Users\tiany\AppData\Roaming\MetaQuotes\Terminal\79214103E7A6FC97F86082D309D0B84B
+1	21:46:16.766	MQL Base: failed connect to server
+2	21:46:17.313	Custom indicator MACD-2x USDXXX,H1: loaded successfully
+2	21:46:17.383	Custom indicator Laguerre-ACS1 USDXXX,H1: loaded successfully
+2	21:46:17.429	Custom indicator SupResZone_MTF XAUUSD.,H1: loaded successfully
+2	21:46:17.440	Custom indicator SupResZone_MTF XAUUSD.,H1: loaded successfully
+2	21:46:17.450	Custom indicator SupResZone_MTF XAUUSD.,H1: loaded successfully
+2	21:46:17.459	Custom indicator SupResZone_MTF XAUUSD.,H1: loaded successfully
+2	21:46:17.470	Custom indicator MACD-2x XAUUSD.,H1: loaded successfully
+2	21:46:17.541	Custom indicator Laguerre-ACS1 XAUUSD.,H1: loaded successfully
+2	21:46:17.771	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	21:46:17.781	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	21:46:17.791	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	21:46:17.800	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	21:46:17.810	Custom indicator MACD-2x XAGUSD.,H1: loaded successfully
+2	21:46:17.884	Custom indicator Laguerre-ACS1 XAGUSD.,H1: loaded successfully
+2	21:46:18.049	Custom indicator SupResZone_MTF US_OIL,Daily: loaded successfully
+2	21:46:18.060	Custom indicator SupResZone_MTF US_OIL,Daily: loaded successfully
+2	21:46:18.070	Custom indicator SupResZone_MTF US_OIL,Daily: loaded successfully
+2	21:46:18.080	Custom indicator SupResZone_MTF US_OIL,Daily: loaded successfully
+2	21:46:18.090	Custom indicator MACD-2x US_OIL,Daily: loaded successfully
+2	21:46:18.163	Custom indicator Laguerre-ACS1 US_OIL,Daily: loaded successfully
+2	21:46:18.358	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	21:46:18.368	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	21:46:18.378	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	21:46:18.388	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	21:46:18.397	Custom indicator MACD-2x JP225,H1: loaded successfully
+2	21:46:18.466	Custom indicator Laguerre-ACS1 JP225,H1: loaded successfully
+2	21:46:18.787	Custom indicator SupResZone_MTF SPX500,H1: loaded successfully
+2	21:46:18.803	Custom indicator SupResZone_MTF SPX500,H1: loaded successfully
+2	21:46:18.812	Custom indicator SupResZone_MTF SPX500,H1: loaded successfully
+2	21:46:18.822	Custom indicator SupResZone_MTF SPX500,H1: loaded successfully
+2	21:46:18.831	Custom indicator MACD-2x SPX500,H1: loaded successfully
+2	21:46:18.900	Custom indicator Laguerre-ACS1 SPX500,H1: loaded successfully
+2	21:46:19.153	Custom indicator SupResZone_MTF EURAUD.,Daily: loaded successfully
+2	21:46:19.164	Custom indicator SupResZone_MTF EURAUD.,Daily: loaded successfully
+2	21:46:19.174	Custom indicator SupResZone_MTF EURAUD.,Daily: loaded successfully
+2	21:46:19.184	Custom indicator SupResZone_MTF EURAUD.,Daily: loaded successfully
+2	21:46:19.195	Custom indicator MACD-2x EURAUD.,Daily: loaded successfully
+2	21:46:19.265	Custom indicator Laguerre-ACS1 EURAUD.,Daily: loaded successfully
+2	21:46:19.439	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	21:46:19.457	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	21:46:19.468	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	21:46:19.479	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	21:46:19.489	Custom indicator MACD-2x AUDJPY.,Daily: loaded successfully
+2	21:46:19.564	Custom indicator Laguerre-ACS1 AUDJPY.,Daily: loaded successfully
+2	21:46:19.803	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	21:46:19.813	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	21:46:19.823	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	21:46:19.833	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	21:46:19.842	Custom indicator MACD-2x AUDUSD.,Daily: loaded successfully
+2	21:46:19.912	Custom indicator Laguerre-ACS1 AUDUSD.,Daily: loaded successfully
+2	21:46:20.054	Custom indicator SupResZone_MTF USDJPY.,Daily: loaded successfully
+2	21:46:20.064	Custom indicator SupResZone_MTF USDJPY.,Daily: loaded successfully
+2	21:46:20.075	Custom indicator SupResZone_MTF USDJPY.,Daily: loaded successfully
+2	21:46:20.085	Custom indicator SupResZone_MTF USDJPY.,Daily: loaded successfully
+2	21:46:20.094	Custom indicator MACD-2x USDJPY.,Daily: loaded successfully
+2	21:46:20.164	Custom indicator Laguerre-ACS1 USDJPY.,Daily: loaded successfully
+2	21:46:20.349	Custom indicator SupResZone_MTF EURJPY.,H1: loaded successfully
+2	21:46:20.358	Custom indicator SupResZone_MTF EURJPY.,H1: loaded successfully
+2	21:46:20.368	Custom indicator SupResZone_MTF EURJPY.,H1: loaded successfully
+2	21:46:20.379	Custom indicator SupResZone_MTF EURJPY.,H1: loaded successfully
+2	21:46:20.391	Custom indicator MACD-2x EURJPY.,H1: loaded successfully
+2	21:46:20.466	Custom indicator Laguerre-ACS1 EURJPY.,H1: loaded successfully
+2	21:46:20.712	Custom indicator SupResZone_MTF EURUSD.,H1: loaded successfully
+2	21:46:20.724	Custom indicator SupResZone_MTF EURUSD.,H1: loaded successfully
+2	21:46:20.733	Custom indicator SupResZone_MTF EURUSD.,H1: loaded successfully
+2	21:46:20.743	Custom indicator SupResZone_MTF EURUSD.,H1: loaded successfully
+2	21:46:20.754	Custom indicator MACD-2x EURUSD.,H1: loaded successfully
+2	21:46:20.828	Custom indicator Laguerre-ACS1 EURUSD.,H1: loaded successfully
+2	21:46:21.098	Custom indicator SupResZone_MTF GBPUSD.,H1: loaded successfully
+2	21:46:21.110	Custom indicator SupResZone_MTF GBPUSD.,H1: loaded successfully
+2	21:46:21.122	Custom indicator SupResZone_MTF GBPUSD.,H1: loaded successfully
+2	21:46:21.131	Custom indicator SupResZone_MTF GBPUSD.,H1: loaded successfully
+2	21:46:21.141	Custom indicator MACD-2x GBPUSD.,H1: loaded successfully
+2	21:46:21.213	Custom indicator Laguerre-ACS1 GBPUSD.,H1: loaded successfully
+2	21:46:21.458	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	21:46:21.468	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	21:46:21.478	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	21:46:21.487	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	21:46:21.498	Custom indicator MACD-2x USDCAD.,H4: loaded successfully
+2	21:46:21.570	Custom indicator Laguerre-ACS1 USDCAD.,H4: loaded successfully
+2	21:46:21.770	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	21:46:21.780	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	21:46:21.791	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	21:46:21.801	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	21:46:21.811	Custom indicator MACD-2x USDCHF.,H4: loaded successfully
+2	21:46:21.881	Custom indicator Laguerre-ACS1 USDCHF.,H4: loaded successfully
+2	21:46:22.062	Custom indicator GMMA Long USDJPY.,H1: loaded successfully
+2	21:46:22.072	Custom indicator GMMA Short USDJPY.,H1: loaded successfully
+2	21:46:22.080	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H1: loaded successfully
+2	21:46:22.088	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H1: loaded successfully
+2	21:46:22.098	Custom indicator SupResZone_MTF USDJPY.,H1: loaded successfully
+2	21:46:22.108	Custom indicator SupResZone_MTF USDJPY.,H1: loaded successfully
+2	21:46:22.118	Custom indicator MACD-2x USDJPY.,H1: loaded successfully
+2	21:46:22.365	Custom indicator MACD-2x USDCNH,Daily: loaded successfully
+2	21:46:22.375	Custom indicator MACD-2x USDCNH,Daily: loaded successfully
+2	21:46:22.449	Custom indicator Laguerre-ACS1 USDCNH,Daily: loaded successfully
+1	21:46:23.791	'120010550': connect failed [No connection]
+1	21:46:23.851	MQL5.community: authorization failed
+1	21:46:24.151	MQL5.community: authorization failed
+0	21:46:59.808	'120010550': login on PRC-Live through Server 3 (ping: 48.50 ms)
+0	21:47:00.521	'120010550': login datacenter on PRC-Live through Server 3 (ping: 48.50 ms)
+0	21:47:00.871	'120010550': previous successful authorization performed from 106.133.97.76
+0	21:47:17.519	'120010550': ping to current access point Server 3 is 38.53 ms
+0	22:42:12.380	'120010550': modify order #10939249 sell 0.01 GBPUSD. at 1.27279 sl: 0.00000 tp: 0.00000 -> sl: 0.00000 tp: 1.26341
+0	22:42:12.785	'120010550': order #10939249 sell 0.01 GBPUSD. at 1.27279 was modified -> sl: 0.00000 tp: 1.26341
+0	22:43:41.185	'120010550': modify order #10941444 sell 0.01 JP225 at 21090 sl: 0 tp: 0 -> sl: 0 tp: 21060
+0	22:43:42.375	'120010550': order #10941444 sell 0.01 JP225 at 21090 was modified -> sl: 0 tp: 21060
+0	22:43:53.640	'120010550': modify order #10941444 sell 0.01 JP225 at 21090 sl: 0 tp: 21060 -> sl: 0 tp: 20953
+0	22:43:54.389	'120010550': order #10941444 sell 0.01 JP225 at 21090 was modified -> sl: 0 tp: 20953
+0	22:44:16.444	'120010550': modify order #10941450 sell 0.01 JP225 at 21075 sl: 0 tp: 0 -> sl: 0 tp: 20790
+0	22:44:16.633	'120010550': order #10941450 sell 0.01 JP225 at 21075 was modified -> sl: 0 tp: 20790
+0	23:16:49.947	'120010550': order sell market 0.01 EURAUD. sl: 0.00000 tp: 0.00000
+0	23:16:50.401	'120010550': order was opened : #10941938 sell 0.01 EURAUD. at 1.61432 sl: 0.00000 tp: 0.00000
+0	23:18:16.431	'120010550': modify order #10939251 sell 0.01 XAUUSD. at 1276.44 sl: 0.00 tp: 0.00 -> sl: 0.00 tp: 1275.55
+0	23:18:16.785	'120010550': order #10939251 sell 0.01 XAUUSD. at 1276.44 was modified -> sl: 0.00 tp: 1275.55
+0	23:21:19.772	'120010550': modify order #10936778 sell 0.01 XAUUSD. at 1285.21 sl: 1290.17 tp: 0.00 -> sl: 1287.29 tp: 0.00
+0	23:21:20.029	'120010550': order #10936778 sell 0.01 XAUUSD. at 1285.21 was modified -> sl: 1287.29 tp: 0.00
+0	23:21:25.418	'120010550': modify order #10936778 sell 0.01 XAUUSD. at 1285.21 sl: 1287.29 tp: 0.00 -> sl: 1281.74 tp: 0.00
+0	23:21:25.811	'120010550': order #10936778 sell 0.01 XAUUSD. at 1285.21 was modified -> sl: 1281.74 tp: 0.00
+0	23:21:34.568	'120010550': modify order #10936780 sell 0.01 XAUUSD. at 1285.93 sl: 1285.33 tp: 1270.46 -> sl: 1283.64 tp: 1270.46
+0	23:21:35.224	'120010550': order #10936780 sell 0.01 XAUUSD. at 1285.93 was modified -> sl: 1283.64 tp: 1270.46
+0	23:25:28.186	'120010550': order buy market 0.01 AUDJPY. sl: 0.000 tp: 0.000
+0	23:25:29.373	'120010550': order was opened : #10941963 buy 0.01 AUDJPY. at 76.128 sl: 0.000 tp: 0.000
+0	23:25:37.128	'120010550': modify order #10939990 buy 0.01 AUDJPY. at 76.276 sl: 0.000 tp: 0.000 -> sl: 0.000 tp: 76.308
+0	23:25:37.615	'120010550': order #10939990 buy 0.01 AUDJPY. at 76.276 was modified -> sl: 0.000 tp: 76.308
+0	23:35:33.130	'120010550': order sell market 0.01 EURAUD. sl: 0.00000 tp: 0.00000
+0	23:35:34.386	'120010550': order was opened : #10941983 sell 0.01 EURAUD. at 1.61350 sl: 0.00000 tp: 0.00000
+0	23:55:28.640	'120010550': modify order #10941444 sell 0.01 JP225 at 21090 sl: 0 tp: 20953 -> sl: 0 tp: 21051
+0	23:55:29.169	'120010550': order #10941444 sell 0.01 JP225 at 21090 was modified -> sl: 0 tp: 21051

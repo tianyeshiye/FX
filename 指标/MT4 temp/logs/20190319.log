@@ -1,0 +1,38 @@
+0	22:37:17.498	FX Trader build 1170 started (Performance Ronnaru Capital Ltd.)
+0	22:37:17.498	Windows 10 Home x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 26997 / 32639 Mb, Disk: 147 / 264 Gb, GMT+9
+0	22:37:17.498	Data Folder: C:\Users\tiany\AppData\Roaming\MetaQuotes\Terminal\79214103E7A6FC97F86082D309D0B84B
+2	22:37:20.953	Custom indicator 小鱼\Laguerre-ACS1 USDJPY,H4: loaded successfully
+2	22:37:20.985	Custom indicator MACD USDJPY,H4: loaded successfully
+2	22:37:21.188	Custom indicator 小鱼\Laguerre-ACS1 EURJPY,H4: loaded successfully
+2	22:37:21.203	Custom indicator MACD EURJPY,H4: loaded successfully
+2	22:37:21.360	Custom indicator 小鱼\Laguerre-ACS1 EURUSD,H4: loaded successfully
+2	22:37:21.375	Custom indicator MACD EURUSD,H4: loaded successfully
+2	22:37:21.516	Custom indicator 小鱼\Laguerre-ACS1 GBPUSD,H1: loaded successfully
+2	22:37:21.531	Custom indicator MACD GBPUSD,H1: loaded successfully
+2	22:37:21.688	Custom indicator 小鱼\Laguerre-ACS1 GBPJPY,H4: loaded successfully
+2	22:37:21.703	Custom indicator MACD GBPJPY,H4: loaded successfully
+2	22:37:21.875	Custom indicator 小鱼\Laguerre-ACS1 JP225,H4: loaded successfully
+2	22:37:21.891	Custom indicator MACD JP225,H4: loaded successfully
+2	22:37:22.234	Custom indicator 小鱼\Laguerre-ACS1 NDX100,H4: loaded successfully
+2	22:37:22.266	Custom indicator MACD NDX100,H4: loaded successfully
+2	22:37:22.485	Custom indicator 小鱼\Laguerre-ACS1 SPX500,H4: loaded successfully
+2	22:37:22.500	Custom indicator MACD SPX500,H4: loaded successfully
+2	22:37:22.672	Custom indicator 小鱼\Laguerre-ACS1 A50,H4: loaded successfully
+2	22:37:22.688	Custom indicator MACD A50,H4: loaded successfully
+2	22:37:22.860	Custom indicator 小鱼\Laguerre-ACS1 CHINA300,H4: loaded successfully
+2	22:37:22.891	Custom indicator MACD CHINA300,H4: loaded successfully
+2	22:37:23.047	Custom indicator 小鱼\Laguerre-ACS1 XAUUSD,Daily: loaded successfully
+2	22:37:23.063	Custom indicator MACD XAUUSD,Daily: loaded successfully
+2	22:37:23.235	Custom indicator 小鱼\Laguerre-ACS1 US_OIL,Daily: loaded successfully
+2	22:37:23.250	Custom indicator MACD US_OIL,Daily: loaded successfully
+0	22:37:26.456	'120010550': login on PRC-Live through Server 3 (ping: 46.22 ms)
+0	22:37:43.336	'120010550': login datacenter on PRC-Live through Server 3 (ping: 46.22 ms)
+0	22:37:47.866	'120010550': previous successful authorization performed from 106.181.133.61
+0	22:39:37.200	'120010550': auto connecting to a better access point Server 5 (ping is 577.32 ms)
+0	22:39:40.995	'120010550': login on PRC-Live through Server 5 (ping: 577.32 ms)
+0	22:39:52.336	'120010550': login datacenter on PRC-Live through Server 5 (ping: 577.32 ms)
+0	22:39:55.771	'120010550': previous successful authorization performed from 106.181.131.98
+1	23:22:33.748	'120010550': datacenter connecting failed [6]
+0	23:22:35.632	'120010550': login on PRC-Live through Server 5 (ping: 577.32 ms)
+0	23:22:37.731	'120010550': login datacenter on PRC-Live through Server 5 (ping: 577.32 ms)
+0	23:22:38.440	'120010550': previous successful authorization performed from 106.181.131.98

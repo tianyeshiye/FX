@@ -1,0 +1,161 @@
+0	09:19:25.972	FX Trader build 1170 started (Performance Ronnaru Capital Ltd.)
+0	09:19:25.973	Windows 10 Home x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 26726 / 32639 Mb, Disk: 129 / 264 Gb, GMT+8
+0	09:19:25.973	Data Folder: C:\Users\tiany\AppData\Roaming\MetaQuotes\Terminal\79214103E7A6FC97F86082D309D0B84B
+2	09:19:27.916	Custom indicator SupResZone_MTF USDXXX,Daily: loaded successfully
+2	09:19:27.926	Custom indicator SupResZone_MTF USDXXX,Daily: loaded successfully
+2	09:19:27.937	Custom indicator SupResZone_MTF USDXXX,Daily: loaded successfully
+2	09:19:27.948	Custom indicator SupResZone_MTF USDXXX,Daily: loaded successfully
+2	09:19:27.957	Custom indicator MACD-2x USDXXX,Daily: loaded successfully
+2	09:19:28.030	Custom indicator Laguerre-ACS1 USDXXX,Daily: loaded successfully
+2	09:19:28.212	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+2	09:19:28.222	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+2	09:19:28.232	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+2	09:19:28.243	Custom indicator SupResZone_MTF XAUUSD.,H4: loaded successfully
+2	09:19:28.253	Custom indicator MACD-2x XAUUSD.,H4: loaded successfully
+2	09:19:28.322	Custom indicator Laguerre-ACS1 XAUUSD.,H4: loaded successfully
+2	09:19:28.528	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	09:19:28.540	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	09:19:28.549	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	09:19:28.559	Custom indicator SupResZone_MTF XAGUSD.,H1: loaded successfully
+2	09:19:28.569	Custom indicator MACD-2x XAGUSD.,H1: loaded successfully
+2	09:19:28.638	Custom indicator Laguerre-ACS1 XAGUSD.,H1: loaded successfully
+2	09:19:28.839	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	09:19:28.855	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	09:19:28.866	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	09:19:28.876	Custom indicator SupResZone_MTF US_OIL,H4: loaded successfully
+2	09:19:28.886	Custom indicator MACD-2x US_OIL,H4: loaded successfully
+2	09:19:28.960	Custom indicator Laguerre-ACS1 US_OIL,H4: loaded successfully
+2	09:19:29.181	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	09:19:29.190	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	09:19:29.201	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	09:19:29.210	Custom indicator SupResZone_MTF JP225,H1: loaded successfully
+2	09:19:29.220	Custom indicator MACD-2x JP225,H1: loaded successfully
+2	09:19:29.291	Custom indicator Laguerre-ACS1 JP225,H1: loaded successfully
+2	09:19:29.574	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+2	09:19:29.585	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+2	09:19:29.594	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+2	09:19:29.605	Custom indicator SupResZone_MTF SPX500,H4: loaded successfully
+2	09:19:29.616	Custom indicator MACD-2x SPX500,H4: loaded successfully
+2	09:19:29.685	Custom indicator Laguerre-ACS1 SPX500,H4: loaded successfully
+2	09:19:29.906	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+2	09:19:29.918	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+2	09:19:29.929	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+2	09:19:29.938	Custom indicator SupResZone_MTF EURAUD.,H4: loaded successfully
+2	09:19:29.947	Custom indicator MACD-2x EURAUD.,H4: loaded successfully
+2	09:19:30.019	Custom indicator Laguerre-ACS1 EURAUD.,H4: loaded successfully
+2	09:19:30.228	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	09:19:30.238	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	09:19:30.248	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	09:19:30.257	Custom indicator SupResZone_MTF AUDJPY.,Daily: loaded successfully
+2	09:19:30.267	Custom indicator MACD-2x AUDJPY.,Daily: loaded successfully
+2	09:19:30.347	Custom indicator Laguerre-ACS1 AUDJPY.,Daily: loaded successfully
+2	09:19:30.516	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	09:19:30.526	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	09:19:30.537	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	09:19:30.547	Custom indicator SupResZone_MTF AUDUSD.,Daily: loaded successfully
+2	09:19:30.557	Custom indicator MACD-2x AUDUSD.,Daily: loaded successfully
+2	09:19:30.629	Custom indicator Laguerre-ACS1 AUDUSD.,Daily: loaded successfully
+2	09:19:30.825	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	09:19:30.836	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	09:19:30.846	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	09:19:30.856	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	09:19:30.868	Custom indicator MACD-2x USDJPY.,H4: loaded successfully
+2	09:19:30.938	Custom indicator Laguerre-ACS1 USDJPY.,H4: loaded successfully
+2	09:19:31.198	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	09:19:31.208	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	09:19:31.218	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	09:19:31.229	Custom indicator SupResZone_MTF EURJPY.,H4: loaded successfully
+2	09:19:31.238	Custom indicator MACD-2x EURJPY.,H4: loaded successfully
+2	09:19:31.308	Custom indicator Laguerre-ACS1 EURJPY.,H4: loaded successfully
+2	09:19:31.570	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+2	09:19:31.580	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+2	09:19:31.590	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+2	09:19:31.602	Custom indicator SupResZone_MTF EURUSD.,H4: loaded successfully
+2	09:19:31.612	Custom indicator MACD-2x EURUSD.,H4: loaded successfully
+2	09:19:31.684	Custom indicator Laguerre-ACS1 EURUSD.,H4: loaded successfully
+2	09:19:31.928	Custom indicator SupResZone_MTF GBPJPY.,H4: loaded successfully
+2	09:19:31.939	Custom indicator SupResZone_MTF GBPJPY.,H4: loaded successfully
+2	09:19:31.950	Custom indicator SupResZone_MTF GBPJPY.,H4: loaded successfully
+2	09:19:31.960	Custom indicator SupResZone_MTF GBPJPY.,H4: loaded successfully
+2	09:19:31.970	Custom indicator MACD-2x GBPJPY.,H4: loaded successfully
+2	09:19:32.046	Custom indicator Laguerre-ACS1 GBPJPY.,H4: loaded successfully
+2	09:19:32.277	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+2	09:19:32.289	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+2	09:19:32.300	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+2	09:19:32.310	Custom indicator SupResZone_MTF GBPUSD.,H4: loaded successfully
+2	09:19:32.322	Custom indicator MACD-2x GBPUSD.,H4: loaded successfully
+2	09:19:32.394	Custom indicator Laguerre-ACS1 GBPUSD.,H4: loaded successfully
+2	09:19:32.622	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	09:19:32.634	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	09:19:32.645	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	09:19:32.656	Custom indicator SupResZone_MTF USDCAD.,H4: loaded successfully
+2	09:19:32.667	Custom indicator MACD-2x USDCAD.,H4: loaded successfully
+2	09:19:32.741	Custom indicator Laguerre-ACS1 USDCAD.,H4: loaded successfully
+2	09:19:32.930	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	09:19:32.941	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	09:19:32.952	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	09:19:32.964	Custom indicator SupResZone_MTF USDCHF.,H4: loaded successfully
+2	09:19:32.975	Custom indicator MACD-2x USDCHF.,H4: loaded successfully
+2	09:19:33.045	Custom indicator Laguerre-ACS1 USDCHF.,H4: loaded successfully
+2	09:19:33.232	Custom indicator SupResZone_MTF USDCNH,Daily: loaded successfully
+2	09:19:33.241	Custom indicator SupResZone_MTF USDCNH,Daily: loaded successfully
+2	09:19:33.252	Custom indicator SupResZone_MTF USDCNH,Daily: loaded successfully
+2	09:19:33.263	Custom indicator SupResZone_MTF USDCNH,Daily: loaded successfully
+2	09:19:33.272	Custom indicator MACD-2x USDCNH,Daily: loaded successfully
+2	09:19:33.349	Custom indicator Laguerre-ACS1 USDCNH,Daily: loaded successfully
+2	09:19:33.543	Custom indicator GMMA Long USDJPY.,H4: loaded successfully
+2	09:19:33.552	Custom indicator GMMA Short USDJPY.,H4: loaded successfully
+2	09:19:33.560	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H4: loaded successfully
+2	09:19:33.568	Custom indicator 23MTF_MovingAverageIGOR USDJPY.,H4: loaded successfully
+2	09:19:33.578	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	09:19:33.588	Custom indicator SupResZone_MTF USDJPY.,H4: loaded successfully
+2	09:19:33.598	Custom indicator MACD-2x USDJPY.,H4: loaded successfully
+2	09:19:33.830	Custom indicator SupResZone_MTF CHINA300,Daily: loaded successfully
+2	09:19:33.840	Custom indicator SupResZone_MTF CHINA300,Daily: loaded successfully
+2	09:19:33.853	Custom indicator SupResZone_MTF CHINA300,Daily: loaded successfully
+2	09:19:33.863	Custom indicator SupResZone_MTF CHINA300,Daily: loaded successfully
+2	09:19:33.873	Custom indicator MACD-2x CHINA300,Daily: loaded successfully
+2	09:19:33.945	Custom indicator Laguerre-ACS1 CHINA300,Daily: loaded successfully
+2	09:19:34.138	Custom indicator 23MTF_MovingAverageIGOR CADJPY.,H1: loaded successfully
+2	09:19:34.151	Custom indicator ADR CADJPY.,H1: loaded successfully
+2	09:19:34.160	Custom indicator SupResZone_MTF CADJPY.,H1: loaded successfully
+2	09:19:34.231	Custom indicator Laguerre-ACS1 CADJPY.,H1: loaded successfully
+2	09:19:34.241	Custom indicator MACD-2x CADJPY.,H1: loaded successfully
+0	09:19:36.474	'120010550': login on PRC-Live through Server 5 (ping: 97.25 ms)
+0	09:19:37.696	'120010550': login datacenter on PRC-Live through Server 5 (ping: 97.25 ms)
+0	09:19:38.029	'120010550': previous successful authorization performed from 101.131.181.27
+0	09:20:09.786	'120010550': ping to current access point Server 5 is 96.42 ms
+1	12:17:24.606	'120010550': ping failed
+0	12:17:28.296	'120010550': login on PRC-Live through Server 3 (ping: 112.18 ms)
+0	12:17:30.066	'120010550': login datacenter on PRC-Live through Server 3 (ping: 112.18 ms)
+0	12:17:30.815	'120010550': previous successful authorization performed from 101.131.181.27
+0	12:18:12.229	'120010550': auto connecting to a better access point Server 5 (ping is 96.28 ms)
+0	12:18:13.281	'120010550': login on PRC-Live through Server 5 (ping: 96.28 ms)
+0	12:18:16.212	'120010550': login datacenter on PRC-Live through Server 5 (ping: 96.28 ms)
+0	12:18:16.585	'120010550': previous successful authorization performed from 42.101.65.200
+1	14:17:37.626	'120010550': ping failed
+0	14:17:47.275	'120010550': login on PRC-Live through Server 3 (ping: 116.28 ms)
+0	14:18:53.307	'120010550': login on PRC-Live through Server 6 (ping: 140.41 ms)
+0	14:19:17.328	'120010550': login datacenter on PRC-Live through Server 6 (ping: 140.41 ms)
+0	14:19:24.294	'120010550': login on PRC-Live through Server 6 (ping: 140.41 ms)
+0	14:19:58.716	'120010550': auto connecting to a better access point Server 5 (ping is 97.24 ms)
+0	14:20:03.619	'120010550': login on PRC-Live through Server 5 (ping: 97.24 ms)
+0	14:20:04.960	'120010550': login datacenter on PRC-Live through Server 5 (ping: 97.24 ms)
+0	14:20:05.398	'120010550': previous successful authorization performed from 42.101.65.200
+1	19:54:27.591	'120010550': ping failed
+0	19:54:37.567	'120010550': login on PRC-Live through Server 3 (ping: 113.44 ms)
+0	19:54:39.899	'120010550': login datacenter on PRC-Live through Server 3 (ping: 113.44 ms)
+0	19:54:45.366	'120010550': previous successful authorization performed from 101.131.181.27
+0	19:55:08.601	'120010550': auto connecting to a better access point Server 5 (ping is 97.49 ms)
+0	19:55:09.451	'120010550': login on PRC-Live through Server 5 (ping: 97.49 ms)
+0	19:55:13.899	'120010550': login datacenter on PRC-Live through Server 5 (ping: 97.49 ms)
+0	19:55:14.409	'120010550': previous successful authorization performed from 42.101.65.200
+1	21:16:40.586	'120010550': ping failed
+0	21:17:36.632	'120010550': login on PRC-Live through Server 1 (ping: 170.86 ms)
+0	21:18:42.556	'120010550': login on PRC-Live through Server 3 (ping: 203.22 ms)
+0	21:18:44.782	'120010550': login datacenter on PRC-Live through Server 3 (ping: 203.22 ms)
+0	21:18:45.483	'120010550': previous successful authorization performed from 42.101.65.200
+0	21:19:07.729	'120010550': auto connecting to a better access point Server 5 (ping is 96.84 ms)
+0	21:19:08.595	'120010550': login on PRC-Live through Server 5 (ping: 96.84 ms)
+0	21:19:10.504	'120010550': login datacenter on PRC-Live through Server 5 (ping: 96.84 ms)
+0	21:19:11.002	'120010550': previous successful authorization performed from 42.101.65.200

@@ -1,0 +1,81 @@
+2	01:29:33.338	Custom indicator Laguerre-ACS1 USDJPY,H4: removed
+2	01:29:33.341	Custom indicator MACD USDJPY,H4: removed
+2	01:29:33.353	Custom indicator Laguerre-ACS1 EURJPY,H4: removed
+2	01:29:33.354	Custom indicator MACD EURJPY,H4: removed
+2	01:29:33.357	Custom indicator Laguerre-ACS1 EURUSD,H4: removed
+2	01:29:33.359	Custom indicator MACD EURUSD,H4: removed
+2	01:29:33.364	Custom indicator Laguerre-ACS1 GBPUSD,H4: removed
+2	01:29:33.367	Custom indicator MACD GBPUSD,H4: removed
+2	01:29:33.405	Custom indicator Laguerre-ACS1 GBPJPY,H4: removed
+2	01:29:33.407	Custom indicator MACD GBPJPY,H4: removed
+2	01:29:33.418	Custom indicator Laguerre-ACS1 JP225,H4: removed
+2	01:29:33.420	Custom indicator MACD JP225,H4: removed
+2	01:29:33.442	Custom indicator Laguerre-ACS1 NDX100,H4: removed
+2	01:29:33.444	Custom indicator MACD NDX100,H4: removed
+2	01:29:33.449	Custom indicator Laguerre-ACS1 SPX500,H4: removed
+2	01:29:33.451	Custom indicator MACD SPX500,H4: removed
+2	01:29:33.471	Custom indicator Laguerre-ACS1 A50,H1: removed
+2	01:29:33.473	Custom indicator MACD A50,H1: removed
+2	01:29:33.500	Custom indicator Laguerre-ACS1 CHINA300,H4: removed
+2	01:29:33.502	Custom indicator MACD CHINA300,H4: removed
+2	01:29:33.523	Custom indicator Laguerre-ACS1 XAUUSD,Daily: removed
+2	01:29:33.525	Custom indicator MACD XAUUSD,Daily: removed
+2	01:29:33.535	Custom indicator Laguerre-ACS1 US_OIL,Daily: removed
+2	01:29:33.538	Custom indicator MACD US_OIL,Daily: removed
+0	01:29:33.932	FX Trader build 1170 stopped
+0	20:33:24.705	FX Trader build 1170 started (Performance Ronnaru Capital Ltd.)
+0	20:33:24.706	Windows 10 Home x64, IE 11, UAC, 8 x Intel Core i7-6700HQ  @ 2.60GHz, Memory: 26390 / 32639 Mb, Disk: 147 / 264 Gb, GMT+9
+0	20:33:24.706	Data Folder: C:\Users\tiany\AppData\Roaming\MetaQuotes\Terminal\79214103E7A6FC97F86082D309D0B84B
+2	20:33:28.684	Custom indicator 小鱼\Laguerre-ACS1 USDJPY,H4: loaded successfully
+2	20:33:28.720	Custom indicator MACD USDJPY,H4: loaded successfully
+2	20:33:28.856	Custom indicator 小鱼\Laguerre-ACS1 EURJPY,H4: loaded successfully
+2	20:33:28.868	Custom indicator MACD EURJPY,H4: loaded successfully
+2	20:33:28.996	Custom indicator 小鱼\Laguerre-ACS1 EURUSD,H4: loaded successfully
+2	20:33:29.009	Custom indicator MACD EURUSD,H4: loaded successfully
+2	20:33:29.155	Custom indicator 小鱼\Laguerre-ACS1 GBPUSD,H4: loaded successfully
+2	20:33:29.167	Custom indicator MACD GBPUSD,H4: loaded successfully
+2	20:33:29.307	Custom indicator 小鱼\Laguerre-ACS1 GBPJPY,H4: loaded successfully
+2	20:33:29.319	Custom indicator MACD GBPJPY,H4: loaded successfully
+2	20:33:29.487	Custom indicator 小鱼\Laguerre-ACS1 JP225,H4: loaded successfully
+2	20:33:29.499	Custom indicator MACD JP225,H4: loaded successfully
+2	20:33:29.723	Custom indicator 小鱼\Laguerre-ACS1 NDX100,H4: loaded successfully
+2	20:33:29.738	Custom indicator MACD NDX100,H4: loaded successfully
+2	20:33:29.863	Custom indicator 小鱼\Laguerre-ACS1 SPX500,H4: loaded successfully
+2	20:33:29.877	Custom indicator MACD SPX500,H4: loaded successfully
+2	20:33:30.005	Custom indicator 小鱼\Laguerre-ACS1 A50,H1: loaded successfully
+2	20:33:30.016	Custom indicator MACD A50,H1: loaded successfully
+2	20:33:30.172	Custom indicator 小鱼\Laguerre-ACS1 CHINA300,H4: loaded successfully
+2	20:33:30.188	Custom indicator MACD CHINA300,H4: loaded successfully
+2	20:33:30.340	Custom indicator 小鱼\Laguerre-ACS1 XAUUSD,Daily: loaded successfully
+2	20:33:30.353	Custom indicator MACD XAUUSD,Daily: loaded successfully
+2	20:33:30.503	Custom indicator 小鱼\Laguerre-ACS1 US_OIL,Daily: loaded successfully
+2	20:33:30.518	Custom indicator MACD US_OIL,Daily: loaded successfully
+0	20:33:32.083	'120010550': login on PRC-Live through Server 3 (ping: 79.24 ms)
+0	20:33:32.889	'120010550': login datacenter on PRC-Live through Server 3 (ping: 79.24 ms)
+0	20:33:34.329	'120010550': previous successful authorization performed from 106.181.125.45
+0	20:34:34.490	'120010550': ping to current access point Server 3 is 46.22 ms
+2	23:44:03.248	Custom indicator Laguerre-ACS1 USDJPY,H4: removed
+2	23:44:03.256	Custom indicator MACD USDJPY,H4: removed
+2	23:44:03.322	Custom indicator Laguerre-ACS1 EURJPY,H4: removed
+2	23:44:03.327	Custom indicator MACD EURJPY,H4: removed
+2	23:44:03.392	Custom indicator Laguerre-ACS1 EURUSD,H4: removed
+2	23:44:03.398	Custom indicator MACD EURUSD,H4: removed
+2	23:44:03.461	Custom indicator Laguerre-ACS1 GBPUSD,H1: removed
+2	23:44:03.469	Custom indicator MACD GBPUSD,H1: removed
+2	23:44:04.004	Custom indicator Laguerre-ACS1 GBPJPY,H4: removed
+2	23:44:04.010	Custom indicator MACD GBPJPY,H4: removed
+2	23:44:04.244	Custom indicator Laguerre-ACS1 JP225,H4: removed
+2	23:44:04.246	Custom indicator MACD JP225,H4: removed
+2	23:44:04.258	Custom indicator Laguerre-ACS1 NDX100,H4: removed
+2	23:44:04.260	Custom indicator MACD NDX100,H4: removed
+2	23:44:04.276	Custom indicator Laguerre-ACS1 SPX500,H4: removed
+2	23:44:04.279	Custom indicator MACD SPX500,H4: removed
+2	23:44:04.295	Custom indicator Laguerre-ACS1 A50,H4: removed
+2	23:44:04.299	Custom indicator MACD A50,H4: removed
+2	23:44:04.314	Custom indicator Laguerre-ACS1 CHINA300,H4: removed
+2	23:44:04.316	Custom indicator MACD CHINA300,H4: removed
+2	23:44:04.330	Custom indicator Laguerre-ACS1 XAUUSD,Daily: removed
+2	23:44:04.332	Custom indicator MACD XAUUSD,Daily: removed
+2	23:44:04.361	Custom indicator Laguerre-ACS1 US_OIL,Daily: removed
+2	23:44:04.363	Custom indicator MACD US_OIL,Daily: removed
+0	23:44:06.024	FX Trader build 1170 stopped
