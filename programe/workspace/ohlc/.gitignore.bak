@@ -17,7 +17,6 @@ RemoteSystemsTempFiles
 *.iws
 .idea/
 out/
-data/
 
 # Mac
 .DS_Store
