@@ -18,7 +18,7 @@ public class MacdPostiveNegativeSwitch extends MacdParent {
 	public boolean isBull(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean) {
 
 		// 由 负 -> 正
-		if ((currentBean.getDif() > 0 && before1Bean.getDif() == 0 && before2Bean.getDif() < 0)
+		if ((currentBean.getDif() == 0 && before1Bean.getDif() < 0)
 				|| (currentBean.getDif() > 0 && before1Bean.getDif() < 0)) {
 			return true;
 		} else {
@@ -31,7 +31,7 @@ public class MacdPostiveNegativeSwitch extends MacdParent {
 	public boolean isBear(MacdDataBean currentBean, MacdDataBean before1Bean, MacdDataBean before2Bean) {
 
 		// 由 正 -> 负
-		if ((currentBean.getDif() < 0 && before1Bean.getDif() == 0 && before2Bean.getDif() > 0)
+		if ((currentBean.getDif() == 0 && before1Bean.getDif() > 0)
 				|| (currentBean.getDif() < 0 && before1Bean.getDif() > 0)) {
 			return true;
 		} else {

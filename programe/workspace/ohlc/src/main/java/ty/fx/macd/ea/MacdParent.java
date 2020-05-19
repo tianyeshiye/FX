@@ -15,17 +15,17 @@ public abstract class MacdParent {
 
 		DECIMAL_POINT = decimalPointPara;
 
-		String decima = "1";
+//		String decima = "1";
+//
+//		for (int i = 0; i < decimalPointPara; i++) {
+//			decima += "0";
+//		}
 
-		for (int i = 0; i < decimalPointPara; i++) {
-			decima += "0";
-		}
-
-		BigDecimal a = new BigDecimal(zhiyingPoint).setScale(decimalPointPara, BigDecimal.ROUND_DOWN);
-		BigDecimal b = new BigDecimal(decima).setScale(decimalPointPara, BigDecimal.ROUND_DOWN);
+//		BigDecimal a = new BigDecimal(zhiyingPoint).setScale(decimalPointPara, BigDecimal.ROUND_DOWN);
+//		BigDecimal b = new BigDecimal(decima).setScale(decimalPointPara, BigDecimal.ROUND_DOWN);
 
 		// 止盈的具体数值
-		maxIntervalStopValue = a.divide(b).floatValue();
+//		maxIntervalStopValue = a.divide(b).floatValue();
 	}
 
 	public static int DECIMAL_POINT = 0;
@@ -43,8 +43,8 @@ public abstract class MacdParent {
 
 	MacdDataBean jinChangBean = null;
 	TradeType jinChangType = TradeType.HOLD_NULL; // "买， 卖"
-	MacdDataBean maxIntervalBean = null; // 最大间隔 判断进场后是否能盈利的概率
-	float maxIntervalStopValue = 0L; // 最大间隔 判断进场后是否能盈利的概率
+//	MacdDataBean maxIntervalBean = null; // 最大间隔 判断进场后是否能盈利的概率
+//	float maxIntervalStopValue = 0L; // 最大间隔 判断进场后是否能盈利的概率
 
 	public void jinChang(MacdDataBean currentBean, TradeType type, List<String> logList) {
 
@@ -91,8 +91,8 @@ public abstract class MacdParent {
 		macdResultBean.setPoint(jiesuan);
 
 		// setMaxPoint 设置进场后，最大间隔 判断进场后是否能盈利的概率
-		float maxIntervalValue = computeMaxIntervalValue();
-		macdResultBean.setMaxPoint(maxIntervalValue);
+//		float maxIntervalValue = computeMaxIntervalValue();
+//		macdResultBean.setMaxPoint(maxIntervalValue);
 
 		if (jiesuan >= 0) {
 			macdResultBean.setYK("盈");
@@ -102,14 +102,13 @@ public abstract class MacdParent {
 			winTimeIntervalList.add(this.timesInterval);
 			winPointList.add(jiesuan);
 
-			if (maxIntervalValue <= maxIntervalStopValue) {
-
-				logList.add(type.getDesc() + "," + currentBean.toString() + ",盈" + ",1" + "," + this.timesInterval + ","
-						+ maxIntervalValue + "," + maxIntervalStopValue);
-			} else {
-				logList.add(type.getDesc() + "," + currentBean.toString() + ",盈" + ",1" + "," + this.timesInterval + ","
-						+ maxIntervalValue);
-			}
+//			if (maxIntervalValue <= maxIntervalStopValue) {
+//
+//				logList.add(type.getDesc() + "," + currentBean.toString() + ",盈" + ",1" + "," + this.timesInterval + ","
+//						+ maxIntervalValue + "," + maxIntervalStopValue);
+//			} else {
+				logList.add(type.getDesc() + "," + currentBean.toString() + ",盈" + ",1" + "," + this.timesInterval + ",");
+//			}
 
 		} else {
 			macdResultBean.setYK("亏");
@@ -118,13 +117,12 @@ public abstract class MacdParent {
 			loseTimeIntervalList.add(this.timesInterval);
 			losePointList.add(jiesuan);
 
-			if (maxIntervalValue <= maxIntervalStopValue) {
-				logList.add(type.getDesc() + "," + currentBean.toString() + ",亏" + ",-1" + "," + this.timesInterval
-						+ "," + maxIntervalValue + "," + maxIntervalStopValue);
-			} else {
-				logList.add(type.getDesc() + "," + currentBean.toString() + ",亏" + ",-1" + "," + this.timesInterval
-						+ "," + maxIntervalValue);
-			}
+//			if (maxIntervalValue <= maxIntervalStopValue) {
+//				logList.add(type.getDesc() + "," + currentBean.toString() + ",亏" + ",-1" + "," + this.timesInterval
+//						+ "," + maxIntervalValue + "," + maxIntervalStopValue);
+//			} else {
+				logList.add(type.getDesc() + "," + currentBean.toString() + ",亏" + ",-1" + "," + this.timesInterval);
+//			}
 		}
 
 		// 结果list 增加
@@ -152,18 +150,18 @@ public abstract class MacdParent {
 			break;
 		case JIN_Duo:
 			// 进 - 买
-			float currentMaxHigh = maxIntervalBean.getHigh();
-			BigDecimal maxHighVal = new BigDecimal(currentMaxHigh).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
+//			float currentMaxHigh = maxIntervalBean.getHigh();
+//			BigDecimal maxHighVal = new BigDecimal(currentMaxHigh).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
 
-			returnMaxIntervalVal = maxHighVal.subtract(openVal).floatValue();
+//			returnMaxIntervalVal = maxHighVal.subtract(openVal).floatValue();
 
 			break;
 		case JIN_Kong:
 			// 进 - 卖
-			float currentMaxLow = maxIntervalBean.getLow();
-			BigDecimal maxLowVal = new BigDecimal(currentMaxLow).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
+//			float currentMaxLow = maxIntervalBean.getLow();
+//			BigDecimal maxLowVal = new BigDecimal(currentMaxLow).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
 
-			returnMaxIntervalVal = openVal.subtract(maxLowVal).floatValue();
+//			returnMaxIntervalVal = openVal.subtract(maxLowVal).floatValue();
 
 			break;
 		}
@@ -171,40 +169,40 @@ public abstract class MacdParent {
 		return returnMaxIntervalVal;
 	}
 
-	private void computeMaxIntervalBean(MacdDataBean currentBean) {
-
-		// 进场后的第二根K线为开始
-		if (this.maxIntervalBean == null) {
-
-			// 进场 最大间隔 判断进场后是否能盈利的概率
-			this.maxIntervalBean = currentBean;
-			return;
-		}
-
-		switch (this.jinChangType) {
-		case HOLD_NULL:
-			// 空仓
-			break;
-		case JIN_Duo:
-			// 进 - 买
-			float currentMAxHigh = maxIntervalBean.getHigh();
-			float newHigh = currentBean.getHigh();
-
-			if (Float.compare(newHigh, currentMAxHigh) > 0) {
-				maxIntervalBean = currentBean;
-			}
-			break;
-		case JIN_Kong:
-			// 进 - 卖
-			float currentMAxLow = maxIntervalBean.getLow();
-			float newLow = currentBean.getLow();
-
-			if (Float.compare(newLow, currentMAxLow) < 0) {
-				maxIntervalBean = currentBean;
-			}
-			break;
-		}
-	}
+//	private void computeMaxIntervalBean(MacdDataBean currentBean) {
+//
+//		// 进场后的第二根K线为开始
+//		if (this.maxIntervalBean == null) {
+//
+//			// 进场 最大间隔 判断进场后是否能盈利的概率
+//			this.maxIntervalBean = currentBean;
+//			return;
+//		}
+//
+//		switch (this.jinChangType) {
+//		case HOLD_NULL:
+//			// 空仓
+//			break;
+//		case JIN_Duo:
+//			// 进 - 买
+//			float currentMAxHigh = maxIntervalBean.getHigh();
+//			float newHigh = currentBean.getHigh();
+//
+//			if (Float.compare(newHigh, currentMAxHigh) > 0) {
+//				maxIntervalBean = currentBean;
+//			}
+//			break;
+//		case JIN_Kong:
+//			// 进 - 卖
+//			float currentMAxLow = maxIntervalBean.getLow();
+//			float newLow = currentBean.getLow();
+//
+//			if (Float.compare(newLow, currentMAxLow) < 0) {
+//				maxIntervalBean = currentBean;
+//			}
+//			break;
+//		}
+//	}
 
 	public List<String> ea(List<MacdDataBean> beanList, List<MacdResultBean> resulList) {
 
@@ -232,11 +230,11 @@ public abstract class MacdParent {
 			MacdDataBean currentBean = beanList.get(i);
 
 			// 计算 最大间隔 判断进场后是否能盈利的概率
-			computeMaxIntervalBean(currentBean);
+//			computeMaxIntervalBean(currentBean);
 
 			this.timesInterval++;
 
-			boolean gangJinChang = false;
+//			boolean gangJinChang = false;
 			
 			// 由 负 -> 正
 			if (isBull(currentBean, before1Bean, before2Bean)) {
@@ -249,7 +247,7 @@ public abstract class MacdParent {
 				// 进场 - 买
 				jinChang(currentBean, TradeType.JIN_Duo, logList);
 				
-				gangJinChang = true;
+//				gangJinChang = true;
 			}
 			// 由 正 -> 负
 			if (isBear(currentBean, before1Bean, before2Bean)) {
@@ -262,24 +260,24 @@ public abstract class MacdParent {
 				// 进场 - 卖
 				jinChang(currentBean, TradeType.JIN_Kong, logList);
 				
-				gangJinChang = true;
+//				gangJinChang = true;
 			}
 
-			// 已持有 判断止盈止损
-			if (!gangJinChang && jinChangBean != null) {
-
-				// 止损
-				if (isStopLoss(currentBean, before1Bean, before2Bean)) {
-
-				}
-
-				// 止盈
-				if (isTargetProfit(currentBean, before1Bean, before2Bean)) {
-
-					// 出场 - 止盈
-					chuChang(currentBean, TradeType.CHU_ZhiYing, logList, resulList);
-				}
-			}
+//			// 已持有 判断止盈止损
+//			if (!gangJinChang && jinChangBean != null) {
+//
+//				// 止损
+//				if (isStopLoss(currentBean, before1Bean, before2Bean)) {
+//
+//				}
+//
+//				// 止盈
+//				if (isTargetProfit(currentBean, before1Bean, before2Bean)) {
+//
+//					// 出场 - 止盈
+//					chuChang(currentBean, TradeType.CHU_ZhiYing, logList, resulList);
+//				}
+//			}
 		}
 
 		print(beanList, resulList, logList);
@@ -318,7 +316,7 @@ public abstract class MacdParent {
 
 		// 最大间隔 判断进场后是否能盈利的概率
 		long winChangesSum = resulList.stream().filter(macdResultBean -> {
-			if (Float.compare(macdResultBean.getMaxPoint(), maxIntervalStopValue) > 0) {
+			if (macdResultBean.getYK().equals("盈")) {
 				return true;
 			} else {
 				return false;
@@ -328,13 +326,13 @@ public abstract class MacdParent {
 
 		logList.add("盈的概率:," + winChangesSum);
 		logList.add("亏的概率:," + loseChangesSum);
-		logList.add("止盈的值:," + maxIntervalStopValue);
+//		logList.add("止盈的值:," + maxIntervalStopValue);
 		logList.add("盈亏的概率比:," + getRate(winChangesSum, loseChangesSum));
 		logList.add("总浮亏:," + fuKui);
 
 		System.out.println("盈的概率:" + winChangesSum);
 		System.out.println("亏的概率:" + loseChangesSum);
-		System.out.println("止盈的值:" + maxIntervalStopValue);
+//		System.out.println("止盈的值:" + maxIntervalStopValue);
 		System.out.println("盈亏的概率比:" + getRate(winChangesSum, loseChangesSum));
 		System.out.println("总浮亏:" + fuKui);
 
@@ -353,7 +351,7 @@ public abstract class MacdParent {
 	private void clearCurrentStatus() {
 		this.jinChangBean = null;
 		this.jinChangType = TradeType.HOLD_NULL;
-		this.maxIntervalBean = null;
+//		this.maxIntervalBean = null;
 	}
 
 	protected void initData() {

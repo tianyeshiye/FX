@@ -14,6 +14,8 @@ public class MacdDataBean extends TimeDataBaseBean {
 	public MacdDataBean() {
 
 	}
+	
+
 
 	public MacdDataBean(TimeDataBaseBean currentTimeDataBaseBean) {
 
@@ -25,11 +27,23 @@ public class MacdDataBean extends TimeDataBaseBean {
 		this.close = currentTimeDataBaseBean.getClose();
 	}
 
-	protected float slowEMA;
-	protected float fastEMA;
+	public float slowEMA;
+	public float fastEMA;
 
-	protected float dif;
-	protected float dea;
+	public float dif;
+	public float dea;
+	
+	
+	public String toString() {
+		return "dif:" + dif + ", " + 
+				"dea:" + dea + ", " + 
+				"timeYMDHM:" + timeYMDHM + ", " + 
+				"timeH:" + timeH + ", " + 
+				"open:" + open + ", " +
+				"high:" + high + ", " + 
+				"low:" + low + ", " + 
+				"close:" + close;
+	}
 
 	public float getDif() {
 		return dif;

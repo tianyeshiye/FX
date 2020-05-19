@@ -17,7 +17,9 @@ public class MacdPostiveNegativeSwitchDriver {
 
 		MacdPostiveNegativeSwitchDriver macdPostiveNegativeSwitch = new MacdPostiveNegativeSwitchDriver();
 
-		int zhiyingPoint = 10;
+		int zhiyingPoint = 1000;
+		
+		macdPostiveNegativeSwitch.execute("AUDUSD", "H1", 5, zhiyingPoint, 30, 65, 23);
 
 		// ********** USDJPYH1-12-h1 interval
 		// // USDJPY
@@ -61,16 +63,16 @@ public class MacdPostiveNegativeSwitchDriver {
 		// 30, 65, 23);
 		// macdPostiveNegativeSwitch.execute("EURUSD", "D1", 5, zhiyingPoint,
 		// 30, 65, 23);
-
-		zhiyingPoint = 30;
-
-		// GBPJPY
-		macdPostiveNegativeSwitch.execute("GBPJPY", "H1", 3, zhiyingPoint, 12, 26, 9);
-		macdPostiveNegativeSwitch.execute("GBPJPY", "H4", 3, zhiyingPoint, 12, 26, 9);
-		macdPostiveNegativeSwitch.execute("GBPJPY", "D1", 3, zhiyingPoint, 12, 26, 9);
-		macdPostiveNegativeSwitch.execute("GBPJPY", "H1", 3, zhiyingPoint, 30, 65, 23);
-		macdPostiveNegativeSwitch.execute("GBPJPY", "H4", 3, zhiyingPoint, 30, 65, 23);
-		macdPostiveNegativeSwitch.execute("GBPJPY", "D1", 3, zhiyingPoint, 30, 65, 23);
+//
+//		zhiyingPoint = 30;
+//
+//		// GBPJPY
+//		macdPostiveNegativeSwitch.execute("GBPJPY", "H1", 3, zhiyingPoint, 12, 26, 9);
+//		macdPostiveNegativeSwitch.execute("GBPJPY", "H4", 3, zhiyingPoint, 12, 26, 9);
+//		macdPostiveNegativeSwitch.execute("GBPJPY", "D1", 3, zhiyingPoint, 12, 26, 9);
+//		macdPostiveNegativeSwitch.execute("GBPJPY", "H1", 3, zhiyingPoint, 30, 65, 23);
+//		macdPostiveNegativeSwitch.execute("GBPJPY", "H4", 3, zhiyingPoint, 30, 65, 23);
+//		macdPostiveNegativeSwitch.execute("GBPJPY", "D1", 3, zhiyingPoint, 30, 65, 23);
 		//
 		// // GBPUSD
 		// macdPostiveNegativeSwitch.execute("GBPUSD", "H1", 5, zhiyingPoint,
@@ -86,14 +88,14 @@ public class MacdPostiveNegativeSwitchDriver {
 		// macdPostiveNegativeSwitch.execute("GBPUSD", "D1", 5, zhiyingPoint,
 		// 30, 65, 23);
 		//
-		zhiyingPoint = 500;
-		// JP225
-		macdPostiveNegativeSwitch.execute("JP225", "H1", 2, zhiyingPoint, 12, 26, 9);
-		macdPostiveNegativeSwitch.execute("JP225", "H4", 2, zhiyingPoint, 12, 26, 9);
-		macdPostiveNegativeSwitch.execute("JP225", "D1", 2, zhiyingPoint, 12, 26, 9);
-		macdPostiveNegativeSwitch.execute("JP225", "H1", 2, zhiyingPoint, 30, 65, 23);
-		macdPostiveNegativeSwitch.execute("JP225", "H4", 2, zhiyingPoint, 30, 65, 23);
-		macdPostiveNegativeSwitch.execute("JP225", "D1", 2, zhiyingPoint, 30, 65, 23);
+//		zhiyingPoint = 500;
+//		// JP225
+//		macdPostiveNegativeSwitch.execute("JP225", "H1", 2, zhiyingPoint, 12, 26, 9);
+//		macdPostiveNegativeSwitch.execute("JP225", "H4", 2, zhiyingPoint, 12, 26, 9);
+//		macdPostiveNegativeSwitch.execute("JP225", "D1", 2, zhiyingPoint, 12, 26, 9);
+//		macdPostiveNegativeSwitch.execute("JP225", "H1", 2, zhiyingPoint, 30, 65, 23);
+//		macdPostiveNegativeSwitch.execute("JP225", "H4", 2, zhiyingPoint, 30, 65, 23);
+//		macdPostiveNegativeSwitch.execute("JP225", "D1", 2, zhiyingPoint, 30, 65, 23);
 	}
 
 	private void execute(String currencyPair, String interval, int decimalPointPara, int zhiyingPoint, int macdFast,

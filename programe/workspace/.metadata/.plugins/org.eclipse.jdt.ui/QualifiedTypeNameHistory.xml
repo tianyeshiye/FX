@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="ty.fx.ohlc.TimeDataBean"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.math.RoundingMode"/>
 <fullyQualifiedTypeName name="java.math.MathContext"/>
 <fullyQualifiedTypeName name="java.util.List"/>
@@ -14,7 +13,6 @@
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.nio.file.Files"/>
-<fullyQualifiedTypeName name="ty.fx.utils.ExcelFileUtils"/>
 <fullyQualifiedTypeName name="ty.fx.bean.MaiMaiType"/>
 <fullyQualifiedTypeName name="ty.fx.macd.ea.MacdWithStop"/>
 <fullyQualifiedTypeName name="ty.fx.utils.InputFileUtils"/>
@@ -24,4 +22,7 @@
 <fullyQualifiedTypeName name="ty.fx.macd.ea.Macds"/>
 <fullyQualifiedTypeName name="org.apache.commons.codec.binary.StringUtils"/>
 <fullyQualifiedTypeName name="com.google.common.base.Joiner"/>
+<fullyQualifiedTypeName name="ty.fx.utils.ExcelFileUtils"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
 </qualifiedTypeNameHistroy>

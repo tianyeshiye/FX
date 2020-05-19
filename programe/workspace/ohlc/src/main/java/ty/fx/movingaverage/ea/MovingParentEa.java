@@ -14,18 +14,6 @@ public abstract class MovingParentEa {
 	public void initConstructor(int decimalPointPara, int zhiyingPoint) {
 
 		DECIMAL_POINT = decimalPointPara;
-
-		String decima = "1";
-
-		for (int i = 0; i < decimalPointPara; i++) {
-			decima += "0";
-		}
-
-		BigDecimal a = new BigDecimal(zhiyingPoint).setScale(decimalPointPara, BigDecimal.ROUND_DOWN);
-		BigDecimal b = new BigDecimal(decima).setScale(decimalPointPara, BigDecimal.ROUND_DOWN);
-
-		// 止盈的具体数值
-		maxIntervalStopValue = a.divide(b).floatValue();
 	}
 
 	public static int DECIMAL_POINT = 0;
@@ -43,8 +31,6 @@ public abstract class MovingParentEa {
 
 	MovingAverBean jinChangBean = null;
 	TradeType jinChangType = TradeType.HOLD_NULL; // "买， 卖"
-	MovingAverBean maxIntervalBean = null; // 最大间隔 判断进场后是否能盈利的概率
-	float maxIntervalStopValue = 0L; // 最大间隔 判断进场后是否能盈利的概率
 
 	public void jinChang(MovingAverBean currentBean, TradeType type, List<String> logList) {
 
@@ -90,10 +76,6 @@ public abstract class MovingParentEa {
 		// 盈亏点数
 		movingResultBean.setPoint(jiesuan);
 
-		// setMaxPoint 设置进场后，最大间隔 判断进场后是否能盈利的概率
-		float maxIntervalValue = computeMaxIntervalValue();
-		movingResultBean.setMaxPoint(maxIntervalValue);
-
 		if (jiesuan >= 0) {
 			movingResultBean.setYK("盈");
 
@@ -102,14 +84,9 @@ public abstract class MovingParentEa {
 			winTimeIntervalList.add(this.timesInterval);
 			winPointList.add(jiesuan);
 
-			if (maxIntervalValue <= maxIntervalStopValue) {
 
-				logList.add(type.getDesc() + "," + currentBean.toString() + ",盈" + ",1" + "," + this.timesInterval + ","
-						+ maxIntervalValue + "," + maxIntervalStopValue);
-			} else {
-				logList.add(type.getDesc() + "," + currentBean.toString() + ",盈" + ",1" + "," + this.timesInterval + ","
-						+ maxIntervalValue);
-			}
+				logList.add(type.getDesc() + "," + currentBean.toString() + ",盈" + ",1" + "," + this.timesInterval);
+			
 
 		} else {
 			movingResultBean.setYK("亏");
@@ -118,13 +95,9 @@ public abstract class MovingParentEa {
 			loseTimeIntervalList.add(this.timesInterval);
 			losePointList.add(jiesuan);
 
-			if (maxIntervalValue <= maxIntervalStopValue) {
-				logList.add(type.getDesc() + "," + currentBean.toString() + ",亏" + ",-1" + "," + this.timesInterval
-						+ "," + maxIntervalValue + "," + maxIntervalStopValue);
-			} else {
-				logList.add(type.getDesc() + "," + currentBean.toString() + ",亏" + ",-1" + "," + this.timesInterval
-						+ "," + maxIntervalValue);
-			}
+
+				logList.add(type.getDesc() + "," + currentBean.toString() + ",亏" + ",-1" + "," + this.timesInterval);
+
 		}
 
 		// 结果list 增加
@@ -138,72 +111,6 @@ public abstract class MovingParentEa {
 
 		// clear current status
 		clearCurrentStatus();
-	}
-
-	private float computeMaxIntervalValue() {
-
-		float returnMaxIntervalVal = 0L;
-
-		BigDecimal openVal = new BigDecimal(jinChangBean.getClose()).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
-
-		switch (this.jinChangType) {
-		case HOLD_NULL:
-			// 空仓
-			break;
-		case JIN_Duo:
-			// 进 - 买
-			float currentMaxHigh = maxIntervalBean.getHigh();
-			BigDecimal maxHighVal = new BigDecimal(currentMaxHigh).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
-
-			returnMaxIntervalVal = maxHighVal.subtract(openVal).floatValue();
-
-			break;
-		case JIN_Kong:
-			// 进 - 卖
-			float currentMaxLow = maxIntervalBean.getLow();
-			BigDecimal maxLowVal = new BigDecimal(currentMaxLow).setScale(DECIMAL_POINT, BigDecimal.ROUND_DOWN);
-
-			returnMaxIntervalVal = openVal.subtract(maxLowVal).floatValue();
-
-			break;
-		}
-
-		return returnMaxIntervalVal;
-	}
-
-	private void computeMaxIntervalBean(MovingAverBean currentBean) {
-
-		// 进场后的第二根K线为开始
-		if (this.maxIntervalBean == null) {
-
-			// 进场 最大间隔 判断进场后是否能盈利的概率
-			this.maxIntervalBean = currentBean;
-			return;
-		}
-
-		switch (this.jinChangType) {
-		case HOLD_NULL:
-			// 空仓
-			break;
-		case JIN_Duo:
-			// 进 - 买
-			float currentMAxHigh = maxIntervalBean.getHigh();
-			float newHigh = currentBean.getHigh();
-
-			if (Float.compare(newHigh, currentMAxHigh) > 0) {
-				maxIntervalBean = currentBean;
-			}
-			break;
-		case JIN_Kong:
-			// 进 - 卖
-			float currentMAxLow = maxIntervalBean.getLow();
-			float newLow = currentBean.getLow();
-
-			if (Float.compare(newLow, currentMAxLow) < 0) {
-				maxIntervalBean = currentBean;
-			}
-			break;
-		}
 	}
 
 	public List<String> ea(List<MovingAverBean> beanList, List<MovingResultBean> resulList) {
@@ -230,9 +137,6 @@ public abstract class MovingParentEa {
 			}
 
 			MovingAverBean currentBean = beanList.get(i);
-
-			// 计算 最大间隔 判断进场后是否能盈利的概率
-			computeMaxIntervalBean(currentBean);
 
 			this.timesInterval++;
 
@@ -318,7 +222,7 @@ public abstract class MovingParentEa {
 
 		// 最大间隔 判断进场后是否能盈利的概率
 		long winChangesSum = resulList.stream().filter(movingResultBean -> {
-			if (Float.compare(movingResultBean.getMaxPoint(), maxIntervalStopValue) > 0) {
+			if (movingResultBean.getYK().equals("盈")) {
 				return true;
 			} else {
 				return false;
@@ -326,15 +230,13 @@ public abstract class MovingParentEa {
 		}).count();
 		long loseChangesSum = resulList.size() - winChangesSum;
 
-		logList.add("盈的概率:," + winChangesSum);
-		logList.add("亏的概率:," + loseChangesSum);
-		logList.add("止盈的值:," + maxIntervalStopValue);
+		logList.add("盈的次数:," + winChangesSum);
+		logList.add("亏的次数:," + loseChangesSum);
 		logList.add("盈亏的概率比:," + getRate(winChangesSum, loseChangesSum));
 		logList.add("总浮亏:," + fuKui);
 
-		System.out.println("盈的概率:" + winChangesSum);
-		System.out.println("亏的概率:" + loseChangesSum);
-		System.out.println("止盈的值:" + maxIntervalStopValue);
+		System.out.println("盈的次数:" + winChangesSum);
+		System.out.println("亏的次数:" + loseChangesSum);
 		System.out.println("盈亏的概率比:" + getRate(winChangesSum, loseChangesSum));
 		System.out.println("总浮亏:" + fuKui);
 
@@ -353,7 +255,6 @@ public abstract class MovingParentEa {
 	private void clearCurrentStatus() {
 		this.jinChangBean = null;
 		this.jinChangType = TradeType.HOLD_NULL;
-		this.maxIntervalBean = null;
 	}
 
 	protected void initData() {

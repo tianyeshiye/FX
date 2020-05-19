@@ -22,12 +22,32 @@ public class MovingAverDriver {
 		// XAUUSD 6位
 		zhiyingPoint = 500;
 
-		movingAverDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 15, 50);
-		movingAverDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 15, 50);
-		movingAverDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 15, 50);
-		movingAverDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 21, 75);
-		movingAverDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 21, 75);
-		movingAverDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 21, 75);
+		movingAverDriver.execute("AUDUSD", "H1", 5, zhiyingPoint, 15, 50);
+		movingAverDriver.execute("AUDJPY", "H1", 3, zhiyingPoint, 15, 50);
+		
+		movingAverDriver.execute("EURJPY", "H1", 3, zhiyingPoint, 15, 50);
+		movingAverDriver.execute("EURUSD", "H1", 5, zhiyingPoint, 15, 50);
+		
+		movingAverDriver.execute("GBPJPY", "H1", 3, zhiyingPoint, 15, 50);
+		movingAverDriver.execute("GBPUSD", "H1", 5, zhiyingPoint, 15, 50);
+		
+		movingAverDriver.execute("AUDUSD", "D1", 5, zhiyingPoint, 15, 50);
+		movingAverDriver.execute("AUDJPY", "D1", 3, zhiyingPoint, 15, 50);
+		
+		movingAverDriver.execute("EURJPY", "D1", 3, zhiyingPoint, 15, 50);
+		movingAverDriver.execute("EURUSD", "D1", 5, zhiyingPoint, 15, 50);
+		
+		movingAverDriver.execute("GBPJPY", "D1", 3, zhiyingPoint, 15, 50);
+		movingAverDriver.execute("GBPUSD", "D1", 5, zhiyingPoint, 15, 50);
+		
+		movingAverDriver.execute("USDJPY", "D1", 3, zhiyingPoint, 15, 50);
+		
+//		movingAverDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 15, 50);
+//		movingAverDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 15, 50);
+//		movingAverDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 15, 50);
+//		movingAverDriver.execute("XAUUSD", "H1", 2, zhiyingPoint, 21, 75);
+//		movingAverDriver.execute("XAUUSD", "H4", 2, zhiyingPoint, 21, 75);
+//		movingAverDriver.execute("XAUUSD", "D1", 2, zhiyingPoint, 21, 75);
 	}
 
 	private void execute(String currencyPair, String interval, int decimalPointPara, int zhiyingPoint, int fast,
@@ -48,7 +68,7 @@ public class MovingAverDriver {
 		System.out.println(currencyPair + interval + "-" + fast + "-" + interval);
 
 		// macdList = InputFileUtils.getInputData("data/USDJPYH1.csv");
-		baseDataList = InputFileUtils.getInputData("data/" + currencyPair + interval + ".csv");
+		baseDataList = InputFileUtils.getInputData("data/new/" + currencyPair + interval + ".csv");
 		List<MovingAverBean> movingAverBeanList = MovingAvers.calculate(baseDataList, fast, slow, decimalPointPara);
 
 		logList = instance.ea(movingAverBeanList, resulList);
